@@ -1,6 +1,6 @@
 # Project D: Mapping EU Universities & Research Groups on AI in Education (2020–2025)
 
-Data Analytics (MDE-CO-02), Fall 2026, Constructor University. Prof Mariia Snigireva.
+Data Analytics, Fall 2026, Constructor University. Prof Mariia Snigireva.
 
 Team: Khaoula Adouli, Rania Chafai, Yacine Fekih Ahmed, Nizar Ben Romdhane, Gantenapalli, Jessika Mahima Raj.
 
