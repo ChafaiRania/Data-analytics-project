@@ -1,0 +1,314 @@
+id	label	cluster	weight<Papers>	score<Avg. pub. year>
+1	21st century skills	1	20	2023.6
+2	academic dishonesty	2	39	2024.08
+3	academic integrity	2	187	2024.48
+4	academic performance	4	140	2023.34
+5	academic writing	2	49	2024.35
+6	accessibility	1	32	2024.12
+7	active learning	1	40	2023.92
+8	adaptive learning	1	105	2023.85
+9	adaptive learning systems	1	50	2023.86
+10	age differences	5	22	2023.91
+11	ai adoption barriers	2	37	2024.49
+12	ai awareness	2	24	2024.54
+13	ai chatbots	3	95	2024.35
+14	ai competencies	2	60	2024.05
+15	ai ethics	2	405	2024.36
+16	ai ethics education	1	37	2024.22
+17	ai ethics in education	2	66	2024.5
+18	ai governance	2	38	2024.47
+19	ai in teaching	2	65	2024.45
+20	ai in teaching and learning	2	20	2023.9
+21	ai knowledge	2	27	2024.11
+22	ai literacy	2	299	2024.34
+23	ai policy	2	30	2024.43
+24	ai readiness	2	20	2024.35
+25	ai regulation	2	54	2024.19
+26	ai tools	2	26	2024.38
+27	ai tutors	3	22	2024.55
+28	ai-assisted assessment	3	34	2024.26
+29	ai-assisted language learning	2	32	2023.91
+30	ai-assisted learning	1	81	2024.32
+31	ai-assisted writing	2	31	2024.26
+32	ai-generated content	2	33	2024.55
+33	ai-generated feedback	3	43	2024.63
+34	ai-generated text	3	27	2023.89
+35	algorithmic bias	2	166	2024.31
+36	algorithmic fairness	2	25	2023.92
+37	artificial intelligence adoption	5	70	2024.47
+38	artificial intelligence in healthcare	3	139	2023.75
+39	artificial intelligence in language teaching	2	23	2024.48
+40	artificial intelligence in medical education	3	47	2023.98
+41	artificial intelligence in research	2	20	2024.4
+42	artificial neural networks	4	91	2022.9
+43	assessment	2	26	2024.0
+44	assessment design	3	22	2024.41
+45	assistive technology	1	20	2023.9
+46	at-risk students	4	44	2023.25
+47	attitudes toward ai	2	74	2024.28
+48	augmented reality	1	67	2023.87
+49	automated assessment	3	71	2023.77
+50	automated essay scoring	3	20	2023.45
+51	automated feedback	3	64	2023.81
+52	automated grading	3	46	2023.87
+53	behavioral intention	5	45	2024.09
+54	big data	3	26	2022.38
+55	blended learning	4	63	2022.75
+56	bloom's taxonomy	3	31	2024.16
+57	chatbots	3	187	2023.99
+58	chatgpt	3	1034	2024.27
+59	chatgpt-3.5	3	27	2024.15
+60	chatgpt-4	3	58	2024.31
+61	chemistry education	3	25	2023.96
+62	clinical decision support	3	58	2024.14
+63	clinical decision-making	3	45	2024.09
+64	clinical implementation of ai	3	22	2023.09
+65	clinical reasoning	3	37	2024.16
+66	co-design	1	32	2023.31
+67	code generation	3	34	2024.24
+68	cognitive load	1	25	2024.0
+69	computational thinking	1	47	2023.51
+70	computer science education	3	86	2023.51
+71	computing education	3	28	2023.96
+72	conversational ai	3	22	2024.05
+73	convolutional neural networks	4	47	2022.87
+74	cooperative learning	1	95	2023.72
+75	course design	4	28	2023.29
+76	covid-19 pandemic	4	105	2022.47
+77	creativity	1	56	2024.16
+78	critical thinking	1	221	2024.32
+79	cross-national comparison	5	29	2024.24
+80	curriculum development	1	75	2023.92
+81	curriculum integration	3	20	2024.0
+82	data literacy	1	35	2023.34
+83	data privacy	2	125	2024.25
+84	data protection	2	27	2023.74
+85	data security	2	22	2024.27
+86	data-driven decision making	4	20	2022.7
+87	decision tree	4	51	2022.82
+88	deep neural network	4	22	2022.27
+89	dental education	3	29	2023.76
+90	dental students	3	20	2023.4
+91	design education	1	23	2023.83
+92	diagnostic accuracy	3	23	2023.78
+93	digital divide	2	39	2024.44
+94	digital literacy	2	82	2024.33
+95	digital skills	2	66	2024.27
+96	digital transformation	2	31	2023.71
+97	digitalization of education	1	25	2024.16
+98	distance education	4	58	2022.76
+99	early childhood education	2	23	2023.87
+100	education policy	4	35	2023.74
+101	educational attainment	5	37	2023.95
+102	educational chatbots	3	33	2023.94
+103	educational data	4	20	2022.4
+104	educational data mining	4	102	2022.7
+105	educational equity	2	64	2024.52
+106	educational innovation	2	27	2023.96
+107	educational robotics	1	31	2023.48
+108	educational technology	1	163	2023.55
+109	educational technology adoption	2	25	2023.92
+110	educational technology integration	2	23	2024.26
+111	effort expectancy	5	28	2024.32
+112	elementary school students	4	40	2023.22
+113	emotion recognition	4	35	2023.46
+114	engineering education	1	79	2023.87
+115	engineering students	1	29	2023.59
+116	english as a foreign language	2	26	2024.15
+117	ethical considerations	2	48	2024.25
+118	ethical use of ai	2	35	2024.43
+119	experiential learning	1	27	2024.19
+120	explainable ai	4	92	2023.95
+121	extended reality	1	23	2024.13
+122	eye tracking	4	30	2023.3
+123	facilitating conditions	5	21	2024.43
+124	feature importance	4	28	2023.54
+125	feature selection	4	37	2022.65
+126	first-year students	4	31	2022.97
+127	formative assessment	3	55	2023.69
+128	frequently asked questions	3	21	2024.43
+129	future of education	1	28	2023.5
+130	game-based learning	1	60	2023.52
+131	gamification	1	74	2023.81
+132	gemini	3	42	2024.83
+133	gender differences	5	133	2023.92
+134	generative ai	2	715	2024.56
+135	generative ai tools	1	28	2024.36
+136	google bard	3	20	2023.9
+137	gpt-3.5	3	29	2023.86
+138	gpt-4	3	109	2024.29
+139	gpt-4o	3	68	2024.81
+140	graduate students	3	21	2023.43
+141	hallucinations	3	32	2024.31
+142	hands-on learning	1	24	2023.21
+143	health literacy	3	21	2024.43
+144	health professions education	3	20	2023.75
+145	high school students	1	120	2023.63
+146	higher education	2	505	2023.81
+147	higher education assessment	3	20	2024.45
+148	higher education institutions	2	36	2023.56
+149	human oversight	2	28	2024.54
+150	human-ai collaboration	2	76	2024.12
+151	human-ai interaction	1	42	2024.19
+152	human-centered ai	2	20	2024.15
+153	human-centered design	1	22	2023.41
+154	immersive learning	1	22	2024.05
+155	in-service teachers	2	23	2023.96
+156	inclusive education	1	80	2024.25
+157	industry 4.0	1	24	2023.12
+158	informed consent	2	25	2023.84
+159	instructional design	1	42	2024.14
+160	intelligent tutoring systems	1	196	2023.4
+161	intention to use	5	23	2023.96
+162	interdisciplinary collaboration	1	32	2024.03
+163	internet of things	1	45	2023.02
+164	intrinsic motivation	1	20	2023.8
+165	introductory programming	3	33	2023.79
+166	junior high school students	1	32	2023.34
+167	k-12 education	1	91	2023.37
+168	k-nearest neighbors	4	20	2023.0
+169	knowledge acquisition	1	21	2023.81
+170	knowledge distillation	4	29	2023.62
+171	language teaching	2	22	2024.05
+172	large language models	3	979	2024.37
+173	large language models in education	3	24	2024.21
+174	learning analytics	4	486	2022.45
+175	learning analytics dashboards	4	70	2023.04
+176	learning design	4	22	2022.82
+177	learning outcomes	1	88	2024.03
+178	learning strategies	4	25	2023.64
+179	lesson planning	2	36	2024.56
+180	lifelong learning	1	39	2023.82
+181	logistic regression	4	25	2022.96
+182	machine learning education	1	85	2022.84
+183	machine learning in education	4	38	2023.05
+184	machine translation	2	22	2024.09
+185	mathematics education	1	47	2023.96
+186	medical education	3	200	2023.84
+187	medical licensing examinations	3	25	2023.84
+188	medical students	3	123	2023.85
+189	metacognition	1	34	2024.26
+190	microsoft copilot	3	20	2024.6
+191	misinformation	2	39	2024.31
+192	model interpretability	4	28	2023.68
+193	moocs	4	38	2022.29
+194	moodle	4	49	2023.14
+195	multimodal learning analytics	4	35	2022.54
+196	multiple-choice questions	3	35	2024.26
+197	natural language processing	3	77	2023.4
+198	novice programmers	3	25	2024.52
+199	nursing education	3	50	2024.04
+200	online courses	4	20	2021.75
+201	online learning	4	195	2022.98
+202	online learning platforms	4	38	2022.87
+203	open educational resources	1	20	2023.3
+204	overreliance on ai	1	53	2024.6
+205	patient education	3	108	2024.4
+206	perceived ease of use	5	34	2023.71
+207	perceived usefulness	5	73	2023.95
+208	performance expectancy	5	36	2024.36
+209	personalized feedback	3	68	2023.93
+210	personalized learning	1	403	2024.1
+211	physics education	3	39	2024.18
+212	plagiarism	2	48	2024.21
+213	pre-service teachers	2	120	2024.47
+214	primary education	2	46	2024.02
+215	privacy	2	36	2023.39
+216	privacy concerns	2	27	2023.59
+217	problem solving	1	26	2023.81
+218	problem-based learning	1	23	2023.52
+219	problem-solving skills	1	32	2024.28
+220	professional development	2	33	2024.09
+221	programming education	3	159	2023.87
+222	programming exercises	3	24	2024.25
+223	project-based learning	1	39	2023.85
+224	prompt engineering	3	131	2024.53
+225	prompting strategies	3	20	2024.75
+226	random forest	4	104	2022.94
+227	readability	3	45	2024.64
+228	real-time feedback	1	38	2024.42
+229	reinforcement learning	1	23	2024.22
+230	research ethics	2	22	2023.91
+231	research gaps	2	20	2023.4
+232	research trends	2	62	2023.95
+233	responsible ai	2	33	2023.88
+234	responsible ai adoption	2	24	2024.79
+235	responsible ai use	2	91	2024.62
+236	retrieval-augmented generation	3	51	2024.76
+237	scaffolding	1	25	2024.28
+238	school dropout	4	33	2022.52
+239	science education	2	22	2024.09
+240	secondary education	1	27	2023.78
+241	self-assessment	1	29	2024.07
+242	self-determination theory	1	22	2024.09
+243	self-directed learning	1	39	2024.05
+244	self-efficacy	1	51	2023.75
+245	sentiment analysis	4	32	2023.47
+246	serious games	1	38	2023.5
+247	shap	4	54	2024.15
+248	simulation-based training	3	43	2024.21
+249	social influence	5	28	2024.29
+250	social robots	3	27	2024.41
+251	soft skills	1	21	2024.0
+252	software engineering education	3	31	2024.19
+253	stakeholder engagement	2	20	2023.15
+254	stakeholder perspectives	2	20	2023.75
+255	stem education	1	59	2023.69
+256	student assessment	3	48	2023.38
+257	student attitudes	1	41	2023.93
+258	student attitudes toward ai	2	52	2024.29
+259	student behavior	4	21	2022.57
+260	student dropout prediction	4	56	2022.66
+261	student engagement	1	289	2023.85
+262	student experience	1	20	2024.1
+263	student feedback	4	50	2023.5
+264	student independence	1	34	2024.35
+265	student motivation	1	175	2023.73
+266	student participation	4	25	2022.52
+267	student perceptions	1	247	2024.05
+268	student perceptions of ai	2	32	2024.47
+269	student performance	4	45	2023.67
+270	student performance prediction	4	137	2023.17
+271	student privacy	2	22	2023.77
+272	student retention	4	41	2022.66
+273	student satisfaction	4	58	2023.67
+274	student self-regulation	4	119	2023.36
+275	student use of ai	2	33	2024.33
+276	student well-being	4	22	2024.09
+277	student-centered learning	1	31	2023.68
+278	support vector machine	4	42	2022.76
+279	surgical training	3	30	2023.97
+280	sustainability education	1	22	2023.82
+281	sustainable development goals	1	32	2024.5
+282	teacher attitudes toward ai	2	25	2024.24
+283	teacher perceptions	2	120	2024.08
+284	teacher professional development	2	269	2024.17
+285	teacher role	2	28	2024.04
+286	teacher support	4	29	2023.38
+287	teacher workload	3	24	2024.58
+288	teaching materials	1	24	2023.17
+289	teaching methods	1	55	2023.64
+290	teaching practice	2	22	2024.23
+291	teaching-learning process	2	20	2023.45
+292	technology acceptance	5	91	2024.04
+293	technology acceptance model	5	40	2024.1
+294	technology adoption	5	50	2024.12
+295	technology-enhanced learning	1	23	2023.7
+296	telemedicine	3	30	2023.03
+297	transparency	2	44	2023.93
+298	trust in ai	5	71	2024.28
+299	trustworthy ai	2	28	2023.46
+300	undergraduate students	1	51	2023.86
+301	university faculty	5	22	2023.95
+302	university students	5	298	2023.93
+303	university teaching	1	38	2023.63
+304	usability	3	31	2023.26
+305	usability evaluation	1	24	2023.58
+306	user experience	1	25	2023.92
+307	utaut	5	22	2023.95
+308	utaut2	5	23	2024.57
+309	virtual learning environments	4	118	2023.0
+310	virtual patients	3	24	2024.12
+311	virtual reality	1	90	2023.89
+312	writing skills	2	26	2024.31
+313	xgboost	4	33	2024.06

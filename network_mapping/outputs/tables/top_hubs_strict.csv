@@ -1,0 +1,16 @@
+institution_id,name,country,papers,papers_fractional,citations,partners_eu_map,strength_eu_map,betweenness_eu_map
+https://openalex.org/I861853513,Sapienza University of Rome,IT,34,12.71,1039,88.0,16.42,0.04
+https://openalex.org/I8204097,Ludwig-Maximilians-Universität München,DE,85,29.45,10689,86.0,48.51,0.06
+https://openalex.org/I182534213,Universidade do Porto,PT,37,12.47,852,79.0,13.31,0.04
+https://openalex.org/I71267560,University of Naples Federico II,IT,29,12.72,305,71.0,8.76,0.02
+https://openalex.org/I141596103,University of Lisbon,PT,31,7.55,436,66.0,15.17,0.03
+https://openalex.org/I62916508,Technical University of Munich,DE,86,37.36,11193,62.0,37.03,0.02
+https://openalex.org/I121748325,Universidad Complutense de Madrid,ES,48,21.17,1184,61.0,22.51,0.03
+https://openalex.org/I154526488,Inserm,FR,35,4.97,813,60.0,9.64,0.02
+https://openalex.org/I9360294,University of Bologna,IT,34,15.59,5640,60.0,11.25,0.02
+https://openalex.org/I1294671590,Centre National de la Recherche Scientifique,FR,47,7.48,855,59.0,16.3,0.02
+https://openalex.org/I189158943,University of Milan,IT,22,6.45,364,57.0,11.44,0.02
+https://openalex.org/I99464096,KU Leuven,BE,51,20.86,1460,55.0,16.4,0.03
+https://openalex.org/I223822909,Heidelberg University,DE,18,2.72,649,53.0,9.26,0.02
+https://openalex.org/I138689650,University of Padua,IT,27,12.24,640,52.0,6.22,0.01
+https://openalex.org/I2802164966,University Hospital Heidelberg,DE,18,4.01,632,52.0,9.61,0.01

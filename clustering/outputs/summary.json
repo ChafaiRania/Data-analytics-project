@@ -1,0 +1,160 @@
+{
+  "ALL": {
+    "papers": 10208,
+    "eu_institutions": 2742,
+    "network": {
+      "nodes_eligible": 764,
+      "edges": 6354,
+      "isolated_nodes": 14,
+      "lcc_nodes": 748,
+      "lcc_share": 0.979,
+      "modularity_best": 0.664,
+      "modularity_min_over_seeds": 0.656,
+      "n_communities": 15,
+      "n_communities_size_ge_min": 15,
+      "stability_mean_ari_vs_best": 0.871,
+      "stability_min_ari_vs_best": 0.795
+    },
+    "network_vs_country": {
+      "nmi_with_country": 0.699,
+      "nmi_null_mean": 0.091,
+      "nmi_null_p95": 0.099,
+      "ari_with_country": 0.613,
+      "ari_null_p95": 0.005,
+      "p_value_nmi": 0.005,
+      "modularity_country_partition": 0.613,
+      "within_country_weight_share": 0.704,
+      "within_country_weight_share_null_mean": 0.079,
+      "communities_main_country_share_median": 0.794,
+      "communities_over_80pct_one_country": 7,
+      "communities_counted": 15
+    },
+    "network_sensitivity_nmi_range": [
+      0.594,
+      0.715
+    ],
+    "topic": {
+      "institutions": 455,
+      "topic_columns": 28,
+      "k_chosen": 2,
+      "silhouette": 0.176,
+      "silhouette_null_max": 0.12,
+      "ari_kmeans_vs_ward": 0.596,
+      "stability_ari_seeds": 0.958
+    },
+    "topic_vs_country": {
+      "nmi_with_country": 0.061,
+      "nmi_null_mean": 0.018,
+      "nmi_null_p95": 0.027,
+      "ari_with_country": 0.002,
+      "ari_null_p95": 0.005,
+      "p_value_nmi": 0.005
+    },
+    "topic_vs_collaboration": {
+      "institutions_in_both": 449,
+      "nmi": 0.052,
+      "ari": 0.012
+    }
+  },
+  "STRICT": {
+    "papers": 5927,
+    "eu_institutions": 2152,
+    "network": {
+      "nodes_eligible": 545,
+      "edges": 4374,
+      "isolated_nodes": 10,
+      "lcc_nodes": 535,
+      "lcc_share": 0.982,
+      "modularity_best": 0.649,
+      "modularity_min_over_seeds": 0.639,
+      "n_communities": 13,
+      "n_communities_size_ge_min": 13,
+      "stability_mean_ari_vs_best": 0.732,
+      "stability_min_ari_vs_best": 0.615
+    },
+    "network_vs_country": {
+      "nmi_with_country": 0.675,
+      "nmi_null_mean": 0.112,
+      "nmi_null_p95": 0.123,
+      "ari_with_country": 0.545,
+      "ari_null_p95": 0.008,
+      "p_value_nmi": 0.005,
+      "modularity_country_partition": 0.59,
+      "within_country_weight_share": 0.695,
+      "within_country_weight_share_null_mean": 0.084,
+      "communities_main_country_share_median": 0.587,
+      "communities_over_80pct_one_country": 1,
+      "communities_counted": 13
+    },
+    "network_sensitivity_nmi_range": [
+      0.573,
+      0.693
+    ],
+    "topic": {
+      "institutions": 315,
+      "topic_columns": 15,
+      "k_chosen": 2,
+      "silhouette": 0.227,
+      "silhouette_null_max": 0.162,
+      "ari_kmeans_vs_ward": 0.385,
+      "stability_ari_seeds": 1.0
+    },
+    "topic_vs_country": {
+      "nmi_with_country": 0.09,
+      "nmi_null_mean": 0.027,
+      "nmi_null_p95": 0.04,
+      "ari_with_country": 0.013,
+      "ari_null_p95": 0.008,
+      "p_value_nmi": 0.005
+    },
+    "topic_vs_collaboration": {
+      "institutions_in_both": 312,
+      "nmi": 0.064,
+      "ari": 0.017
+    }
+  },
+  "ALL_vs_STRICT": {
+    "collaboration_institutions_in_both": 535,
+    "collaboration_ari": 0.575,
+    "collaboration_nmi": 0.685,
+    "topic_institutions_in_both": 315,
+    "topic_ari": 0.85,
+    "topic_nmi": 0.746
+  },
+  "settings": {
+    "LAYERS": [
+      "ALL",
+      "STRICT"
+    ],
+    "MIN_PAPERS_NETWORK": 5,
+    "LOUVAIN_SEEDS": 20,
+    "LOUVAIN_RESOLUTION": 1.0,
+    "MIN_COMMUNITY_SIZE": 5,
+    "SENS_MIN_PAPERS": [
+      3,
+      5,
+      10
+    ],
+    "SENS_RESOLUTIONS": [
+      0.5,
+      1.0,
+      2.0
+    ],
+    "MIN_PAPERS_TOPIC": 10,
+    "MIN_TOPIC_PAPERS": 30,
+    "K_RANGE": [
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10
+    ],
+    "KMEANS_SEEDS": 20,
+    "N_PERMUTATIONS": 200,
+    "SEED": 42
+  }
+}

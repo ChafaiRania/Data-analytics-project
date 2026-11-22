@@ -1,0 +1,841 @@
+{
+  "n_works": 10208,
+  "overall": {
+    "in_scopus": 0.5965,
+    "in_strict": 0.5806,
+    "in_strict_active": 0.5705,
+    "in_strict_q12": 0.3807,
+    "in_strict_issn_only": 0.5155,
+    "in_strict_lag": 0.5865
+  },
+  "counts": {
+    "in_scopus": 6089,
+    "in_strict": 5927,
+    "in_strict_active": 5824,
+    "in_strict_q12": 3886,
+    "in_strict_issn_only": 5262,
+    "in_strict_lag": 5987
+  },
+  "by_match_method": {
+    "issn_l": 5263,
+    "none": 4100,
+    "manual": 605,
+    "issn": 112,
+    "title_serialconf": 100,
+    "title_main_issn_miss": 17,
+    "title_main": 9,
+    "title_allconf_issn_miss": 2
+  },
+  "added_by_step": {
+    "1_issn_l": 5263,
+    "2_issn": 112,
+    "3_title_main": 9,
+    "3_title_serialconf": 100,
+    "3_title_allconf": 0,
+    "3_title_issn_miss_not_accepted": 19,
+    "4_manual": 605,
+    "note": "steps 1-3 are counted before manual decisions; a manual 'no'/'unsure' can undo a title match (see manual.title_match_overridden), so final counts are in by_match_method"
+  },
+  "in_strict_by_match_method": {
+    "issn_l": 5151,
+    "manual": 563,
+    "issn": 111,
+    "title_serialconf": 99,
+    "title_main": 3
+  },
+  "in_scopus_not_covered_in_year": 162,
+  "scopus_status_of_matched": {
+    "active": 4685,
+    "not_reported": 635,
+    "manual_check": 605,
+    "discontinued": 120,
+    "inactive": 44
+  },
+  "by_year": {
+    "2020": {
+      "n": 471,
+      "in_scopus": 0.6561,
+      "in_strict": 0.6348
+    },
+    "2021": {
+      "n": 562,
+      "in_scopus": 0.6566,
+      "in_strict": 0.6406
+    },
+    "2022": {
+      "n": 637,
+      "in_scopus": 0.6766,
+      "in_strict": 0.6609
+    },
+    "2023": {
+      "n": 1316,
+      "in_scopus": 0.6011,
+      "in_strict": 0.598
+    },
+    "2024": {
+      "n": 2730,
+      "in_scopus": 0.6168,
+      "in_strict": 0.6084
+    },
+    "2025": {
+      "n": 4492,
+      "in_scopus": 0.5577,
+      "in_strict": 0.5341
+    }
+  },
+  "by_type": {
+    "article": {
+      "n": 5777,
+      "in_scopus": 0.6948,
+      "in_strict": 0.6844
+    },
+    "book-chapter": {
+      "n": 629,
+      "in_scopus": 0.2353,
+      "in_strict": 0.2273
+    },
+    "conference-paper": {
+      "n": 2963,
+      "in_scopus": 0.5508,
+      "in_strict": 0.5194
+    },
+    "preprint": {
+      "n": 499,
+      "in_scopus": 0.0,
+      "in_strict": 0.0
+    },
+    "review": {
+      "n": 340,
+      "in_scopus": 0.8676,
+      "in_strict": 0.8559
+    }
+  },
+  "strict_vs_strict_lag_by_year": {
+    "2020": {
+      "n": 471,
+      "in_strict": 299,
+      "in_strict_lag": 302,
+      "added_by_lag": 3
+    },
+    "2021": {
+      "n": 562,
+      "in_strict": 360,
+      "in_strict_lag": 360,
+      "added_by_lag": 0
+    },
+    "2022": {
+      "n": 637,
+      "in_strict": 421,
+      "in_strict_lag": 421,
+      "added_by_lag": 0
+    },
+    "2023": {
+      "n": 1316,
+      "in_strict": 787,
+      "in_strict_lag": 787,
+      "added_by_lag": 0
+    },
+    "2024": {
+      "n": 2730,
+      "in_strict": 1661,
+      "in_strict_lag": 1669,
+      "added_by_lag": 8
+    },
+    "2025": {
+      "n": 4492,
+      "in_strict": 2399,
+      "in_strict_lag": 2448,
+      "added_by_lag": 49
+    }
+  },
+  "sjr": {
+    "works_with_sjr_row": 5308,
+    "in_strict_with_quartile": 4732,
+    "join": {
+      "scopus_id": 5303,
+      "issn": 5
+    },
+    "year_flags": {},
+    "sjr_rows_dropped_not_in_scopus": 10,
+    "note": "SCImago H index and Coverage are identical across the 2020-2025 files: snapshot values"
+  },
+  "issn_conflicts": [
+    {
+      "work_id": "https://openalex.org/W3024429922",
+      "year": 2020,
+      "kept": "5700152760",
+      "kept_title": "Assessment and Evaluation in Higher Education",
+      "others": [
+        "Assessment in Higher Education"
+      ],
+      "rule": "issn_l source covers the year"
+    },
+    {
+      "work_id": "https://openalex.org/W3099880746",
+      "year": 2020,
+      "kept": "5700152760",
+      "kept_title": "Assessment and Evaluation in Higher Education",
+      "others": [
+        "Assessment in Higher Education"
+      ],
+      "rule": "issn_l source covers the year"
+    },
+    {
+      "work_id": "https://openalex.org/W4205682993",
+      "year": 2021,
+      "kept": "21101276719",
+      "kept_title": "Market-Trziste",
+      "others": [
+        "Trziste"
+      ],
+      "rule": "other source covers the year (renamed title)"
+    },
+    {
+      "work_id": "https://openalex.org/W4312179906",
+      "year": 2022,
+      "kept": "21100857955",
+      "kept_title": "Data Technologies and Applications",
+      "others": [
+        "Program"
+      ],
+      "rule": "other source covers the year (renamed title)"
+    },
+    {
+      "work_id": "https://openalex.org/W4313488201",
+      "year": 2023,
+      "kept": "20029",
+      "kept_title": "American Journal of Roentgenology",
+      "others": [
+        "The American journal of roentgenology, radium therapy, and nuclear medicine"
+      ],
+      "rule": "other source covers the year (renamed title)"
+    },
+    {
+      "work_id": "https://openalex.org/W4319083903",
+      "year": 2023,
+      "kept": "21101018925",
+      "kept_title": "Humanities and Social Sciences Communications",
+      "others": [
+        "Palgrave Communications"
+      ],
+      "rule": "other source covers the year (renamed title)"
+    },
+    {
+      "work_id": "https://openalex.org/W4322723956",
+      "year": 2023,
+      "kept": "21100823383",
+      "kept_title": "Research on Biomedical Engineering",
+      "others": [
+        "Revista Brasileira de Engenharia Biomedica"
+      ],
+      "rule": "other source covers the year (renamed title)"
+    },
+    {
+      "work_id": "https://openalex.org/W4353041083",
+      "year": 2023,
+      "kept": "21100786911",
+      "kept_title": "Scientific Annals of Economics and Business",
+      "others": [
+        "Analele Stiintifice ale Universitatii Al I Cuza din Iasi - Sectiunea Stiinte Economice"
+      ],
+      "rule": "other source covers the year (renamed title)"
+    },
+    {
+      "work_id": "https://openalex.org/W4366083082",
+      "year": 2023,
+      "kept": "19956",
+      "kept_title": "Archiv der Pharmazie",
+      "others": [
+        "Archiv der Pharmazie und Berichte der Deutschen Pharmazeutischen Gesellschaft"
+      ],
+      "rule": "issn_l source covers the year"
+    },
+    {
+      "work_id": "https://openalex.org/W4366334585",
+      "year": 2023,
+      "kept": "21100893350",
+      "kept_title": "Journal of Laboratory Medicine",
+      "others": [
+        "LaboratoriumsMedizin"
+      ],
+      "rule": "other source covers the year (renamed title)"
+    },
+    {
+      "work_id": "https://openalex.org/W4380633555",
+      "year": 2023,
+      "kept": "21100815426",
+      "kept_title": "Online Learning Journal",
+      "others": [
+        "Journal of Asynchronous Learning Network"
+      ],
+      "rule": "other source covers the year (renamed title)"
+    },
+    {
+      "work_id": "https://openalex.org/W4380078608",
+      "year": 2023,
+      "kept": "21101018925",
+      "kept_title": "Humanities and Social Sciences Communications",
+      "others": [
+        "Palgrave Communications"
+      ],
+      "rule": "other source covers the year (renamed title)"
+    },
+    {
+      "work_id": "https://openalex.org/W4385455730",
+      "year": 2023,
+      "kept": "5700152760",
+      "kept_title": "Assessment and Evaluation in Higher Education",
+      "others": [
+        "Assessment in Higher Education"
+      ],
+      "rule": "issn_l source covers the year"
+    },
+    {
+      "work_id": "https://openalex.org/W4387104707",
+      "year": 2023,
+      "kept": "5800179620",
+      "kept_title": "Technology, Pedagogy and Education",
+      "others": [
+        "Journal of Information Technology for Teacher Education"
+      ],
+      "rule": "other source covers the year (renamed title)"
+    },
+    {
+      "work_id": "https://openalex.org/W4387880927",
+      "year": 2023,
+      "kept": "16597",
+      "kept_title": "CardioVascular and Interventional Radiology",
+      "others": [
+        "Cardiovascular Radiology"
+      ],
+      "rule": "issn_l source covers the year"
+    },
+    {
+      "work_id": "https://openalex.org/W4388000629",
+      "year": 2023,
+      "kept": "21101018925",
+      "kept_title": "Humanities and Social Sciences Communications",
+      "others": [
+        "Palgrave Communications"
+      ],
+      "rule": "other source covers the year (renamed title)"
+    },
+    {
+      "work_id": "https://openalex.org/W4388536662",
+      "year": 2023,
+      "kept": "21101018925",
+      "kept_title": "Humanities and Social Sciences Communications",
+      "others": [
+        "Palgrave Communications"
+      ],
+      "rule": "other source covers the year (renamed title)"
+    },
+    {
+      "work_id": "https://openalex.org/W4388712672",
+      "year": 2023,
+      "kept": "12252",
+      "kept_title": "Journal of Public Health",
+      "others": [
+        "Zeitschrift fur Gesundheitswissenschaften",
+        "Journal of Public Health (Germany)"
+      ],
+      "rule": "other source covers the year (renamed title)"
+    },
+    {
+      "work_id": "https://openalex.org/W4389291110",
+      "year": 2023,
+      "kept": "13777",
+      "kept_title": "Clinical and Experimental Optometry",
+      "others": [
+        "The Australasian journal of optometry"
+      ],
+      "rule": "issn_l source covers the year"
+    },
+    {
+      "work_id": "https://openalex.org/W4390590783",
+      "year": 2024,
+      "kept": "23607",
+      "kept_title": "Computerized Medical Imaging and Graphics",
+      "others": [
+        "Computerized Radiology"
+      ],
+      "rule": "other source covers the year (renamed title)"
+    },
+    {
+      "work_id": "https://openalex.org/W4393851454",
+      "year": 2024,
+      "kept": "16751",
+      "kept_title": "Journal of Neurology",
+      "others": [
+        "Zeitschrift fur Neurologie"
+      ],
+      "rule": "other source covers the year (renamed title)"
+    },
+    {
+      "work_id": "https://openalex.org/W4396737627",
+      "year": 2024,
+      "kept": "14311",
+      "kept_title": "Otolaryngology - Head and Neck Surgery",
+      "others": [
+        "Otolaryngology"
+      ],
+      "rule": "other source covers the year (renamed title)"
+    },
+    {
+      "work_id": "https://openalex.org/W4396894837",
+      "year": 2024,
+      "kept": "21100893350",
+      "kept_title": "Journal of Laboratory Medicine",
+      "others": [
+        "LaboratoriumsMedizin"
+      ],
+      "rule": "other source covers the year (renamed title)"
+    },
+    {
+      "work_id": "https://openalex.org/W4400093598",
+      "year": 2024,
+      "kept": "5700152760",
+      "kept_title": "Assessment and Evaluation in Higher Education",
+      "others": [
+        "Assessment in Higher Education"
+      ],
+      "rule": "issn_l source covers the year"
+    },
+    {
+      "work_id": "https://openalex.org/W4400163363",
+      "year": 2024,
+      "kept": "27521",
+      "kept_title": "International Journal of Gynecology and Obstetrics",
+      "others": [
+        "Journal of the International Federation of Gynaecology and Obstetrics"
+      ],
+      "rule": "other source covers the year (renamed title)"
+    },
+    {
+      "work_id": "https://openalex.org/W4401359717",
+      "year": 2024,
+      "kept": "21101018925",
+      "kept_title": "Humanities and Social Sciences Communications",
+      "others": [
+        "Palgrave Communications"
+      ],
+      "rule": "other source covers the year (renamed title)"
+    },
+    {
+      "work_id": "https://openalex.org/W4402926116",
+      "year": 2024,
+      "kept": "21100905629",
+      "kept_title": "Ultrasound Journal",
+      "others": [
+        "Critical Ultrasound Journal"
+      ],
+      "rule": "other source covers the year (renamed title)"
+    },
+    {
+      "work_id": "https://openalex.org/W4403098306",
+      "year": 2024,
+      "kept": "21101018925",
+      "kept_title": "Humanities and Social Sciences Communications",
+      "others": [
+        "Palgrave Communications"
+      ],
+      "rule": "other source covers the year (renamed title)"
+    },
+    {
+      "work_id": "https://openalex.org/W4403147622",
+      "year": 2024,
+      "kept": "21101018925",
+      "kept_title": "Humanities and Social Sciences Communications",
+      "others": [
+        "Palgrave Communications"
+      ],
+      "rule": "other source covers the year (renamed title)"
+    },
+    {
+      "work_id": "https://openalex.org/W4403433658",
+      "year": 2024,
+      "kept": "30082",
+      "kept_title": "Archives of Gynecology and Obstetrics",
+      "others": [
+        "Archiv fur Gynakologie",
+        "Archives of Gynecology"
+      ],
+      "rule": "other source covers the year (renamed title)"
+    },
+    {
+      "work_id": "https://openalex.org/W4403750684",
+      "year": 2024,
+      "kept": "21101018925",
+      "kept_title": "Humanities and Social Sciences Communications",
+      "others": [
+        "Palgrave Communications"
+      ],
+      "rule": "other source covers the year (renamed title)"
+    },
+    {
+      "work_id": "https://openalex.org/W4403787904",
+      "year": 2024,
+      "kept": "16597",
+      "kept_title": "CardioVascular and Interventional Radiology",
+      "others": [
+        "Cardiovascular Radiology"
+      ],
+      "rule": "issn_l source covers the year"
+    },
+    {
+      "work_id": "https://openalex.org/W4403945049",
+      "year": 2024,
+      "kept": "21100218021",
+      "kept_title": "Journal of Practice Teaching and Learning",
+      "others": [
+        "Journal of Practice Teaching in Health and Social Work"
+      ],
+      "rule": "other source covers the year (renamed title)"
+    },
+    {
+      "work_id": "https://openalex.org/W4404491846",
+      "year": 2024,
+      "kept": "21101018925",
+      "kept_title": "Humanities and Social Sciences Communications",
+      "others": [
+        "Palgrave Communications"
+      ],
+      "rule": "other source covers the year (renamed title)"
+    },
+    {
+      "work_id": "https://openalex.org/W4406624864",
+      "year": 2025,
+      "kept": "22197",
+      "kept_title": "PS - Political Science and Politics",
+      "others": [
+        "PS"
+      ],
+      "rule": "other source covers the year (renamed title)"
+    },
+    {
+      "work_id": "https://openalex.org/W4406377777",
+      "year": 2025,
+      "kept": "19100",
+      "kept_title": "Morphologie",
+      "others": [
+        "Bulletin de l'Association des Anatomistes"
+      ],
+      "rule": "other source covers the year (renamed title)"
+    },
+    {
+      "work_id": "https://openalex.org/W4408201215",
+      "year": 2025,
+      "kept": "21101018925",
+      "kept_title": "Humanities and Social Sciences Communications",
+      "others": [
+        "Palgrave Communications"
+      ],
+      "rule": "other source covers the year (renamed title)"
+    },
+    {
+      "work_id": "https://openalex.org/W4408394670",
+      "year": 2025,
+      "kept": "130130",
+      "kept_title": "Clinical Otolaryngology",
+      "others": [
+        "Clinical Otolaryngology and Allied Sciences"
+      ],
+      "rule": "other source covers the year (renamed title)"
+    },
+    {
+      "work_id": "https://openalex.org/W4408572414",
+      "year": 2025,
+      "kept": "5700152760",
+      "kept_title": "Assessment and Evaluation in Higher Education",
+      "others": [
+        "Assessment in Higher Education"
+      ],
+      "rule": "issn_l source covers the year"
+    },
+    {
+      "work_id": "https://openalex.org/W4409204527",
+      "year": 2025,
+      "kept": "24261",
+      "kept_title": "Australasian Journal of Dermatology",
+      "others": [
+        "Australian journal of dermatology"
+      ],
+      "rule": "issn_l source covers the year"
+    },
+    {
+      "work_id": "https://openalex.org/W4409767649",
+      "year": 2025,
+      "kept": "21101018925",
+      "kept_title": "Humanities and Social Sciences Communications",
+      "others": [
+        "Palgrave Communications"
+      ],
+      "rule": "other source covers the year (renamed title)"
+    },
+    {
+      "work_id": "https://openalex.org/W4411167601",
+      "year": 2025,
+      "kept": "21101018925",
+      "kept_title": "Humanities and Social Sciences Communications",
+      "others": [
+        "Palgrave Communications"
+      ],
+      "rule": "other source covers the year (renamed title)"
+    },
+    {
+      "work_id": "https://openalex.org/W4411433681",
+      "year": 2025,
+      "kept": "21101018925",
+      "kept_title": "Humanities and Social Sciences Communications",
+      "others": [
+        "Palgrave Communications"
+      ],
+      "rule": "other source covers the year (renamed title)"
+    },
+    {
+      "work_id": "https://openalex.org/W4411974141",
+      "year": 2025,
+      "kept": "21100905629",
+      "kept_title": "Ultrasound Journal",
+      "others": [
+        "Critical Ultrasound Journal"
+      ],
+      "rule": "other source covers the year (renamed title)"
+    },
+    {
+      "work_id": "https://openalex.org/W4412133915",
+      "year": 2025,
+      "kept": "21114",
+      "kept_title": "European Journal of Pediatric Surgery",
+      "others": [
+        "Zeitschrift fur Kinderchirurgie"
+      ],
+      "rule": "other source covers the year (renamed title)"
+    },
+    {
+      "work_id": "https://openalex.org/W4413050850",
+      "year": 2025,
+      "kept": "27521",
+      "kept_title": "International Journal of Gynecology and Obstetrics",
+      "others": [
+        "Journal of the International Federation of Gynaecology and Obstetrics"
+      ],
+      "rule": "other source covers the year (renamed title)"
+    },
+    {
+      "work_id": "https://openalex.org/W4413103714",
+      "year": 2025,
+      "kept": "19100",
+      "kept_title": "Morphologie",
+      "others": [
+        "Bulletin de l'Association des Anatomistes"
+      ],
+      "rule": "other source covers the year (renamed title)"
+    },
+    {
+      "work_id": "https://openalex.org/W4413639817",
+      "year": 2025,
+      "kept": "21114",
+      "kept_title": "European Journal of Pediatric Surgery",
+      "others": [
+        "Zeitschrift fur Kinderchirurgie"
+      ],
+      "rule": "other source covers the year (renamed title)"
+    },
+    {
+      "work_id": "https://openalex.org/W4413702895",
+      "year": 2025,
+      "kept": "21100827931",
+      "kept_title": "Eurasian Economic Review",
+      "others": [
+        "Eurasian Business Review"
+      ],
+      "rule": "issn_l source covers the year"
+    },
+    {
+      "work_id": "https://openalex.org/W4414214861",
+      "year": 2025,
+      "kept": "11600154157",
+      "kept_title": "TQM Journal",
+      "others": [
+        "TQM Magazine"
+      ],
+      "rule": "other source covers the year (renamed title)"
+    },
+    {
+      "work_id": "https://openalex.org/W4414458287",
+      "year": 2025,
+      "kept": "21101018925",
+      "kept_title": "Humanities and Social Sciences Communications",
+      "others": [
+        "Palgrave Communications"
+      ],
+      "rule": "other source covers the year (renamed title)"
+    },
+    {
+      "work_id": "https://openalex.org/W4415229304",
+      "year": 2025,
+      "kept": "29689",
+      "kept_title": "Emergency Medicine Journal",
+      "others": [
+        "Journal of Accident and Emergency Medicine"
+      ],
+      "rule": "other source covers the year (renamed title)"
+    },
+    {
+      "work_id": "https://openalex.org/W4415411892",
+      "year": 2025,
+      "kept": "21101018925",
+      "kept_title": "Humanities and Social Sciences Communications",
+      "others": [
+        "Palgrave Communications"
+      ],
+      "rule": "other source covers the year (renamed title)"
+    },
+    {
+      "work_id": "https://openalex.org/W4415711959",
+      "year": 2025,
+      "kept": "21100828127",
+      "kept_title": "Journal of Vascular Surgery Cases, Innovations and Techniques",
+      "others": [
+        "Journal of Vascular Surgery Cases"
+      ],
+      "rule": "other source covers the year (renamed title)"
+    },
+    {
+      "work_id": "https://openalex.org/W4415988382",
+      "year": 2025,
+      "kept": "21101018925",
+      "kept_title": "Humanities and Social Sciences Communications",
+      "others": [
+        "Palgrave Communications"
+      ],
+      "rule": "other source covers the year (renamed title)"
+    },
+    {
+      "work_id": "https://openalex.org/W4416331328",
+      "year": 2025,
+      "kept": "5700152760",
+      "kept_title": "Assessment and Evaluation in Higher Education",
+      "others": [
+        "Assessment in Higher Education"
+      ],
+      "rule": "issn_l source covers the year"
+    },
+    {
+      "work_id": "https://openalex.org/W4416347121",
+      "year": 2025,
+      "kept": "15300154836",
+      "kept_title": "Zeitschrift fur Psychologie / Journal of Psychology",
+      "others": [
+        "Zeitschrift f\u00fcr Psychologie mit Zeitschrift f\u00fcr angewandte Psychologie"
+      ],
+      "rule": "other source covers the year (renamed title)"
+    },
+    {
+      "work_id": "https://openalex.org/W4416592772",
+      "year": 2025,
+      "kept": "21101018925",
+      "kept_title": "Humanities and Social Sciences Communications",
+      "others": [
+        "Palgrave Communications"
+      ],
+      "rule": "other source covers the year (renamed title)"
+    },
+    {
+      "work_id": "https://openalex.org/W4416902093",
+      "year": 2025,
+      "kept": "21100815426",
+      "kept_title": "Online Learning Journal",
+      "others": [
+        "Journal of Asynchronous Learning Network"
+      ],
+      "rule": "other source covers the year (renamed title)"
+    },
+    {
+      "work_id": "https://openalex.org/W4417291582",
+      "year": 2025,
+      "kept": "23626",
+      "kept_title": "Science Education",
+      "others": [
+        "General Science Quarterly"
+      ],
+      "rule": "issn_l source covers the year"
+    },
+    {
+      "work_id": "https://openalex.org/W4417458443",
+      "year": 2025,
+      "kept": "14478",
+      "kept_title": "Journal of Cataract and Refractive Surgery",
+      "others": [
+        "American Intra-Ocular Implant Society Journal"
+      ],
+      "rule": "other source covers the year (renamed title)"
+    },
+    {
+      "work_id": "https://openalex.org/W4417535575",
+      "year": 2025,
+      "kept": "29930",
+      "kept_title": "Journal of Cancer Research and Clinical Oncology",
+      "others": [
+        "Zeitschrift fur Krebsforschung und Klinische Onkologie",
+        "Zeitschrift fur Krebsforschung"
+      ],
+      "rule": "other source covers the year (renamed title)"
+    },
+    {
+      "work_id": "https://openalex.org/W7117142436",
+      "year": 2025,
+      "kept": "23402",
+      "kept_title": "European Journal of Applied Physiology",
+      "others": [
+        "Internationale Zeitschrift f\u00fcr Angewandte Physiologie Einschlie\u00dflich Arbeitsphysiologie"
+      ],
+      "rule": "other source covers the year (renamed title)"
+    }
+  ],
+  "title_ambiguous_venues": {},
+  "title_exact_hit_but_venue_has_other_issn": {
+    "venues": 15,
+    "works": 19
+  },
+  "excluded_from_review_list": {
+    "repository_works": 902,
+    "no_source_works": 217
+  },
+  "no_source_works": {
+    "n": 217,
+    "by_type": {
+      "conference-paper": 86,
+      "preprint": 84,
+      "book-chapter": 23,
+      "article": 22,
+      "review": 2
+    }
+  },
+  "venue_check_FIE": {
+    "source_id": "https://openalex.org/S4363607793",
+    "n_works": 44,
+    "automatic_method": [
+      "none"
+    ],
+    "final_method": [
+      "manual"
+    ],
+    "in_scopus": 44,
+    "in_strict": 44,
+    "note": "OpenAlex ISSN 0190-5848 is not in the Scopus list; Scopus lists 'Proceedings - Frontiers in Education Conference, FIE' (ISSN 1539-4565). The names differ after normalisation, so only the manual file can match it."
+  },
+  "manual": {
+    "file_found": true,
+    "rows": 50,
+    "decisions": {
+      "yes": 25,
+      "no": 23,
+      "unsure": 2
+    },
+    "unknown_source_ids": [],
+    "conflicts_with_issn_match": [],
+    "title_match_overridden": []
+  }
+}

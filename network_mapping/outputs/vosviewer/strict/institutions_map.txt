@@ -1,0 +1,546 @@
+id	label	cluster	weight<Papers>	weight<Citations>	score<Avg. pub. year>
+1	University of Stuttgart	1	11	233	2023.82
+2	Lyon 1 Université	7	7	102	2023.0
+3	University College Dublin	9	62	4601	2023.58
+4	Semmelweis University	8	7	180	2024.14
+5	University of Siena	6	12	256	2024.17
+6	Linköping University	6	22	1548	2023.45
+7	Vienna University of Economics and Business	1	11	122	2024.55
+8	Karlsruhe Institute of Technology	1	18	729	2023.56
+9	Università Cattolica del Sacro Cuore	2	29	155	2023.69
+10	Obuda University	8	14	252	2024.64
+11	University of Szczecin	8	6	182	2023.67
+12	Eötvös Loránd University	8	27	415	2022.96
+13	University of Kassel	1	9	543	2024.44
+14	University of Foggia	2	24	866	2024.42
+15	Spiru Haret University	10	6	1016	2022.5
+16	Universidad de Valladolid	3	43	1259	2023.16
+17	University of Pisa	2	28	632	2023.61
+18	Warsaw University of Technology	8	12	207	2024.33
+19	Universitat Jaume I	5	5	86	2023.8
+20	Iscte – Instituto Universitário de Lisboa	5	12	68	2024.5
+21	Universidade da Coruña	3	18	547	2023.61
+22	University West	6	6	48	2023.83
+23	Budapest University of Economics and Business	8	8	185	2023.5
+24	Slovak University of Technology in Bratislava	11	9	64	2023.78
+25	Tallinn University of Technology	9	16	64	2023.94
+26	Universitat de Miguel Hernández d'Elx	3	9	682	2023.56
+27	Rzeszów University of Technology	2	6	152	2023.33
+28	John Paul II Catholic University of Lublin	12	10	127	2024.6
+29	University of Messina	2	12	298	2024.17
+30	Leuphana University of Lüneburg	6	8	362	2024.5
+31	Goethe University Frankfurt	4	34	940	2023.85
+32	Leibniz University Hannover	1	23	392	2023.61
+33	Universitat de Vic - Universitat Central de Catalunya	11	6	257	2023.0
+34	University of Insubria	2	5	31	2023.2
+35	University of Rome Tor Vergata	2	12	484	2024.08
+36	University of Primorska	9	10	1529	2024.1
+37	Roma Tre University	2	9	66	2024.33
+38	Silesian University of Technology	7	12	256	2024.17
+39	Wrocław University of Science and Technology	8	9	56	2023.56
+40	University of Verona	2	12	685	2024.08
+41	Universidad de Las Palmas de Gran Canaria	3	8	243	2023.88
+42	OTH Regensburg	2	5	10	2023.8
+43	FernUniversität in Hagen	4	23	335	2024.57
+44	Eszterhazy Karoly Catholic University	8	15	260	2024.6
+45	Instituto de Engenharia de Sistemas e Computadores Investigação e Desenvolvimento	5	8	11	2024.75
+46	Universidad Complutense de Madrid	3	48	1184	2024.08
+47	Leiden University	4	14	186	2023.86
+48	Johannes Kepler University of Linz	12	19	147	2023.74
+49	University of Modena and Reggio Emilia	2	16	275	2023.94
+50	Marche Polytechnic University	7	11	171	2023.73
+51	"Istituto di Scienza e Tecnologie dell'Informazione ""Alessandro Faedo"""	2	8	143	2024.12
+52	Universitat Autònoma de Barcelona	3	25	458	2024.08
+53	Uppsala University	6	40	1653	2024.12
+54	University of Copenhagen	6	45	1111	2023.71
+55	Lucian Blaga University of Sibiu	10	5	1256	2024.6
+56	University of Parma	3	13	78	2024.77
+57	University of Economics Varna	14	7	17	2024.57
+58	Jagiellonian University	5	17	192	2024.12
+59	University of Udine	2	13	346	2024.31
+60	UNESCO	2	8	346	2024.38
+61	Centre National de la Recherche Scientifique	7	47	855	2023.02
+62	University of Vienna	12	13	140	2024.08
+63	Carl von Ossietzky Universität Oldenburg	12	9	292	2024.0
+64	University of Alicante	3	39	1861	2024.05
+65	Åbo Akademi University	6	7	116	2023.86
+66	Częstochowa University of Technology	8	5	36	2023.6
+67	University of Mons	7	8	117	2024.38
+68	Universidad de Cantabria	3	9	395	2023.33
+69	University of Salerno	2	35	411	2024.31
+70	Université Libre de Bruxelles	4	5	797	2023.2
+71	Institut national de recherche en sciences et technologies du numérique	7	19	696	2022.79
+72	University of Debrecen	8	10	158	2024.0
+73	Universität für Weiterbildung Krems	3	11	201	2023.73
+74	Ludovika University of Public Service	8	5	66	2025.0
+75	University Medical Center Groningen	4	19	476	2023.63
+76	Karolinska University Hospital	6	7	170	2023.57
+77	University of Helsinki	9	52	870	2023.75
+78	Humanitas University	2	15	331	2023.47
+79	Novia University of Applied Sciences	6	5	71	2024.8
+80	Université Toulouse III - Paul Sabatier	7	11	335	2021.91
+81	Vrije Universiteit Brussel	6	16	369	2024.19
+82	Consejo Superior de Investigaciones Científicas	7	6	42	2024.33
+83	University of Bonn	1	22	1090	2023.73
+84	Universidad de Deusto	3	15	469	2023.0
+85	Alexandru Ioan Cuza University	10	7	40	2024.71
+86	University of Padua	2	27	640	2023.7
+87	Universitat Oberta de Catalunya	3	39	1265	2023.33
+88	Università degli Studi della Tuscia	3	11	197	2023.82
+89	University of Bucharest	10	10	451	2024.0
+90	University of Lisbon	5	31	436	2024.13
+91	University of Crete	13	17	837	2024.18
+92	Royal College of Surgeons in Ireland	9	9	30	2024.44
+93	University of Salento	1	7	113	2024.29
+94	Hasso Plattner Institute	1	8	47	2023.75
+95	University of Trnava	8	8	164	2021.5
+96	University of Thessaly	13	27	506	2023.85
+97	TU Wien	12	16	673	2023.88
+98	Radboud University Nijmegen	4	24	1312	2024.0
+99	Democritus University of Thrace	13	23	563	2024.04
+100	University of Antwerp	4	11	482	2023.18
+101	Ca' Foscari University of Venice	2	5	194	2023.4
+102	Université de Bordeaux	7	9	343	2023.33
+103	University of Ljubljana	9	29	2513	2024.1
+104	University of Rijeka	11	10	115	2024.0
+105	Inserm	7	35	813	2023.43
+106	University of Piraeus	13	34	626	2023.47
+107	University of Trás-os-Montes and Alto Douro	5	16	470	2023.94
+108	University of Turku	9	36	1415	2023.28
+109	University of Hildesheim	1	10	674	2023.5
+110	Witten/Herdecke University	4	9	197	2023.89
+111	National University of Ireland, Maynooth	2	9	132	2023.56
+112	University of Graz	12	18	424	2023.72
+113	Technical University of Cluj-Napoca	1	5	47	2023.4
+114	Universidad de La Laguna	4	12	226	2024.25
+115	University of Peloponnese	13	5	30	2025.0
+116	Universität Hamburg	12	25	895	2023.28
+117	University of Sassari	2	7	63	2024.14
+118	Universitat de València	3	47	549	2023.94
+119	University of Freiburg	12	13	239	2023.31
+120	Philipps University of Marburg	1	11	170	2024.64
+121	University of Beira Interior	5	9	458	2024.67
+122	Stockholm University	6	47	3075	2023.47
+123	Cyprus International University	10	14	707	2023.43
+124	Carol Davila University of Medicine and Pharmacy	10	9	634	2023.89
+125	Scuola Superiore Sant'Anna	2	10	307	2023.3
+126	Cyprus University of Technology	13	7	457	2024.0
+127	Corvinus University of Budapest	8	6	248	2024.83
+128	Universidad de Oviedo	3	22	704	2023.0
+129	Medical University of Silesia	2	5	151	2023.0
+130	Tampere University	9	33	483	2023.03
+131	Vilnius Gediminas Technical University	14	8	46	2024.0
+132	Science Foundation Ireland	9	5	71	2023.2
+133	University of the Basque Country	3	32	632	2023.75
+134	Gdańsk University of Technology	8	7	282	2023.29
+135	University of Groningen	4	36	864	2023.61
+136	Universidade de Leiria e Oeste	5	7	203	2024.43
+137	Warsaw University of Life Sciences	14	6	63	2024.33
+138	Universitat Pompeu Fabra	2	29	1016	2023.45
+139	Osnabrück University	1	7	21	2023.14
+140	Free University of Bozen-Bolzano	2	6	4822	2023.83
+141	University of Cagliari	2	16	427	2023.81
+142	Kaunas University of Technology	4	13	594	2023.92
+143	Uniwersytet Komisji Edukacji Narodowej w Krakowie	8	6	57	2023.33
+144	Trakia University	14	10	217	2023.7
+145	Vilnius University	12	11	89	2024.36
+146	Universidad de Granada	3	32	1440	2023.66
+147	University of Nicosia	13	30	788	2024.53
+148	Munich University of Applied Sciences	14	11	57	2023.55
+149	Maria Curie-Skłodowska University	12	5	35	2024.2
+150	National Technical University of Athens	13	10	75	2024.3
+151	University of Patras	13	38	1474	2023.32
+152	University of Eastern Finland	9	128	6750	2023.16
+153	University of Potsdam	1	24	794	2023.33
+154	Politecnico di Torino	3	13	291	2023.62
+155	University of Mannheim	1	24	1995	2022.88
+156	University of Southern Denmark	6	17	320	2023.82
+157	Universidad Nacional de Educación a Distancia	3	31	2860	2022.94
+158	University of Augsburg	1	17	1081	2023.94
+159	German Cancer Research Center	1	12	295	2024.08
+160	University of Bremen	12	14	241	2023.5
+161	Copenhagen Business School	6	8	395	2023.88
+162	University of Cologne	1	21	257	2024.05
+163	University of Zagreb	11	58	696	2023.66
+164	Friedrich-Alexander-Universität Erlangen-Nürnberg	1	37	5741	2023.81
+165	SGH Warsaw School of Economics	3	5	61	2024.2
+166	Universidad Rey Juan Carlos	3	33	774	2023.64
+167	University of Salzburg	12	9	127	2023.56
+168	Universidade do Porto	5	37	852	2023.89
+169	Malmö University	6	11	397	2023.09
+170	Parthenope University of Naples	2	5	31	2024.6
+171	Technical University of Košice	11	16	253	2023.5
+172	International Hellenic University	13	16	365	2023.56
+173	Universidad de Salamanca	3	68	1599	2023.18
+174	Catholic University of Ávila	13	6	123	2023.83
+175	Universidade Politécnica do Cávado e do Ave	5	7	22	2024.43
+176	University of Passau	10	9	641	2023.22
+177	University of Luxembourg	6	25	634	2024.0
+178	University of Ostrava	11	17	83	2024.59
+179	Lund University	6	18	751	2023.94
+180	Ionian University	13	8	211	2024.38
+181	Vytautas Magnus University	3	8	151	2023.5
+182	Ollscoil na Gaillimhe – University of Galway	9	24	776	2022.83
+183	Lodz University of Technology	8	5	21	2023.6
+184	University of Economics in Katowice	5	17	1892	2024.35
+185	University of Milan	2	22	364	2024.0
+186	Universidad de Alcalá	3	20	643	2023.45
+187	University of Konstanz	9	8	173	2023.88
+188	Universität Innsbruck	12	12	373	2024.5
+189	Luleå University of Technology	9	27	1772	2022.74
+190	University of Macedonia	13	21	794	2023.9
+191	Plovdiv University	10	28	780	2024.04
+192	University of Trento	2	20	214	2024.25
+193	Constructor University	3	7	432	2023.0
+194	Tallinn University	3	41	743	2022.83
+195	Utrecht University	4	47	1188	2023.85
+196	Tilburg University	4	11	390	2023.45
+197	University of Ioannina	2	14	795	2024.0
+198	Universität Ulm	12	7	426	2021.29
+199	Johannes Gutenberg University Mainz	1	6	276	2024.0
+200	"University of Campania ""Luigi Vanvitelli"""	2	12	194	2023.58
+201	University of Malta	13	11	138	2023.91
+202	Université de Montpellier	7	6	66	2023.67
+203	Universidade de Santiago de Compostela	3	9	194	2023.44
+204	Justus-Liebig-Universität Gießen	1	12	172	2024.42
+205	National and Kapodistrian University of Athens	13	29	690	2024.0
+206	Universidade Aberta	5	6	147	2023.83
+207	European University Cyprus	13	16	958	2024.38
+208	Bielefeld University	1	12	231	2024.33
+209	Riga Technical University	1	11	413	2024.18
+210	Université Côte d'Azur	7	21	206	2024.0
+211	Medical University of Graz	11	7	20	2024.29
+212	University of Miskolc	14	9	25	2023.78
+213	Universidade Politécnica de Lisboa	5	5	100	2024.0
+214	Aarhus University	6	37	1196	2023.41
+215	Université Paris Cité	7	15	344	2023.27
+216	University of Pavol Jozef Šafárik	11	7	274	2022.86
+217	Trinity College Dublin	9	19	500	2023.74
+218	University of Siegen	4	10	223	2024.5
+219	Paderborn University	1	12	233	2023.83
+220	Slovak Academy of Sciences	11	7	465	2023.57
+221	Charles University	11	22	761	2023.77
+222	Aristotle University of Thessaloniki	13	44	1425	2023.45
+223	Masaryk University	11	24	652	2024.04
+224	Aix-Marseille Université	7	7	60	2023.14
+225	J. Selye University	8	7	411	2023.14
+226	Linnaeus University	6	26	810	2023.62
+227	Heidelberg University	1	18	649	2023.89
+228	University of Münster	1	17	346	2024.0
+229	University of Szeged	6	10	192	2023.5
+230	Fondazione Bruno Kessler	2	9	316	2022.89
+231	Université de Lille	7	9	56	2023.78
+232	University of Limerick	9	18	213	2024.44
+233	The American College of Greece	13	5	34	2024.8
+234	Hellenic Open University	13	24	325	2023.17
+235	Universidad Francisco de Vitoria	3	5	142	2023.2
+236	Universidad Loyola Andalucía	3	5	735	2023.6
+237	Transport and Telecommunication Institute	1	5	111	2023.6
+238	Università degli Studi di Enna Kore	2	8	125	2024.38
+239	Bulgarian Academy of Sciences	10	11	43	2023.36
+240	Cracow University of Technology	8	5	115	2023.2
+241	Universitat de Girona	3	8	80	2023.62
+242	Universidade Católica Portuguesa	5	5	62	2024.2
+243	University of Pavia	2	7	149	2024.0
+244	School of Pedagogical and Technological Education	13	6	189	2024.17
+245	Universidad de Zaragoza	3	21	5148	2023.76
+246	University of Würzburg	1	14	334	2024.21
+247	University of L'Aquila	2	21	428	2023.48
+248	Örebro University	6	11	152	2024.36
+249	Medical University of Warsaw	8	12	259	2024.42
+250	University of Perugia	2	6	65	2023.5
+251	University College Cork	9	26	492	2024.0
+252	Université Paris-Saclay	7	12	200	2023.33
+253	Istituto Superiore di Sanità	2	6	91	2023.33
+254	University Hospital Bonn	1	21	1721	2023.62
+255	University of Economics and Innovation	11	6	176	2023.83
+256	Leiden University Medical Center	4	8	208	2022.88
+257	Maastricht University Medical Centre	4	8	151	2023.88
+258	Universitair Ziekenhuis Leuven	4	11	344	2022.91
+259	Helsinki University Hospital	9	7	180	2022.86
+260	Hospital Universitario La Paz	3	6	135	2024.17
+261	University of Latvia FinTech Business School	1	5	61	2024.0
+262	Sahlgrenska University Hospital	6	5	151	2023.0
+263	University Medical Center Freiburg	12	8	156	2023.75
+264	Erasmus MC	1	14	259	2023.36
+265	University Hospital Heidelberg	1	18	632	2023.72
+266	Agostino Gemelli University Polyclinic	2	32	336	2023.88
+267	Copenhagen University Hospital	6	11	300	2023.45
+268	TUM Klinikum	1	14	429	2024.0
+269	Technische Informationsbibliothek (TIB)	1	9	311	2023.0
+270	Wekerle Business School	14	10	34	2025.0
+271	Rigshospitalet	6	11	403	2023.36
+272	Karolinska Institutet	6	25	653	2023.72
+273	Academic Center for Dentistry Amsterdam	4	5	170	2024.2
+274	Universidade Politécnica de Coimbra	5	6	16	2024.83
+275	Hospital Clínico San Carlos	3	6	153	2024.17
+276	Budapest University of Technology and Economics	8	7	152	2024.29
+277	Jožef Stefan Institute	5	7	64	2024.14
+278	Centre Hospitalier Universitaire de Bordeaux	7	5	107	2023.2
+279	University Medical Center Utrecht	4	20	613	2023.0
+280	LMU Klinikum	1	23	707	2024.09
+281	Universidad Nebrija	3	6	47	2024.5
+282	Wroclaw University of Economics and Business	8	6	254	2022.83
+283	Constantine the Philosopher University in Nitra	11	11	275	2023.18
+284	Technical University of Sofia	10	17	389	2023.12
+285	West University of Timişoara	10	14	259	2024.21
+286	University of Žilina	11	9	129	2023.44
+287	Politehnica University of Timisoara	10	9	152	2023.44
+288	"""Dunarea de Jos"" University of Galati"	10	6	111	2024.0
+289	Transilvania University of Brașov	10	16	268	2024.25
+290	Universitat Internacional de Catalunya	7	8	289	2024.75
+291	Babeș-Bolyai University	10	9	158	2022.56
+292	University Hospital Regensburg	1	10	247	2024.0
+293	Technische Universität Darmstadt	1	10	170	2023.8
+294	University of Mediterranean Karpasia	10	9	142	2024.67
+295	Christian-Albrechts-Universität zu Kiel	1	8	231	2023.62
+296	Ludwigsburg University of Education	1	9	49	2024.89
+297	Ghent University	4	22	435	2023.5
+298	Université de Poitiers	7	6	74	2024.5
+299	German Research Centre for Artificial Intelligence	1	13	246	2023.92
+300	Academia Oamenilor de Știință din România	10	14	178	2024.14
+301	Maastricht University	4	46	1517	2023.46
+302	Magna Graecia University	2	5	217	2024.0
+303	Eastern Mediterranean University	10	6	82	2024.5
+304	University of Maribor	11	29	801	2024.14
+305	Haaga-Helia University of Applied Sciences	9	8	641	2023.5
+306	University of Catania	2	5	59	2024.6
+307	Universidad de Cádiz	3	5	41	2023.4
+308	Humboldt-Universität zu Berlin	1	46	1388	2023.65
+309	Sorbonne Université	7	22	428	2023.41
+310	University of Gdańsk	8	5	68	2023.4
+311	Graz University of Technology	12	25	168	2023.24
+312	Universidad Pontificia de Salamanca	3	5	64	2023.2
+313	Leibniz Institute for Science and Mathematics Education	1	32	1117	2023.62
+314	Heidelberg University of Education	1	11	489	2023.09
+315	National-Louis University	11	5	135	2024.4
+316	Universidade Politécnica de Bragança	5	20	655	2023.55
+317	VIZJA University	5	7	98	2025.0
+318	University Medical Center of the Johannes Gutenberg University Mainz	1	6	137	2023.83
+319	Universitätsklinikum Tübingen	1	11	733	2024.27
+320	University of West Attica	13	27	459	2023.59
+321	Saint Camillus International University of Health and Medical Sciences	2	5	38	2024.8
+322	IRCCS Azienda Ospedliero-Universitaria di Bologna Policlinico di Sant'Orsola	2	5	222	2024.0
+323	Assistance Publique – Hôpitaux de Paris	7	16	251	2024.12
+324	Copenhagen Academy for Medical Education and Simulation	6	7	252	2023.71
+325	Munster Technological University	3	7	937	2023.86
+326	Algebra Bernays University	11	7	35	2023.71
+327	Universidade Politécnica da Guarda	3	6	56	2022.33
+328	University North	11	11	494	2024.64
+329	Deutsches Herzzentrum der Charité	1	5	50	2023.8
+330	University Medical Center Hamburg-Eppendorf	2	6	35	2025.0
+331	Azienda Ospedaliero-Universitaria di Modena	2	6	177	2022.83
+332	Institut de Recherche contre les Cancers de l’Appareil Digestif	2	5	184	2023.6
+333	Catholic University of Croatia	11	5	197	2023.4
+334	National Center for Tumor Diseases	7	5	124	2023.8
+335	University Hospital Schleswig-Holstein	1	6	196	2023.83
+336	IRCCS Ospedale Galeazzi - Sant'Ambrogio	2	8	253	2024.5
+337	UMIT TIROL - Private University for Health Sciences and Health Technology	12	7	460	2023.43
+338	Laboratoire d’Informatique et Systèmes	7	5	57	2021.4
+339	IMEC	4	7	205	2023.14
+340	Hospital Clínic de Barcelona	3	6	113	2024.33
+341	Azienda Ospedaliero-Universitaria Careggi	2	7	116	2024.57
+342	Universidad Internacional de La Rioja	3	40	689	2023.45
+343	Universitätsmedizin Göttingen	1	8	184	2023.75
+344	Institut de Recherche en Informatique de Toulouse	7	14	337	2022.43
+345	Karlsruhe University of Education	1	7	30	2024.43
+346	Essen University Hospital	1	6	167	2024.83
+347	Max Planck Institute for Software Systems	12	9	248	2024.44
+348	Neapolis University Pafos	13	5	37	2024.8
+349	Amsterdam Public Health	4	5	184	2022.6
+350	Pegaso University	2	10	96	2024.6
+351	Institute for Systems Engineering and Computers	5	5	104	2024.0
+352	University Hospital Leipzig	7	8	83	2023.75
+353	Riga Stradiņš University	1	7	312	2023.86
+354	Universitair Ziekenhuis Brussel	6	7	91	2024.29
+355	Vall d'Hebron Hospital Universitari	3	7	62	2024.43
+356	Tehničko Veleučilište u Zagrebu	11	11	684	2023.91
+357	Mercatorum University	2	10	135	2024.2
+358	IRCCS Ospedale San Raffaele	2	9	275	2024.0
+359	Jena University Hospital	1	11	242	2024.45
+360	The Maria Grzegorzewska University	14	8	13	2024.62
+361	Max Planck Institute for Intelligent Systems	14	5	168	2023.2
+362	Rezekne Academy of Technologies	1	5	19	2023.4
+363	Industrial Systems Institute	2	5	210	2023.0
+364	L3S Research Center	1	8	267	2023.75
+365	Universitätsmedizin Rostock	1	6	134	2023.5
+366	Leibniz-Institut für Wissensmedien	1	12	400	2024.0
+367	Centre for Health Technology and Services Research	5	10	505	2024.1
+368	DIPF | Leibniz Institute for Research and Information in Education	4	35	1665	2023.29
+369	Berlin Institute of Health at Charité - Universitätsmedizin Berlin	1	11	240	2023.82
+370	John von Neumann University	8	7	187	2024.29
+371	Technological University Dublin	9	17	208	2023.18
+372	Hôpitaux Universitaires de Strasbourg	7	8	84	2023.75
+373	Medizinische Hochschule Brandenburg Theodor Fontane	1	10	166	2024.8
+374	Leibniz Institute for Educational Trajectories	4	5	42	2024.6
+375	IU International University of Applied Sciences	4	11	77	2023.82
+376	Amsterdam University Medical Centers	4	18	509	2023.11
+377	Istituti di Ricovero e Cura a Carattere Scientifico	2	12	256	2023.33
+378	Universidade Portucalense	5	14	245	2024.07
+379	University Hospital Cologne	1	10	658	2022.7
+380	National Research Council	2	26	385	2023.96
+381	European Public Health Association	4	6	109	2023.33
+382	University of Ss. Cyril and Methodius in Trnava	8	10	37	2024.3
+383	LIP6	7	6	256	2021.83
+384	Institut de Chirurgie Guidée par l'Image	2	7	310	2023.57
+385	University Hospital Carl Gustav Carus	7	7	168	2024.0
+386	IRCCS Humanitas Research Hospital	2	8	105	2024.12
+387	Institute of Information and Communication Technologies	10	5	5	2023.2
+388	Universidade Politécnica de Portalegre	5	11	471	2023.55
+389	University of Kyrenia	10	14	82	2023.93
+390	Giustino Fortunato University	2	6	170	2024.67
+391	INESC TEC	5	17	411	2023.47
+392	University of Klagenfurt	1	10	476	2022.9
+393	Dublin City University	3	27	1132	2024.04
+394	Instituto Superior Técnico	5	10	103	2024.2
+395	Rheinland-Pfälzische Technische Universität Kaiserslautern-Landau	1	13	440	2024.23
+396	University of Tampere	9	17	385	2023.35
+397	NHL Stenden University of Applied Sciences	4	5	59	2023.4
+398	ESIC University	13	6	84	2023.83
+399	South East Technological University	9	5	87	2024.2
+400	Faculty of Electrical Engineering and Computing in Zagreb	11	10	110	2024.1
+401	Research Centre in Digitalization and Intelligent Robotics	5	9	68	2023.22
+402	Deutsches Konsortium für Translationale Krebsforschung	1	7	52	2024.57
+403	Instituto Universitario de Ciencias de la Educación	3	18	574	2023.0
+404	Angel Kanchev University of Ruse	10	11	168	2024.45
+405	Laboratoire d'Innovation et Numérique pour l'Éducation	7	10	88	2024.1
+406	Center for Scalable Data Analytics and Artificial Intelligence	7	6	69	2024.17
+407	Centro ALGORITMI	5	5	127	2024.0
+408	Centro de Investigação Didática e Tecnologia na Formação de Formadores	5	6	198	2024.67
+409	Centro de Estudos Organizacionais e Sociais	5	9	381	2024.44
+410	Digital Futures	6	6	73	2024.67
+411	MNEMOSYNE: Mnemonic Synergy	7	10	103	2023.7
+412	Donders Institute for Brain, Cognition and Behaviour	4	5	30	2024.2
+413	Institut für Didaktik und Ausbildungsforschung in der Medizin	1	10	605	2023.9
+414	Care and Public Health Research Institute	4	8	193	2024.0
+415	Else Kröner Fresenius Center for Digital Health	7	5	124	2023.8
+416	Österreichische Computer Gesellschaft	12	7	70	2023.14
+417	Heinrich Heine University Düsseldorf	1	6	128	2022.33
+418	Czech Technical University in Prague	5	13	116	2024.08
+419	University of Florence	6	15	286	2024.2
+420	University of Calabria	2	10	272	2024.4
+421	Technische Universität Berlin	1	8	678	2023.38
+422	Universidad de Burgos	3	17	295	2023.41
+423	University of Warsaw	8	9	53	2024.22
+424	University of Rostock	1	6	120	2022.17
+425	University of Warmia and Mazury in Olsztyn	12	12	193	2024.33
+426	Universidad Carlos III de Madrid	4	43	971	2022.84
+427	Universitat de les Illes Balears	3	8	400	2024.0
+428	University of Osijek	11	15	111	2023.8
+429	University of Almería	3	10	189	2024.3
+430	University of Córdoba	3	30	1827	2023.2
+431	University of Bayreuth	1	8	141	2024.25
+432	Amsterdam University of Applied Sciences	4	6	186	2022.67
+433	University of Turin	3	24	664	2023.67
+434	University of Bari Aldo Moro	2	26	727	2024.0
+435	Universitat Ramon Llull	3	21	334	2022.9
+436	Universitat Rovira i Virgili	3	19	216	2024.37
+437	Université de Rennes	7	7	294	2022.57
+438	University of Tartu	9	21	1026	2024.05
+439	Mid Sweden University	6	19	347	2023.95
+440	Romanian Academy	10	6	69	2024.0
+441	"Sofia University ""St. Kliment Ohridski"""	10	14	280	2023.79
+442	Adam Mickiewicz University in Poznań	12	10	297	2024.0
+443	Open University of Cyprus	2	10	158	2024.5
+444	Universitat Politècnica de València	3	31	547	2023.87
+445	Brno University of Technology	12	6	344	2023.5
+446	University of Regensburg	2	7	253	2022.86
+447	University of Aveiro	5	34	1035	2024.12
+448	Universitatea Națională de Știință și Tehnologie Politehnica București	10	30	1013	2024.03
+449	University of Duisburg-Essen	1	21	716	2023.76
+450	Universidade de Vigo	5	17	396	2024.0
+451	Technical University of Munich	1	86	11193	2023.94
+452	Lappeenranta-Lahti University of Technology	14	5	55	2024.2
+453	Universidad Autónoma de Madrid	3	23	355	2023.91
+454	Bratislava University of Economics and Business	11	10	205	2024.3
+455	University of Milano-Bicocca	2	20	753	2024.2
+456	Chalmers University of Technology	6	10	473	2023.5
+457	AGH University of Krakow	8	8	71	2023.0
+458	Université de Strasbourg	2	12	360	2023.33
+459	Martin Luther University Halle-Wittenberg	1	10	157	2024.0
+460	Near East University	10	44	544	2023.91
+461	HAW Hamburg	12	6	184	2023.67
+462	Palacký University Olomouc	11	6	57	2024.67
+463	Bocconi University	5	7	417	2023.86
+464	University of Naples Federico II	2	29	305	2023.76
+465	University of Algarve	5	6	45	2024.5
+466	Universitat de Barcelona	3	36	532	2024.17
+467	University of Göttingen	9	5	246	2021.2
+468	Halmstad University	6	12	1147	2023.17
+469	Comenius University Bratislava	11	16	502	2024.31
+470	University of Hradec Králové	3	30	1549	2023.47
+471	Gdańsk Medical University	5	5	92	2024.4
+472	Freie Universität Berlin	1	42	965	2023.88
+473	Medical University of Vienna	12	15	376	2023.8
+474	Friedrich Schiller University Jena	1	21	362	2024.33
+475	University of Coimbra	5	15	140	2024.2
+476	Technische Universität Dresden	7	24	338	2023.83
+477	Open University of the Netherlands	4	33	3177	2023.27
+478	Charité – Universitätsmedizin Berlin	1	45	2584	2023.76
+479	Universidad de Huelva	3	5	63	2023.6
+480	University of Castilla-La Mancha	3	26	523	2023.04
+481	Universidad de Sevilla	3	30	1327	2024.33
+482	University of Pecs	8	9	121	2024.56
+483	University of Brescia	2	10	355	2024.2
+484	Universidad de Murcia	3	35	1292	2022.86
+485	Universidad de Extremadura	3	14	706	2023.64
+486	University of Tübingen	1	39	1620	2024.08
+487	Ludwig-Maximilians-Universität München	1	85	10689	2023.88
+488	Mälardalen University	6	8	101	2024.25
+489	Lublin University of Technology	11	5	139	2023.0
+490	Universidad de Málaga	3	33	647	2024.0
+491	Eindhoven University of Technology	4	22	533	2023.73
+492	Universidade Nova de Lisboa	5	29	1337	2023.69
+493	Széchenyi István University	8	9	312	2023.67
+494	University of Genoa	2	13	243	2023.92
+495	Universidade Técnica do Porto	5	22	408	2024.45
+496	Sapienza University of Rome	2	34	1039	2023.53
+497	University of Silesia in Katowice	2	8	54	2023.75
+498	Vrije Universiteit Amsterdam	4	32	1040	2023.5
+499	KTH Royal Institute of Technology	6	49	1537	2023.59
+500	Universidad Politécnica de Madrid	9	49	803	2023.47
+501	University of Gothenburg	6	30	717	2023.67
+502	Universidad de Navarra	3	5	281	2024.4
+503	Universidad de León	3	17	243	2023.41
+504	Bucharest University of Economic Studies	10	36	1556	2023.72
+505	Universidade Lusófona	5	9	67	2024.78
+506	University of Amsterdam	4	33	981	2023.64
+507	RWTH Aachen University	4	22	713	2023.68
+508	Aalborg University	6	27	322	2023.93
+509	University of Western Macedonia	9	13	520	2023.31
+510	University of Palermo	2	13	194	2024.54
+511	Université de Lorraine	7	10	228	2023.8
+512	Umeå University	6	12	741	2023.25
+513	Universidad Europea de Madrid	3	11	260	2024.27
+514	Ruhr University Bochum	4	35	722	2023.23
+515	University of Latvia	1	13	227	2024.38
+516	Amsterdam UMC Location Vrije Universiteit Amsterdam	4	6	186	2022.5
+517	Wageningen University & Research	4	19	2667	2023.95
+518	Erasmus University Rotterdam	4	15	1522	2023.2
+519	Saarland University	1	12	546	2024.08
+520	University of Split	11	19	674	2023.63
+521	Leipzig University	7	12	304	2023.83
+522	University of West Bohemia in Pilsen	3	7	140	2024.14
+523	University of Lübeck	1	6	572	2023.17
+524	University of Bologna	2	34	5640	2023.85
+525	Politecnico di Milano	2	23	383	2023.83
+526	Technische Universität Braunschweig	1	5	26	2023.0
+527	Jönköping University	6	6	271	2024.67
+528	University of Twente	4	19	292	2023.47
+529	University of Bamberg	4	7	55	2024.14
+530	University of Jyväskylä	9	42	1046	2023.98
+531	Universidad Pablo de Olavide	3	16	932	2023.88
+532	University of Lapland	9	10	175	2023.5
+533	Otto-von-Guericke-Universität Magdeburg	1	11	268	2023.73
+534	Universitat Politècnica de Catalunya	3	28	618	2023.57
+535	University of Dunaújváros	8	9	249	2023.78
+536	Universidad Pontificia Comillas	3	6	184	2024.0
+537	Technical University of Denmark	6	14	366	2023.64
+538	University of Craiova	10	12	114	2023.42
+539	Delft University of Technology	4	33	5658	2023.61
+540	University of Oulu	9	74	6574	2023.81
+541	University of the Aegean	13	22	634	2024.36
+542	Aalto University	9	49	2471	2023.96
+543	KU Leuven	4	51	1460	2023.12
+544	Polish Academy of Sciences	8	8	218	2023.5
+545	University of Minho	5	24	332	2024.17

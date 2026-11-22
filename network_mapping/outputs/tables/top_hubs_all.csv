@@ -1,0 +1,16 @@
+institution_id,name,country,papers,papers_fractional,citations,partners_eu_map,strength_eu_map,betweenness_eu_map
+https://openalex.org/I8204097,Ludwig-Maximilians-Universität München,DE,109,40.18,10852,108.0,58.67,0.04
+https://openalex.org/I861853513,Sapienza University of Rome,IT,51,22.94,1086,104.0,26.22,0.04
+https://openalex.org/I1294671590,Centre National de la Recherche Scientifique,FR,89,17.59,1058,100.0,45.37,0.05
+https://openalex.org/I182534213,Universidade do Porto,PT,55,20.54,881,88.0,28.46,0.03
+https://openalex.org/I9360294,University of Bologna,IT,57,29.89,5723,85.0,19.05,0.02
+https://openalex.org/I71267560,University of Naples Federico II,IT,42,21.36,357,83.0,12.95,0.02
+https://openalex.org/I154526488,Inserm,FR,38,5.34,829,82.0,14.71,0.02
+https://openalex.org/I62916508,Technical University of Munich,DE,115,52.81,11463,79.0,46.6,0.02
+https://openalex.org/I141596103,University of Lisbon,PT,50,15.92,501,73.0,20.31,0.02
+https://openalex.org/I121748325,Universidad Complutense de Madrid,ES,68,33.6,1237,70.0,30.88,0.02
+https://openalex.org/I189158943,University of Milan,IT,36,15.74,380,68.0,14.55,0.01
+https://openalex.org/I99464096,KU Leuven,BE,73,33.01,1527,67.0,22.83,0.02
+https://openalex.org/I98358874,Delft University of Technology,NL,49,26.21,5801,66.0,17.39,0.02
+https://openalex.org/I2802164966,University Hospital Heidelberg,DE,21,4.35,645,64.0,12.42,0.01
+https://openalex.org/I138689650,University of Padua,IT,40,18.51,656,61.0,10.29,0.01

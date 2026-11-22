@@ -1,0 +1,539 @@
+institution_id,name,country,papers,collab_community,topic_cluster
+https://openalex.org/I175532246,University of Eastern Finland,FI,128,8.0,1.0
+https://openalex.org/I62916508,Technical University of Munich,DE,86,0.0,0.0
+https://openalex.org/I8204097,Ludwig-Maximilians-Universität München,DE,85,0.0,0.0
+https://openalex.org/I98381234,University of Oulu,FI,74,8.0,1.0
+https://openalex.org/I184999862,Universidad de Salamanca,ES,68,2.0,1.0
+https://openalex.org/I100930933,University College Dublin,IE,62,8.0,0.0
+https://openalex.org/I181343428,University of Zagreb,HR,58,10.0,1.0
+https://openalex.org/I133731052,University of Helsinki,FI,52,8.0,1.0
+https://openalex.org/I99464096,KU Leuven,BE,51,3.0,1.0
+https://openalex.org/I86987016,KTH Royal Institute of Technology,SE,49,5.0,1.0
+https://openalex.org/I88060688,Universidad Politécnica de Madrid,ES,49,8.0,1.0
+https://openalex.org/I9927081,Aalto University,FI,49,8.0,1.0
+https://openalex.org/I121748325,Universidad Complutense de Madrid,ES,48,2.0,1.0
+https://openalex.org/I161593684,Stockholm University,SE,47,5.0,1.0
+https://openalex.org/I193662353,Utrecht University,NL,47,3.0,1.0
+https://openalex.org/I1294671590,Centre National de la Recherche Scientifique,FR,47,6.0,0.0
+https://openalex.org/I16097986,Universitat de València,ES,47,2.0,1.0
+https://openalex.org/I39343248,Humboldt-Universität zu Berlin,DE,46,0.0,0.0
+https://openalex.org/I34352273,Maastricht University,NL,46,3.0,0.0
+https://openalex.org/I7877124,Charité – Universitätsmedizin Berlin,DE,45,0.0,0.0
+https://openalex.org/I124055696,University of Copenhagen,DK,45,5.0,0.0
+https://openalex.org/I21370196,Aristotle University of Thessaloniki,GR,44,12.0,0.0
+https://openalex.org/I69050122,Near East University,CY,44,9.0,1.0
+https://openalex.org/I50357001,Universidad Carlos III de Madrid,ES,43,3.0,1.0
+https://openalex.org/I108103353,Universidad de Valladolid,ES,43,2.0,1.0
+https://openalex.org/I94722563,University of Jyväskylä,FI,42,8.0,1.0
+https://openalex.org/I75951250,Freie Universität Berlin,DE,42,0.0,1.0
+https://openalex.org/I193629610,Tallinn University,EE,41,2.0,1.0
+https://openalex.org/I123387679,Uppsala University,SE,40,5.0,1.0
+https://openalex.org/I4210116615,Universidad Internacional de La Rioja,ES,40,2.0,1.0
+https://openalex.org/I8087733,University of Tübingen,DE,39,0.0,0.0
+https://openalex.org/I138847295,Universitat Oberta de Catalunya,ES,39,2.0,1.0
+https://openalex.org/I130194489,University of Alicante,ES,39,2.0,1.0
+https://openalex.org/I174878644,University of Patras,GR,38,12.0,1.0
+https://openalex.org/I182534213,Universidade do Porto,PT,37,4.0,1.0
+https://openalex.org/I204337017,Aarhus University,DK,37,5.0,0.0
+https://openalex.org/I181369854,Friedrich-Alexander-Universität Erlangen-Nürnberg,DE,37,0.0,1.0
+https://openalex.org/I155660961,University of Turku,FI,36,8.0,1.0
+https://openalex.org/I169381384,University of Groningen,NL,36,3.0,0.0
+https://openalex.org/I71999127,Universitat de Barcelona,ES,36,2.0,1.0
+https://openalex.org/I88491126,Bucharest University of Economic Studies,RO,36,9.0,1.0
+https://openalex.org/I904495901,Ruhr University Bochum,DE,35,3.0,1.0
+https://openalex.org/I154526488,Inserm,FR,35,6.0,0.0
+https://openalex.org/I131729948,University of Salerno,IT,35,1.0,1.0
+https://openalex.org/I80180929,Universidad de Murcia,ES,35,2.0,1.0
+https://openalex.org/I4210138519,DIPF | Leibniz Institute for Research and Information in Education,DE,35,3.0,1.0
+https://openalex.org/I9360294,University of Bologna,IT,34,1.0,0.0
+https://openalex.org/I154757721,University of Piraeus,GR,34,12.0,1.0
+https://openalex.org/I861853513,Sapienza University of Rome,IT,34,1.0,0.0
+https://openalex.org/I60858718,University of Aveiro,PT,34,4.0,1.0
+https://openalex.org/I114090438,Goethe University Frankfurt,DE,34,3.0,1.0
+https://openalex.org/I98358874,Delft University of Technology,NL,33,3.0,1.0
+https://openalex.org/I7876267,Open University of the Netherlands,NL,33,3.0,1.0
+https://openalex.org/I166825849,Tampere University,FI,33,8.0,1.0
+https://openalex.org/I82767444,Universidad de Málaga,ES,33,2.0,1.0
+https://openalex.org/I887064364,University of Amsterdam,NL,33,3.0,0.0
+https://openalex.org/I182083151,Universidad Rey Juan Carlos,ES,33,2.0,1.0
+https://openalex.org/I2802557943,Agostino Gemelli University Polyclinic,IT,32,1.0,0.0
+https://openalex.org/I865915315,Vrije Universiteit Amsterdam,NL,32,3.0,0.0
+https://openalex.org/I4210085968,Leibniz Institute for Science and Mathematics Education,DE,32,0.0,1.0
+https://openalex.org/I169108374,University of the Basque Country,ES,32,2.0,1.0
+https://openalex.org/I173304897,Universidad de Granada,ES,32,2.0,1.0
+https://openalex.org/I141596103,University of Lisbon,PT,31,4.0,1.0
+https://openalex.org/I178450904,Universidad Nacional de Educación a Distancia,ES,31,2.0,1.0
+https://openalex.org/I60053951,Universitat Politècnica de València,ES,31,2.0,1.0
+https://openalex.org/I53110688,University of Córdoba,ES,30,2.0,1.0
+https://openalex.org/I79238269,Universidad de Sevilla,ES,30,2.0,1.0
+https://openalex.org/I881427289,University of Gothenburg,SE,30,5.0,1.0
+https://openalex.org/I75092371,University of Hradec Králové,CZ,30,2.0,1.0
+https://openalex.org/I61641377,Universitatea Națională de Știință și Tehnologie Politehnica București,RO,30,9.0,1.0
+https://openalex.org/I17389662,University of Nicosia,CY,30,12.0,1.0
+https://openalex.org/I83558840,Universidade Nova de Lisboa,PT,29,4.0,1.0
+https://openalex.org/I170486558,Universitat Pompeu Fabra,ES,29,1.0,1.0
+https://openalex.org/I153976015,University of Ljubljana,SI,29,8.0,1.0
+https://openalex.org/I103320735,Università Cattolica del Sacro Cuore,IT,29,1.0,0.0
+https://openalex.org/I71267560,University of Naples Federico II,IT,29,1.0,0.0
+https://openalex.org/I200777214,National and Kapodistrian University of Athens,GR,29,12.0,0.0
+https://openalex.org/I37696226,University of Maribor,SI,29,10.0,1.0
+https://openalex.org/I9617848,Universitat Politècnica de Catalunya,ES,28,2.0,1.0
+https://openalex.org/I108290504,University of Pisa,IT,28,1.0,0.0
+https://openalex.org/I192878625,Plovdiv University,BG,28,9.0,1.0
+https://openalex.org/I106118109,Eötvös Loránd University,HU,27,7.0,1.0
+https://openalex.org/I42934936,Dublin City University,IE,27,2.0,1.0
+https://openalex.org/I190632392,Luleå University of Technology,SE,27,8.0,1.0
+https://openalex.org/I891191580,Aalborg University,DK,27,5.0,1.0
+https://openalex.org/I4210094138,University of West Attica,GR,27,12.0,1.0
+https://openalex.org/I138689650,University of Padua,IT,27,1.0,0.0
+https://openalex.org/I145722265,University of Thessaly,GR,27,12.0,1.0
+https://openalex.org/I4210155236,National Research Council,IT,26,1.0,1.0
+https://openalex.org/I27577105,University College Cork,IE,26,8.0,0.0
+https://openalex.org/I223464139,Linnaeus University,SE,26,5.0,1.0
+https://openalex.org/I79189158,University of Castilla-La Mancha,ES,26,2.0,1.0
+https://openalex.org/I5561750,University of Bari Aldo Moro,IT,26,1.0,1.0
+https://openalex.org/I186903577,University of Luxembourg,LU,25,5.0,1.0
+https://openalex.org/I159176309,Universität Hamburg,DE,25,11.0,1.0
+https://openalex.org/I123044942,Universitat Autònoma de Barcelona,ES,25,2.0,1.0
+https://openalex.org/I28166907,Karolinska Institutet,SE,25,5.0,0.0
+https://openalex.org/I4092182,Graz University of Technology,AT,25,11.0,1.0
+https://openalex.org/I99682543,University of Minho,PT,24,4.0,1.0
+https://openalex.org/I106296451,University of Foggia,IT,24,1.0,1.0
+https://openalex.org/I145872427,Radboud University Nijmegen,NL,24,3.0,1.0
+https://openalex.org/I231025917,Hellenic Open University,GR,24,12.0,1.0
+https://openalex.org/I21449261,Masaryk University,CZ,24,10.0,1.0
+https://openalex.org/I176453806,University of Potsdam,DE,24,0.0,1.0
+https://openalex.org/I177802217,University of Mannheim,DE,24,0.0,1.0
+https://openalex.org/I55143463,University of Turin,IT,24,2.0,1.0
+https://openalex.org/I188760350,Ollscoil na Gaillimhe – University of Galway,IE,24,8.0,0.0
+https://openalex.org/I78650965,Technische Universität Dresden,DE,24,6.0,1.0
+https://openalex.org/I147962203,Democritus University of Thrace,GR,23,12.0,1.0
+https://openalex.org/I93860229,Politecnico di Milano,IT,23,1.0,1.0
+https://openalex.org/I120691247,FernUniversität in Hagen,DE,23,3.0,1.0
+https://openalex.org/I3018771216,LMU Klinikum,DE,23,0.0,0.0
+https://openalex.org/I63634437,Universidad Autónoma de Madrid,ES,23,2.0,1.0
+https://openalex.org/I114112103,Leibniz University Hannover,DE,23,0.0,1.0
+https://openalex.org/I102134673,Linköping University,SE,22,5.0,1.0
+https://openalex.org/I83019370,Eindhoven University of Technology,NL,22,3.0,1.0
+https://openalex.org/I39804081,Sorbonne Université,FR,22,6.0,0.0
+https://openalex.org/I165339363,Universidad de Oviedo,ES,22,2.0,1.0
+https://openalex.org/I32597200,Ghent University,BE,22,3.0,1.0
+https://openalex.org/I98805295,University of the Aegean,GR,22,12.0,1.0
+https://openalex.org/I83863532,Universidade Técnica do Porto,PT,22,4.0,1.0
+https://openalex.org/I189158943,University of Milan,IT,22,1.0,0.0
+https://openalex.org/I21250087,Charles University,CZ,22,10.0,1.0
+https://openalex.org/I135140700,University of Bonn,DE,22,0.0,1.0
+https://openalex.org/I887968799,RWTH Aachen University,DE,22,3.0,0.0
+https://openalex.org/I62318514,University of Duisburg-Essen,DE,21,0.0,1.0
+https://openalex.org/I2799391451,University Hospital Bonn,DE,21,0.0,0.0
+https://openalex.org/I201841394,Université Côte d'Azur,FR,21,6.0,1.0
+https://openalex.org/I26415053,University of L'Aquila,IT,21,1.0,0.0
+https://openalex.org/I192756129,University of Macedonia,GR,21,12.0,1.0
+https://openalex.org/I180923762,University of Cologne,DE,21,0.0,0.0
+https://openalex.org/I56085075,University of Tartu,EE,21,8.0,1.0
+https://openalex.org/I5593406,Universitat Ramon Llull,ES,21,2.0,1.0
+https://openalex.org/I76198965,Friedrich Schiller University Jena,DE,21,0.0,0.0
+https://openalex.org/I255234318,Universidad de Zaragoza,ES,21,2.0,1.0
+https://openalex.org/I66752286,University of Milano-Bicocca,IT,20,1.0,1.0
+https://openalex.org/I4210092303,Universidade Politécnica de Bragança,PT,20,4.0,1.0
+https://openalex.org/I189268942,Universidad de Alcalá,ES,20,2.0,1.0
+https://openalex.org/I3018483916,University Medical Center Utrecht,NL,20,3.0,0.0
+https://openalex.org/I193223587,University of Trento,IT,20,1.0,1.0
+https://openalex.org/I92251255,University of Split,HR,19,10.0,1.0
+https://openalex.org/I1334415907,University Medical Center Groningen,NL,19,3.0,0.0
+https://openalex.org/I94624287,University of Twente,NL,19,3.0,1.0
+https://openalex.org/I55952717,Universitat Rovira i Virgili,ES,19,2.0,1.0
+https://openalex.org/I205274468,Trinity College Dublin,IE,19,8.0,0.0
+https://openalex.org/I913481162,Wageningen University & Research,NL,19,3.0,1.0
+https://openalex.org/I56475706,Mid Sweden University,SE,19,5.0,1.0
+https://openalex.org/I121883995,Johannes Kepler University of Linz,AT,19,11.0,1.0
+https://openalex.org/I1326498283,Institut national de recherche en sciences et technologies du numérique,FR,19,6.0,0.0
+https://openalex.org/I230495080,University of Limerick,IE,18,8.0,0.0
+https://openalex.org/I4392021127,Instituto Universitario de Ciencias de la Educación,ES,18,2.0,1.0
+https://openalex.org/I4210151833,Amsterdam University Medical Centers,NL,18,3.0,0.0
+https://openalex.org/I102335020,Karlsruhe Institute of Technology,DE,18,0.0,1.0
+https://openalex.org/I2802164966,University Hospital Heidelberg,DE,18,0.0,0.0
+https://openalex.org/I223822909,Heidelberg University,DE,18,0.0,0.0
+https://openalex.org/I11019714,Universidade da Coruña,ES,18,2.0,1.0
+https://openalex.org/I15766117,University of Graz,AT,18,11.0,1.0
+https://openalex.org/I187531555,Lund University,SE,18,5.0,0.0
+https://openalex.org/I22465464,University of Münster,DE,17,0.0,0.0
+https://openalex.org/I187293425,University of Ostrava,CZ,17,10.0,1.0
+https://openalex.org/I31151848,Technical University of Sofia,BG,17,9.0,1.0
+https://openalex.org/I4210166615,INESC TEC,PT,17,4.0,1.0
+https://openalex.org/I4387153886,University of Tampere,FI,17,8.0,1.0
+https://openalex.org/I179225836,University of Augsburg,DE,17,0.0,1.0
+https://openalex.org/I126596746,Jagiellonian University,PL,17,4.0,0.0
+https://openalex.org/I4210144925,Technological University Dublin,IE,17,8.0,1.0
+https://openalex.org/I142617266,University of Crete,GR,17,12.0,1.0
+https://openalex.org/I6289922,Universidade de Vigo,ES,17,4.0,1.0
+https://openalex.org/I177969490,University of Southern Denmark,DK,17,5.0,0.0
+https://openalex.org/I46176106,Universidad de Burgos,ES,17,2.0,1.0
+https://openalex.org/I188922065,University of Economics in Katowice,PL,17,4.0,1.0
+https://openalex.org/I8833935,Universidad de León,ES,17,2.0,1.0
+https://openalex.org/I172446870,University of Cagliari,IT,16,1.0,0.0
+https://openalex.org/I3123573182,Transilvania University of Brașov,RO,16,9.0,1.0
+https://openalex.org/I122346577,University of Modena and Reggio Emilia,IT,16,1.0,0.0
+https://openalex.org/I4210097159,Assistance Publique – Hôpitaux de Paris,FR,16,6.0,0.0
+https://openalex.org/I145847075,TU Wien,AT,16,11.0,1.0
+https://openalex.org/I155381812,University of Trás-os-Montes and Alto Douro,PT,16,4.0,1.0
+https://openalex.org/I13469542,Vrije Universiteit Brussel,BE,16,5.0,1.0
+https://openalex.org/I183764125,Technical University of Košice,SK,16,10.0,1.0
+https://openalex.org/I183898223,International Hellenic University,GR,16,12.0,1.0
+https://openalex.org/I201118511,European University Cyprus,CY,16,12.0,0.0
+https://openalex.org/I74788687,Comenius University Bratislava,SK,16,10.0,1.0
+https://openalex.org/I95013407,Universidad Pablo de Olavide,ES,16,2.0,1.0
+https://openalex.org/I111112146,Tallinn University of Technology,EE,16,8.0,1.0
+https://openalex.org/I51314090,University of Osijek,HR,15,10.0,0.0
+https://openalex.org/I204730241,Université Paris Cité,FR,15,6.0,0.0
+https://openalex.org/I45084792,University of Florence,IT,15,5.0,1.0
+https://openalex.org/I120832542,Eszterhazy Karoly Catholic University,HU,15,7.0,1.0
+https://openalex.org/I76134821,Medical University of Vienna,AT,15,11.0,0.0
+https://openalex.org/I913958620,Erasmus University Rotterdam,NL,15,3.0,0.0
+https://openalex.org/I136040515,Universidad de Deusto,ES,15,2.0,1.0
+https://openalex.org/I1339471597,Humanitas University,IT,15,1.0,0.0
+https://openalex.org/I76903346,University of Coimbra,PT,15,4.0,1.0
+https://openalex.org/I80606768,Universidad de Extremadura,ES,14,2.0,1.0
+https://openalex.org/I25974101,University of Würzburg,DE,14,0.0,1.0
+https://openalex.org/I4210119061,Institut de Recherche en Informatique de Toulouse,FR,14,6.0,1.0
+https://openalex.org/I4210165134,University of Kyrenia,CY,14,9.0,1.0
+https://openalex.org/I96673099,Technical University of Denmark,DK,14,5.0,1.0
+https://openalex.org/I180437899,University of Bremen,DE,14,11.0,1.0
+https://openalex.org/I2802619606,TUM Klinikum,DE,14,0.0,0.0
+https://openalex.org/I2801952686,Erasmus MC,NL,14,0.0,0.0
+https://openalex.org/I121797337,Leiden University,NL,14,3.0,1.0
+https://openalex.org/I33800924,Academia Oamenilor de Știință din România,RO,14,9.0,1.0
+https://openalex.org/I16197041,Cyprus International University,CY,14,9.0,1.0
+https://openalex.org/I3121153395,West University of Timişoara,RO,14,9.0,1.0
+https://openalex.org/I4210153204,Universidade Portucalense,PT,14,4.0,1.0
+https://openalex.org/I103356709,Obuda University,HU,14,7.0,1.0
+https://openalex.org/I58918642,"Sofia University ""St. Kliment Ohridski""",BG,14,9.0,1.0
+https://openalex.org/I194019607,University of Ioannina,GR,14,1.0,1.0
+https://openalex.org/I124601658,University of Parma,IT,13,2.0,0.0
+https://openalex.org/I129043915,University of Udine,IT,13,1.0,0.0
+https://openalex.org/I4387152675,Rheinland-Pfälzische Technische Universität Kaiserslautern-Landau,DE,13,0.0,1.0
+https://openalex.org/I129774422,University of Vienna,AT,13,11.0,1.0
+https://openalex.org/I900890020,University of Palermo,IT,13,1.0,0.0
+https://openalex.org/I177477856,Politecnico di Torino,IT,13,2.0,1.0
+https://openalex.org/I44504214,Czech Technical University in Prague,CZ,13,4.0,1.0
+https://openalex.org/I83816512,University of Genoa,IT,13,1.0,0.0
+https://openalex.org/I161046081,University of Freiburg,DE,13,11.0,0.0
+https://openalex.org/I33256026,German Research Centre for Artificial Intelligence,DE,13,0.0,1.0
+https://openalex.org/I172574986,Kaunas University of Technology,LT,13,3.0,1.0
+https://openalex.org/I89506807,University of Western Macedonia,GR,13,8.0,1.0
+https://openalex.org/I91123046,University of Latvia,LV,13,0.0,1.0
+https://openalex.org/I17937529,German Cancer Research Center,DE,12,0.0,0.0
+https://openalex.org/I116067653,University of Rome Tor Vergata,IT,12,1.0,0.0
+https://openalex.org/I91712215,Saarland University,DE,12,0.0,0.0
+https://openalex.org/I97553796,University of Craiova,RO,12,9.0,1.0
+https://openalex.org/I926574661,Leipzig University,DE,12,6.0,0.0
+https://openalex.org/I108403487,Warsaw University of Technology,PL,12,7.0,1.0
+https://openalex.org/I277688954,Université Paris-Saclay,FR,12,6.0,1.0
+https://openalex.org/I112862951,University of Messina,IT,12,1.0,0.0
+https://openalex.org/I119439378,University of Verona,IT,12,1.0,0.0
+https://openalex.org/I190249584,Universität Innsbruck,AT,12,11.0,1.0
+https://openalex.org/I197809005,"University of Campania ""Luigi Vanvitelli""",IT,12,1.0,0.0
+https://openalex.org/I90267481,Umeå University,SE,12,5.0,0.0
+https://openalex.org/I268303160,Medical University of Warsaw,PL,12,7.0,0.0
+https://openalex.org/I20121455,Bielefeld University,DE,12,0.0,0.0
+https://openalex.org/I119004910,Silesian University of Technology,PL,12,6.0,1.0
+https://openalex.org/I110026055,Iscte – Instituto Universitário de Lisboa,PT,12,4.0,0.0
+https://openalex.org/I102064193,University of Siena,IT,12,5.0,0.0
+https://openalex.org/I4210153126,Istituti di Ricovero e Cura a Carattere Scientifico,IT,12,1.0,0.0
+https://openalex.org/I4210136238,Leibniz-Institut für Wissensmedien,DE,12,0.0,1.0
+https://openalex.org/I206945453,Paderborn University,DE,12,0.0,1.0
+https://openalex.org/I200763008,Justus-Liebig-Universität Gießen,DE,12,0.0,0.0
+https://openalex.org/I47996466,University of Warmia and Mazury in Olsztyn,PL,12,11.0,0.0
+https://openalex.org/I746986,Halmstad University,SE,12,5.0,1.0
+https://openalex.org/I68947357,Université de Strasbourg,FR,12,1.0,0.0
+https://openalex.org/I158438070,Universidad de La Laguna,ES,12,3.0,1.0
+https://openalex.org/I132976966,Universität für Weiterbildung Krems,AT,11,2.0,1.0
+https://openalex.org/I4210165014,Universidade Politécnica de Portalegre,PT,11,4.0,1.0
+https://openalex.org/I43986944,Angel Kanchev University of Ruse,BG,11,9.0,1.0
+https://openalex.org/I183111857,Malmö University,SE,11,5.0,1.0
+https://openalex.org/I201787326,Riga Technical University,LV,11,0.0,1.0
+https://openalex.org/I4210105025,University North,HR,11,10.0,1.0
+https://openalex.org/I134560555,Université Toulouse III - Paul Sabatier,FR,11,6.0,1.0
+https://openalex.org/I904013037,Universidad Europea de Madrid,ES,11,2.0,0.0
+https://openalex.org/I122534668,Marche Polytechnic University,IT,11,6.0,0.0
+https://openalex.org/I197854408,University of Malta,MT,11,12.0,1.0
+https://openalex.org/I4210094118,Universitätsklinikum Tübingen,DE,11,0.0,0.0
+https://openalex.org/I26437253,Örebro University,SE,11,5.0,0.0
+https://openalex.org/I24768866,Bulgarian Academy of Sciences,BG,11,9.0,1.0
+https://openalex.org/I193700539,Tilburg University,NL,11,3.0,1.0
+https://openalex.org/I173212132,Vilnius University,LT,11,11.0,1.0
+https://openalex.org/I149213910,University of Antwerp,BE,11,3.0,0.0
+https://openalex.org/I138938424,Università degli Studi della Tuscia,IT,11,2.0,1.0
+https://openalex.org/I4210148941,IU International University of Applied Sciences,DE,11,3.0,1.0
+https://openalex.org/I4210086570,Heidelberg University of Education,DE,11,0.0,1.0
+https://openalex.org/I174004417,Munich University of Applied Sciences,DE,11,,1.0
+https://openalex.org/I4210129203,Tehničko Veleučilište u Zagrebu,HR,11,10.0,1.0
+https://openalex.org/I4210134900,Jena University Hospital,DE,11,0.0,0.0
+https://openalex.org/I4210139777,Berlin Institute of Health at Charité - Universitätsmedizin Berlin,DE,11,0.0,0.0
+https://openalex.org/I306340464,Constantine the Philosopher University in Nitra,SK,11,10.0,1.0
+https://openalex.org/I2802709434,Rigshospitalet,DK,11,5.0,0.0
+https://openalex.org/I2800231306,Universitair Ziekenhuis Leuven,BE,11,3.0,0.0
+https://openalex.org/I161103922,Philipps University of Marburg,DE,11,0.0,0.0
+https://openalex.org/I2802567020,Copenhagen University Hospital,DK,11,5.0,0.0
+https://openalex.org/I95793202,Otto-von-Guericke-Universität Magdeburg,DE,11,0.0,1.0
+https://openalex.org/I102248843,Vienna University of Economics and Business,AT,11,0.0,1.0
+https://openalex.org/I100066346,University of Stuttgart,DE,11,0.0,1.0
+https://openalex.org/I68956291,Martin Luther University Halle-Wittenberg,DE,10,0.0,1.0
+https://openalex.org/I2802681329,Wekerle Business School,HU,10,,1.0
+https://openalex.org/I118905719,University of Primorska,SI,10,8.0,1.0
+https://openalex.org/I90183372,Université de Lorraine,FR,10,6.0,1.0
+https://openalex.org/I111702420,John Paul II Catholic University of Lublin,PL,10,11.0,1.0
+https://openalex.org/I95220073,University of Lapland,FI,10,8.0,1.0
+https://openalex.org/I59746437,Open University of Cyprus,CY,10,1.0,1.0
+https://openalex.org/I45204951,University of Calabria,IT,10,1.0,1.0
+https://openalex.org/I4210137384,Centre for Health Technology and Services Research,PT,10,4.0,0.0
+https://openalex.org/I4210153755,University Hospital Cologne,DE,10,0.0,0.0
+https://openalex.org/I4210145679,Medizinische Hochschule Brandenburg Theodor Fontane,DE,10,0.0,0.0
+https://openalex.org/I4405261432,Institut für Didaktik und Ausbildungsforschung in der Medizin,DE,10,0.0,1.0
+https://openalex.org/I59411706,Adam Mickiewicz University in Poznań,PL,10,11.0,1.0
+https://openalex.org/I52354020,University of Almería,ES,10,2.0,1.0
+https://openalex.org/I66862912,Chalmers University of Technology,SE,10,5.0,1.0
+https://openalex.org/I64935225,Bratislava University of Economics and Business,SK,10,10.0,1.0
+https://openalex.org/I227486990,University of Szeged,HU,10,5.0,0.0
+https://openalex.org/I206895457,University of Siegen,DE,10,3.0,1.0
+https://openalex.org/I3129555431,University Hospital Regensburg,DE,10,0.0,0.0
+https://openalex.org/I31512782,Technische Universität Darmstadt,DE,10,0.0,1.0
+https://openalex.org/I154347574,University of Rijeka,HR,10,10.0,0.0
+https://openalex.org/I155765044,University of Hildesheim,DE,10,0.0,1.0
+https://openalex.org/I141595442,University of Bucharest,RO,10,9.0,1.0
+https://openalex.org/I79940851,University of Brescia,IT,10,1.0,0.0
+https://openalex.org/I132735039,University of Debrecen,HU,10,7.0,0.0
+https://openalex.org/I4210157357,University of Ss. Cyril and Methodius in Trnava,SK,10,7.0,1.0
+https://openalex.org/I4387152517,Instituto Superior Técnico,PT,10,4.0,0.0
+https://openalex.org/I4210166741,University of Klagenfurt,AT,10,0.0,1.0
+https://openalex.org/I173112312,Trakia University,BG,10,,1.0
+https://openalex.org/I174458059,National Technical University of Athens,GR,10,12.0,1.0
+https://openalex.org/I162290304,Scuola Superiore Sant'Anna,IT,10,1.0,1.0
+https://openalex.org/I4390039327,Faculty of Electrical Engineering and Computing in Zagreb,HR,10,10.0,1.0
+https://openalex.org/I4400600447,Laboratoire d'Innovation et Numérique pour l'Éducation,FR,10,6.0,1.0
+https://openalex.org/I4405260129,MNEMOSYNE: Mnemonic Synergy,FR,10,6.0,1.0
+https://openalex.org/I4210125310,Pegaso University,IT,10,1.0,1.0
+https://openalex.org/I4210132817,Mercatorum University,IT,10,1.0,1.0
+https://openalex.org/I4210121786,Max Planck Institute for Software Systems,DE,9,11.0,
+https://openalex.org/I4210133214,IRCCS Ospedale San Raffaele,IT,9,1.0,
+https://openalex.org/I4405253272,Centro de Estudos Organizacionais e Sociais,PT,9,4.0,
+https://openalex.org/I142762351,Royal College of Surgeons in Ireland,IE,9,8.0,
+https://openalex.org/I129877168,Carl von Ossietzky Universität Oldenburg,DE,9,11.0,
+https://openalex.org/I162051807,Carol Davila University of Medicine and Pharmacy,RO,9,9.0,
+https://openalex.org/I161321875,University of Beira Interior,PT,9,4.0,
+https://openalex.org/I4391767784,Research Centre in Digitalization and Intelligent Robotics,PT,9,4.0,
+https://openalex.org/I79741316,University of Pecs,HU,9,7.0,
+https://openalex.org/I15057530,Université de Bordeaux,FR,9,6.0,
+https://openalex.org/I13134134,Universidad de Cantabria,ES,9,2.0,
+https://openalex.org/I11923345,Wrocław University of Science and Technology,PL,9,7.0,
+https://openalex.org/I106157433,University of Kassel,DE,9,0.0,
+https://openalex.org/I88596544,Universidade Lusófona,PT,9,4.0,
+https://openalex.org/I2802635041,Technische Informationsbibliothek (TIB),DE,9,0.0,
+https://openalex.org/I119003972,Roma Tre University,IT,9,1.0,
+https://openalex.org/I3122011922,University of Žilina,SK,9,10.0,
+https://openalex.org/I2279609970,Université de Lille,FR,9,6.0,
+https://openalex.org/I2277624104,Fondazione Bruno Kessler,IT,9,1.0,
+https://openalex.org/I200284239,Universidade de Santiago de Compostela,ES,9,2.0,
+https://openalex.org/I32592955,Ludwigsburg University of Education,DE,9,0.0,
+https://openalex.org/I4654613,University of Warsaw,PL,9,7.0,
+https://openalex.org/I182212641,University of Salzburg,AT,9,11.0,
+https://openalex.org/I186354981,University of Passau,DE,9,9.0,
+https://openalex.org/I3122695212,Politehnica University of Timisoara,RO,9,9.0,
+https://openalex.org/I96221595,University of Dunaújváros,HU,9,7.0,
+https://openalex.org/I111262870,Universitat de Miguel Hernández d'Elx,ES,9,2.0,
+https://openalex.org/I83579964,Széchenyi István University,HU,9,7.0,
+https://openalex.org/I157286207,"National University of Ireland, Maynooth",IE,9,1.0,
+https://openalex.org/I155976169,Witten/Herdecke University,DE,9,3.0,
+https://openalex.org/I319272996,University of Mediterranean Karpasia,CY,9,9.0,
+https://openalex.org/I3125347698,Babeș-Bolyai University,RO,9,9.0,
+https://openalex.org/I110757952,Slovak University of Technology in Bratislava,SK,9,10.0,
+https://openalex.org/I38186990,Haaga-Helia University of Applied Sciences,FI,8,8.0,
+https://openalex.org/I2800191616,Maastricht University Medical Centre,NL,8,3.0,
+https://openalex.org/I2801240073,University Medical Center Freiburg,DE,8,11.0,
+https://openalex.org/I82509713,Mälardalen University,SE,8,5.0,
+https://openalex.org/I110620307,Budapest University of Economics and Business,HU,8,7.0,
+https://openalex.org/I119635470,Universidad de Las Palmas de Gran Canaria,ES,8,2.0,
+https://openalex.org/I122991210,"Istituto di Scienza e Tecnologie dell'Informazione ""Alessandro Faedo""",IT,8,1.0,
+https://openalex.org/I121345201,Instituto de Engenharia de Sistemas e Computadores Investigação e Desenvolvimento,PT,8,4.0,
+https://openalex.org/I864159182,University of Silesia in Katowice,PL,8,1.0,
+https://openalex.org/I99542240,Polish Academy of Sciences,PL,8,7.0,
+https://openalex.org/I113456305,Leuphana University of Lüneburg,DE,8,5.0,
+https://openalex.org/I32021983,Christian-Albrechts-Universität zu Kiel,DE,8,0.0,
+https://openalex.org/I686019,AGH University of Krakow,PL,8,7.0,
+https://openalex.org/I4210116730,Universitätsmedizin Göttingen,DE,8,0.0,
+https://openalex.org/I3123915005,Universitat Internacional de Catalunya,ES,8,6.0,
+https://openalex.org/I54009628,University of Bayreuth,DE,8,0.0,
+https://openalex.org/I251424209,Universitat de Girona,ES,8,2.0,
+https://openalex.org/I246010334,Università degli Studi di Enna Kore,IT,8,1.0,
+https://openalex.org/I4405268545,Care and Public Health Research Institute,NL,8,3.0,
+https://openalex.org/I4577782,Technische Universität Berlin,DE,8,0.0,
+https://openalex.org/I4210163047,IRCCS Humanitas Research Hospital,IT,8,1.0,
+https://openalex.org/I130929987,University of Mons,BE,8,6.0,
+https://openalex.org/I1293226324,UNESCO,FR,8,1.0,
+https://openalex.org/I143288331,Hasso Plattner Institute,DE,8,0.0,
+https://openalex.org/I4210125843,University Hospital Leipzig,DE,8,6.0,
+https://openalex.org/I4210136150,L3S Research Center,DE,8,0.0,
+https://openalex.org/I4210145324,Hôpitaux Universitaires de Strasbourg,FR,8,6.0,
+https://openalex.org/I144246526,University of Trnava,SK,8,7.0,
+https://openalex.org/I187792471,Ionian University,GR,8,12.0,
+https://openalex.org/I180519160,Copenhagen Business School,DK,8,5.0,
+https://openalex.org/I50441567,Universitat de les Illes Balears,ES,8,2.0,
+https://openalex.org/I188730046,Vytautas Magnus University,LT,8,2.0,
+https://openalex.org/I4210113215,IRCCS Ospedale Galeazzi - Sant'Ambrogio,IT,8,1.0,
+https://openalex.org/I2800006345,Leiden University Medical Center,NL,8,3.0,
+https://openalex.org/I189712700,University of Konstanz,DE,8,8.0,
+https://openalex.org/I92715842,University of West Bohemia in Pilsen,CZ,7,2.0,
+https://openalex.org/I3006985408,Jožef Stefan Institute,SI,7,4.0,
+https://openalex.org/I60668342,University of Regensburg,DE,7,1.0,
+https://openalex.org/I29770179,Budapest University of Technology and Economics,HU,7,7.0,
+https://openalex.org/I2800394112,Helsinki University Hospital,FI,7,8.0,
+https://openalex.org/I4210119349,Karlsruhe University of Education,DE,7,0.0,
+https://openalex.org/I4210114246,UMIT TIROL - Private University for Health Sciences and Health Technology,AT,7,11.0,
+https://openalex.org/I4210114974,IMEC,BE,7,3.0,
+https://openalex.org/I4210115393,Azienda Ospedaliero-Universitaria Careggi,IT,7,1.0,
+https://openalex.org/I71209653,Bocconi University,IT,7,4.0,
+https://openalex.org/I21491767,Aix-Marseille Université,FR,7,6.0,
+https://openalex.org/I216306336,J. Selye University,SK,7,7.0,
+https://openalex.org/I202276237,Medical University of Graz,AT,7,10.0,
+https://openalex.org/I204881574,University of Pavol Jozef Šafárik,SK,7,10.0,
+https://openalex.org/I4405287638,Österreichische Computer Gesellschaft,AT,7,11.0,
+https://openalex.org/I185808892,Universidade Politécnica do Cávado e do Ave,PT,7,4.0,
+https://openalex.org/I196349391,Universität Ulm,DE,7,11.0,
+https://openalex.org/I4210100923,Munster Technological University,IE,7,2.0,
+https://openalex.org/I4210092610,VIZJA University,PL,7,4.0,
+https://openalex.org/I56067802,Université de Rennes,FR,7,6.0,
+https://openalex.org/I193619901,Constructor University,DE,7,2.0,
+https://openalex.org/I4210102288,Algebra Bernays University,HR,7,10.0,
+https://openalex.org/I25217355,University of Pavia,IT,7,1.0,
+https://openalex.org/I4210099625,Copenhagen Academy for Medical Education and Simulation,DK,7,5.0,
+https://openalex.org/I207624831,Slovak Academy of Sciences,SK,7,10.0,
+https://openalex.org/I4210127641,Vall d'Hebron Hospital Universitari,ES,7,2.0,
+https://openalex.org/I4210142209,John von Neumann University,HU,7,7.0,
+https://openalex.org/I4210126294,Riga Stradiņš University,LV,7,0.0,
+https://openalex.org/I159650629,University of Sassari,IT,7,1.0,
+https://openalex.org/I163151358,Cyprus University of Technology,CY,7,12.0,
+https://openalex.org/I169427155,Universidade de Leiria e Oeste,PT,7,4.0,
+https://openalex.org/I169333911,Gdańsk University of Technology,PL,7,7.0,
+https://openalex.org/I170658231,Osnabrück University,DE,7,0.0,
+https://openalex.org/I142910587,University of Salento,IT,7,0.0,
+https://openalex.org/I4210126764,Universitair Ziekenhuis Brussel,BE,7,5.0,
+https://openalex.org/I138164181,Alexandru Ioan Cuza University,RO,7,9.0,
+https://openalex.org/I1335113835,Karolinska University Hospital,SE,7,5.0,
+https://openalex.org/I130217899,Åbo Akademi University,FI,7,5.0,
+https://openalex.org/I4391767962,Deutsches Konsortium für Translationale Krebsforschung,DE,7,0.0,
+https://openalex.org/I4210162051,University Hospital Carl Gustav Carus,DE,7,6.0,
+https://openalex.org/I4210160625,Institut de Chirurgie Guidée par l'Image,FR,7,1.0,
+https://openalex.org/I94626330,University of Bamberg,DE,7,3.0,
+https://openalex.org/I101202996,Semmelweis University,HU,7,7.0,
+https://openalex.org/I100532134,Lyon 1 Université,FR,7,6.0,
+https://openalex.org/I111664937,Rzeszów University of Technology,PL,6,1.0,
+https://openalex.org/I115304662,Universitat de Vic - Universitat Central de Catalunya,ES,6,10.0,
+https://openalex.org/I911458345,Amsterdam UMC Location Vrije Universiteit Amsterdam,NL,6,3.0,
+https://openalex.org/I9341345,University of Lübeck,DE,6,0.0,
+https://openalex.org/I4210155949,European Public Health Association,NL,6,3.0,
+https://openalex.org/I96580804,Universidad Pontificia Comillas,ES,6,2.0,
+https://openalex.org/I94616838,Jönköping University,SE,6,5.0,
+https://openalex.org/I4210165932,Giustino Fortunato University,IT,6,1.0,
+https://openalex.org/I4387154273,ESIC University,ES,6,12.0,
+https://openalex.org/I4210159731,LIP6,FR,6,6.0,
+https://openalex.org/I4665924,University of Rostock,DE,6,0.0,
+https://openalex.org/I4210136182,Universitätsmedizin Rostock,DE,6,0.0,
+https://openalex.org/I4405259960,Digital Futures,SE,6,5.0,
+https://openalex.org/I4405252513,Centro de Investigação Didática e Tecnologia na Formação de Formadores,PT,6,4.0,
+https://openalex.org/I4401726909,Center for Scalable Data Analytics and Artificial Intelligence,DE,6,6.0,
+https://openalex.org/I4210108711,University Medical Center Hamburg-Eppendorf,DE,6,1.0,
+https://openalex.org/I4210109058,Azienda Ospedaliero-Universitaria di Modena,IT,6,1.0,
+https://openalex.org/I4210115097,Hospital Clínic de Barcelona,ES,6,2.0,
+https://openalex.org/I4210112713,University Hospital Schleswig-Holstein,DE,6,0.0,
+https://openalex.org/I4210103026,Universidade Politécnica da Guarda,PT,6,2.0,
+https://openalex.org/I44260953,Heinrich Heine University Düsseldorf,DE,6,0.0,
+https://openalex.org/I58077936,Romanian Academy,RO,6,9.0,
+https://openalex.org/I55106644,Amsterdam University of Applied Sciences,NL,6,3.0,
+https://openalex.org/I4210094062,University Medical Center of the Johannes Gutenberg University Mainz,DE,6,0.0,
+https://openalex.org/I104588304,University of Szczecin,PL,6,7.0,
+https://openalex.org/I107502644,Spiru Haret University,RO,6,9.0,
+https://openalex.org/I110263422,University West,SE,6,5.0,
+https://openalex.org/I134820265,Consejo Superior de Investigaciones Científicas,ES,6,6.0,
+https://openalex.org/I172685059,Uniwersytet Komisji Edukacji Narodowej w Krakowie,PL,6,7.0,
+https://openalex.org/I163245316,Corvinus University of Budapest,HU,6,7.0,
+https://openalex.org/I185020484,Catholic University of Ávila,ES,6,12.0,
+https://openalex.org/I254421610,School of Pedagogical and Technological Education,GR,6,12.0,
+https://openalex.org/I2961216182,Hospital Clínico San Carlos,ES,6,2.0,
+https://openalex.org/I305801656,Wroclaw University of Economics and Business,PL,6,7.0,
+https://openalex.org/I3020445194,Universidad Nebrija,ES,6,2.0,
+https://openalex.org/I70703428,Palacký University Olomouc,CZ,6,10.0,
+https://openalex.org/I70451448,HAW Hamburg,DE,6,11.0,
+https://openalex.org/I71503853,University of Algarve,PT,6,4.0,
+https://openalex.org/I60587646,Brno University of Technology,CZ,6,11.0,
+https://openalex.org/I27897274,Istituto Superiore di Sanità,IT,6,1.0,
+https://openalex.org/I2799788900,University of Economics and Innovation,PL,6,10.0,
+https://openalex.org/I2800562746,Hospital Universitario La Paz,ES,6,2.0,
+https://openalex.org/I293362453,Universidade Politécnica de Coimbra,PT,6,4.0,
+https://openalex.org/I36515993,Eastern Mediterranean University,CY,6,9.0,
+https://openalex.org/I32881790,Université de Poitiers,FR,6,6.0,
+https://openalex.org/I3122748864,"""Dunarea de Jos"" University of Galati",RO,6,9.0,
+https://openalex.org/I4210119759,Essen University Hospital,DE,6,0.0,
+https://openalex.org/I19894307,Université de Montpellier,FR,6,6.0,
+https://openalex.org/I197323543,Johannes Gutenberg University Mainz,DE,6,0.0,
+https://openalex.org/I27483092,University of Perugia,IT,6,1.0,
+https://openalex.org/I201025148,Universidade Aberta,PT,6,4.0,
+https://openalex.org/I171543936,Free University of Bozen-Bolzano,IT,6,1.0,
+https://openalex.org/I4210086854,National-Louis University,PL,5,10.0,
+https://openalex.org/I4210097083,IRCCS Azienda Ospedliero-Universitaria di Bologna Policlinico di Sant'Orsola,IT,5,1.0,
+https://openalex.org/I4210095444,Saint Camillus International University of Health and Medical Sciences,IT,5,1.0,
+https://openalex.org/I4210114274,Laboratoire d’Informatique et Systèmes,FR,5,6.0,
+https://openalex.org/I4210111460,National Center for Tumor Diseases,DE,5,6.0,
+https://openalex.org/I4210109354,Institut de Recherche contre les Cancers de l’Appareil Digestif,FR,5,1.0,
+https://openalex.org/I4210110782,Catholic University of Croatia,HR,5,10.0,
+https://openalex.org/I4210135709,Industrial Systems Institute,GR,5,1.0,
+https://openalex.org/I4210135666,Rezekne Academy of Technologies,LV,5,0.0,
+https://openalex.org/I4405269091,Else Kröner Fresenius Center for Digital Health,DE,5,6.0,
+https://openalex.org/I4210148174,Leibniz Institute for Educational Trajectories,DE,5,3.0,
+https://openalex.org/I4387156359,South East Technological University,IE,5,8.0,
+https://openalex.org/I4405252451,Centro ALGORITMI,PT,5,4.0,
+https://openalex.org/I4210163063,Institute of Information and Communication Technologies,BG,5,9.0,
+https://openalex.org/I115752224,University of Insubria,IT,5,1.0,
+https://openalex.org/I94509681,Technische Universität Braunschweig,DE,5,0.0,
+https://openalex.org/I120163777,OTH Regensburg,DE,5,1.0,
+https://openalex.org/I4387154156,NHL Stenden University of Applied Sciences,NL,5,3.0,
+https://openalex.org/I4210105663,Deutsches Herzzentrum der Charité,DE,5,0.0,
+https://openalex.org/I4210124285,Amsterdam Public Health,NL,5,3.0,
+https://openalex.org/I4210122463,Neapolis University Pafos,CY,5,12.0,
+https://openalex.org/I4405261313,"Donders Institute for Brain, Cognition and Behaviour",NL,5,3.0,
+https://openalex.org/I4210125590,Institute for Systems Engineering and Computers,PT,5,4.0,
+https://openalex.org/I2898155008,Academic Center for Dentistry Amsterdam,NL,5,3.0,
+https://openalex.org/I2801112325,Sahlgrenska University Hospital,SE,5,5.0,
+https://openalex.org/I2800967931,University of Latvia FinTech Business School,LV,5,0.0,
+https://openalex.org/I40413290,University of Gdańsk,PL,5,7.0,
+https://openalex.org/I25169866,Universidade Católica Portuguesa,PT,5,4.0,
+https://openalex.org/I24881138,Cracow University of Technology,PL,5,7.0,
+https://openalex.org/I24568809,Transport and Telecommunication Institute,LV,5,0.0,
+https://openalex.org/I243381257,Universidad Loyola Andalucía,ES,5,2.0,
+https://openalex.org/I232005693,Universidad Francisco de Vitoria,ES,5,2.0,
+https://openalex.org/I230915877,The American College of Greece,GR,5,12.0,
+https://openalex.org/I75124487,Gdańsk Medical University,PL,5,4.0,
+https://openalex.org/I74656192,University of Göttingen,DE,5,8.0,
+https://openalex.org/I3018323443,Centre Hospitalier Universitaire de Bordeaux,FR,5,6.0,
+https://openalex.org/I39147953,Universidad de Cádiz,ES,5,2.0,
+https://openalex.org/I39063666,University of Catania,IT,5,1.0,
+https://openalex.org/I36443711,Magna Graecia University,IT,5,1.0,
+https://openalex.org/I41382782,Universidad Pontificia de Salamanca,ES,5,2.0,
+https://openalex.org/I183638586,Parthenope University of Naples,IT,5,1.0,
+https://openalex.org/I203847022,Universidade Politécnica de Lisboa,PT,5,4.0,
+https://openalex.org/I18193975,SGH Warsaw School of Economics,PL,5,2.0,
+https://openalex.org/I174183983,Maria Curie-Skłodowska University,PL,5,11.0,
+https://openalex.org/I168346926,Science Foundation Ireland,IE,5,8.0,
+https://openalex.org/I188884621,Lodz University of Technology,PL,5,7.0,
+https://openalex.org/I166182418,Medical University of Silesia,PL,5,1.0,
+https://openalex.org/I149461666,Ca' Foscari University of Venice,IT,5,1.0,
+https://openalex.org/I158333966,Technical University of Cluj-Napoca,RO,5,0.0,
+https://openalex.org/I158716096,University of Peloponnese,GR,5,12.0,
+https://openalex.org/I124121301,Lucian Blaga University of Sibiu,RO,5,9.0,
+https://openalex.org/I134461962,Novia University of Applied Sciences,FI,5,5.0,
+https://openalex.org/I1331168281,Ludovika University of Public Service,HU,5,7.0,
+https://openalex.org/I132053463,Université Libre de Bruxelles,BE,5,3.0,
+https://openalex.org/I130294970,Częstochowa University of Technology,PL,5,7.0,
+https://openalex.org/I88155538,Universidad de Navarra,ES,5,2.0,
+https://openalex.org/I8264552,Lublin University of Technology,PL,5,10.0,
+https://openalex.org/I78880903,Universidad de Huelva,ES,5,2.0,
+https://openalex.org/I10902133,Universitat Jaume I,ES,5,4.0,

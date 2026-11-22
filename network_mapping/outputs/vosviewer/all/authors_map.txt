@@ -1,0 +1,1736 @@
+id	label	weight<Papers>	weight<Citations>	score<Avg. pub. year>
+1	Ralf Romeike	11	140	2023.73
+2	Rasmus R. Hansen	4	73	2024.5
+3	Ľubomír Šnajder	4	9	2021.5
+4	Christina Malamateniou	9	154	2024.44
+5	Bartosz Ptasznik	3	45	2024.33
+6	Harald Kittler	3	161	2021.33
+7	Madeth May	3	4	2024.67
+8	Detmar Meurers	5	17	2024.4
+9	Marie Hornberger	3	579	2024.0
+10	Daniela Fiedler	4	47	2024.0
+11	Christos Douligeris	3	15	2023.0
+12	Joseph Olamide Omidiora	3	218	2022.0
+13	Gabriela Grosseck	7	81	2024.43
+14	Stefano Rossi	3	14	2023.67
+15	Gia Minh Vo	4	19	2023.5
+16	Muhittin Şahi̇n	3	10	2021.33
+17	Peter Wulff	16	471	2023.5
+18	Gerd Vandersteen	4	71	2022.75
+19	Nikolaos Matzakos	5	187	2024.4
+20	Zaibei Li	4	10	2024.25
+21	George A. Tsihrintzis	7	218	2023.57
+22	Raija Hämäläinen	4	77	2024.75
+23	Eugenio Tufino	3	25	2025.0
+24	Tibor Fauszt	5	89	2022.0
+25	Inga Hege	3	22	2023.33
+26	Miguel L. Bote‐Lorenzo	5	34	2022.4
+27	Alena Rodda	3	5	2022.67
+28	Andrija Bernik	5	33	2024.6
+29	Rubén Arístides González Crespo	5	83	2021.2
+30	Francesca Latino	3	0	2024.67
+31	Koen Smit	3	5	2024.33
+32	Luca Cagliero	5	63	2023.0
+33	Pedro Teixeira Isaias	4	3	2024.0
+34	Maria Nobile	3	22	2022.33
+35	A. Eichler	3	0	2023.33
+36	Ángel Hernández-García	4	50	2023.5
+37	Eugenia Smyrnova‐Trybulska	5	27	2024.0
+38	Andrea Westphal	3	122	2021.67
+39	Carolin Hahnel	4	26	2024.5
+40	Julio Cabero Almenara	5	184	2024.6
+41	Leonard Knoedler	5	223	2023.8
+42	Mrinmaya Sachan	10	70	2024.6
+43	Rita Bezerra	4	14	2023.75
+44	Giulio Rossetti	3	86	2023.33
+45	Alexandra Farazouli	7	432	2024.0
+46	Andreja Istenič Starčič	5	1372	2024.0
+47	O. Ragos	4	157	2020.25
+48	Grgur Kovač	3	11	2023.67
+49	Davide Di Ruscio	3	58	2024.67
+50	Angelo Rega	4	2	2024.75
+51	Pedro J. Muñoz‐Merino	22	622	2022.0
+52	Iris Groher	5	25	2024.2
+53	Kati Mäkitalo‐Siegl	4	58	2023.75
+54	Ilona Buchem	4	2	2024.75
+55	Ferit Kılıçkaya	3	22	2024.67
+56	Georgios Feretzakis	4	4	2023.75
+57	Mark F. McEntee	5	100	2024.2
+58	Neil Selwyn	3	434	2024.67
+59	Niels van Berkel	3	36	2024.67
+60	Daniel Biedermann	3	22	2024.33
+61	Birte Heinemann	3	1	2023.33
+62	Daniel Fürstenau	3	80	2022.33
+63	Sezer Kanbul	4	13	2022.75
+64	Miguel Cazorla	4	29	2024.5
+65	Simona Tirocchi	3	3	2024.33
+66	Alejandra Martínez‐Monés	5	70	2023.0
+67	Jenni Kankaanpää	3	10	2022.33
+68	Paulo Moura Oliveira	4	43	2023.5
+69	Stefanie Corradini	4	48	2025.0
+70	Daniel Bengs	4	22	2024.5
+71	Pablo Moreno-ger A	5	65	2022.4
+72	Kairit Tammets	10	188	2022.4
+73	Cora Parrisius	3	12	2024.33
+74	Nicolae Nistor	4	19	2023.5
+75	Xiu Li	4	153	2021.75
+76	Teodor-Cristian Rădoi	3	2	2024.0
+77	Gianluca Zaza	4	27	2023.5
+78	Carla Barreiros	4	24	2022.25
+79	Horia Alexandru Modran	7	75	2024.0
+80	Bogdan-Ștefan Posedaru	4	90	2023.25
+81	Naghmeh Aghaee	3	15	2024.33
+82	Lisa C. Adams	4	278	2023.75
+83	Marc Berges	6	107	2023.0
+84	Michael Vierhauser	4	24	2024.25
+85	Joanna Rosak-Szyrocka	5	64	2024.0
+86	Manuel A. Castro	4	44	2022.25
+87	Arosh S. Perera Molligoda Arachchige	6	31	2023.0
+88	Christian Gütl	3	12	2024.0
+89	Inmaculada Marín‐López	3	103	2024.33
+90	Montathar Faraon	6	117	2024.17
+91	Lina Katharina Mosch	3	63	2022.0
+92	Cristina Alonso‐Fernández	3	34	2023.33
+93	Christian Stöhr	3	346	2023.0
+94	Zoe Kanetaki	4	70	2021.75
+95	Loukas Triantafyllopoulos	5	10	2024.8
+96	Νικόλαος Πέλλας	11	494	2023.18
+97	Stanisław Górski	3	11	2024.67
+98	Ewa Duda	4	2	2025.0
+99	Κλεοπάτρα Νικολοπούλου	6	237	2024.83
+100	Nathan McJames	3	27	2023.33
+101	Frank Fischer	11	7933	2024.18
+102	Víctor López Simó	5	41	2024.6
+103	Samuel Greiff	5	244	2022.4
+104	Keno K. Bressem	3	278	2023.33
+105	G. Calabrò	5	123	2023.8
+106	Jose Ramon Belda-Medina	4	461	2023.25
+107	Hasan Abu-Rasheed	4	120	2024.5
+108	Dana-Kristin Mah	8	372	2024.38
+109	Francisco J. Rodríguez‐Sedano	5	30	2023.4
+110	Monica Di Domenico	3	0	2025.0
+111	Maria José Sousa	5	16	2024.4
+112	Marie-Monique Schaper	4	206	2022.75
+113	Sebastian Norbert Marschner	3	40	2025.0
+114	Urtė Radvilaitė	3	18	2024.33
+115	Andrzej E. Grzybowski	5	133	2024.2
+116	Andreas Mühling	4	48	2022.75
+117	Marianne Kinnula	4	44	2023.5
+118	Maximilian Kiefer-Emmanouilidis	3	115	2024.33
+119	Roberto Menè	3	106	2022.0
+120	Agostino Marengo	7	635	2024.14
+121	Julia-Astrid Moldt	5	406	2024.0
+122	Alina Iorga Pisica	4	217	2024.25
+123	Anders Kalsgaard Møller	4	6	2024.75
+124	Graciela Padilla Castillo	3	18	2025.0
+125	Maria Moundridou	5	187	2024.4
+126	Daren Scerri	3	7	2024.33
+127	Andreea Veșcan	3	7	2023.0
+128	Julius Schöning	3	5	2023.67
+129	Rozita Tsoni	5	22	2022.4
+130	Marina Buzzi	4	18	2024.75
+131	Johannes Krugel	4	86	2023.75
+132	Maciej Pankiewicz	5	66	2024.0
+133	Stefanie Lindstaedt	4	24	2022.25
+134	Enrique Barra	5	85	2023.6
+135	Gökmen Dağlı	17	118	2023.94
+136	Manuel Caeiro Rodríguez	3	17	2023.67
+137	Jacqueline Wong	6	77	2024.33
+138	Anabel Pilicita	3	23	2025.0
+139	Attila Kővári	8	186	2024.38
+140	Susanne Zabel	3	64	2024.33
+141	Martin Brunner	3	24	2020.33
+142	Paul Ștefan Popescu	3	47	2022.33
+143	Lorenzo Canale	4	58	2022.5
+144	Patricia C. Everaert	3	144	2022.67
+145	Mauro Mancini	3	15	2024.67
+146	Paolo Terenziani	3	19	2024.33
+147	Marta Mas‐Machuca	3	260	2025.0
+148	Vincentas Lamanauskas	6	16	2024.5
+149	Chrysi Rapanta	4	110	2025.0
+150	Jelena Gusić Munđar	3	5	2023.67
+151	Rosó Baltà‐Salvador	3	79	2025.0
+152	Jarosław A. Chudziak	3	11	2025.0
+153	Aayat Aljarrah	3	71	2021.33
+154	Laura Farinetti	6	79	2023.17
+155	Gunter  J.T. Bombaerts	4	26	2023.75
+156	Tatyana Ivanova	3	2	2022.0
+157	Axel Böttcher	3	10	2024.67
+158	J. Mäkelä	4	31	2023.0
+159	Matthias Tschöpe	3	3	2024.33
+160	Mahmoud Hamash	5	23	2025.0
+161	Nikola Kadoić	5	60	2023.2
+162	Thu-Nguyet Huynh	3	129	2025.0
+163	Smiljana Gartner	3	55	2023.33
+164	Enkelejda Kasneci	21	8203	2024.1
+165	Otmane Azeroual	3	0	2025.0
+166	Cristina-Laura ABRUDAN	4	1	2024.5
+167	Manfred Claassen	3	64	2024.33
+168	Derek Timothy O'Keeffe	3	45	2023.33
+169	Keith Quille	9	45	2022.78
+170	Bart Rienties	14	871	2022.5
+171	Monica Ionita Ciolacu	7	193	2022.14
+172	Hanna Järvenoja	4	189	2023.75
+173	Lucie Rohlíková	3	27	2024.0
+174	Mohammadreza Farrokhnia	4	1654	2023.25
+175	Frank Marcinkowski	3	185	2022.0
+176	María Soledad Villarrubia Zúñiga	3	8	2025.0
+177	Frederic Marimón	5	266	2025.0
+178	Stefan Gerd Fritsch	3	3	2024.33
+179	Lucía Campo	7	279	2024.71
+180	Ahmed Mohammed Saleh Alduais	3	138	2024.0
+181	Viktoriya Olari	9	140	2023.44
+182	Panagiotis Alexopoulos	3	15	2024.67
+183	Rania Abdelghani	4	160	2023.25
+184	Judith Ozkan	4	0	2024.25
+185	Ilkka Jormanainen	13	737	2021.54
+186	Grzegorz Rafał Dec	3	109	2022.67
+187	Jan Delcker	4	205	2024.0
+188	Fernando Perez Tellez	3	11	2023.67
+189	Benoît Frénay‬	3	5	2021.33
+190	Raquel Hijón‐Neira	3	16	2023.33
+191	Chrysostomos D. Stylios	4	151	2022.5
+192	Dimitra Dodou	3	105	2023.67
+193	Dieter Landes	3	10	2024.33
+194	Sophie Othman	3	0	2025.0
+195	Elisabeth Bauer	6	378	2024.33
+196	Carina Soledad González González	11	146	2023.73
+197	Ioannis Voyiatzis	4	113	2022.5
+198	Christine Siemer	3	17	2024.67
+199	Luis Manuel Sánchez Ruiz	3	237	2024.0
+200	Igor Miladinović	4	12	2023.5
+201	Iñigo López-Gazpio	3	84	2023.67
+202	Christian Grévisse	5	181	2024.4
+203	Jan Egger	3	113	2024.33
+204	Georgi Hristov	3	4	2024.67
+205	Martin Kandlhofer	7	70	2023.14
+206	Ioannis Kazanidis	3	114	2023.33
+207	Niels Olof Bouvin	5	133	2022.8
+208	Jiří Lukavský	4	462	2024.75
+209	Norbert Annuš	6	90	2024.0
+210	Baltasar Fernández‐Manjón	7	106	2022.86
+211	Stephan Schönecker	3	40	2025.0
+212	Iván Martínez‐Ortiz	4	76	2022.5
+213	Sebastian Kühn	3	25	2025.0
+214	Dogus Darici	3	139	2024.33
+215	Márta Turcsányi-Szabó	3	75	2025.0
+216	Harald Binder	4	84	2022.75
+217	Eleni Tzanaki	3	15	2024.33
+218	Charles Koutcheme	7	89	2024.29
+219	Soumyabrata Dev	3	34	2024.0
+220	Eleanor Bantry White	3	34	2024.0
+221	Johan T. Jeuring	3	78	2023.0
+222	Dimitriοs Kotsifakos	3	15	2023.0
+223	Adrián Pérez-Suay	3	52	2022.33
+224	Arsénio Reis	3	37	2024.0
+225	Giacomo Nalli	3	59	2022.0
+226	Dimitrie-Daniel Plăcintă	3	15	2024.0
+227	Çiğdem Hürsen	4	3	2024.5
+228	María Paz Prendes Espinosa	4	522	2023.0
+229	Veronika Hein	4	462	2024.75
+230	David Chartash	4	2276	2023.25
+231	Antonio Pérez-Portabella	4	19	2025.0
+232	Johannes Schleiß	8	163	2024.0
+233	Ilaria Compagnoni	3	12	2025.0
+234	Maryam Alqassab	3	30	2024.67
+235	Jacobo Roda-Segarra	3	17	2024.0
+236	François Bouchet	5	236	2021.4
+237	Lucija Gosak	3	298	2024.0
+238	Alessio Bottrighi	3	19	2024.33
+239	Mariano Albaladejo‐González	7	41	2024.43
+240	Matthias Carl Laupichler	8	1421	2023.12
+241	Pedro Román Graván	4	41	2024.75
+242	Kristina Schaaff	3	22	2024.0
+243	Zouhaier Slimi	5	400	2023.2
+244	Kathrin Seßler	6	7950	2023.83
+245	Dimitrios E. Tzimas	5	174	2023.4
+246	Jūlija Mironova	3	8	2024.33
+247	Christian Stegemann–Philipps	3	311	2024.33
+248	Lambrini Seremeti	3	18	2024.67
+249	Daniel Spikol	13	204	2023.08
+250	María Soledad	8	393	2023.88
+251	Pablo Arnau‐González	7	37	2023.71
+252	Manuel J. Gomez	7	89	2022.57
+253	Gabriele Biagini	4	182	2025.0
+254	Ludger Deitmer	4	17	2023.25
+255	Jochen Zimmermann	3	24	2023.67
+256	Raffaello Furlan	3	106	2022.0
+257	Eric Ortega González	3	50	2024.67
+258	Joana Heil	7	255	2024.14
+259	Magnus Høholt Kaspersen	12	353	2022.33
+260	Ivan Letteri	5	10	2024.6
+261	Fredrik Heintz	7	627	2022.71
+262	Simona Ramanauskaitė	3	18	2024.33
+263	Luís Cardoso	6	39	2024.5
+264	Alexander Steinmaurer	4	19	2024.25
+265	Johannes Voshaar	3	24	2023.67
+266	Ilka Wolter	3	22	2024.33
+267	Adelson de Araujo	3	44	2024.33
+268	Edmundo Tovar	3	13	2024.0
+269	Yannik Fleischer	7	89	2022.71
+270	María Consuelo Sáiz Manzanares	7	152	2022.14
+271	Marie Utterberg Modén	3	64	2023.33
+272	Nicola Cucari	3	293	2024.67
+273	Mariusz Lipowski	3	93	2021.67
+274	Patricia Goldberg	3	33	2023.67
+275	Stefano Di Tore	4	20	2024.25
+276	Antonio Palacios‐Rodríguez	8	215	2024.75
+277	Nuno Gonçalo Coelho Costa Pombo	5	18	2024.6
+278	Nicole Graulich	5	117	2023.8
+279	Corina Simionescu	3	1	2023.67
+280	Josep M. Duart	7	408	2023.0
+281	Artis Teilāns	3	7	2021.33
+282	Valentina Bellini	3	29	2025.0
+283	Mónika Rajcsányi-Molnár	4	30	2023.75
+284	Birgit J. Oberer	4	11	2024.0
+285	Georgios Karalekas	3	42	2024.33
+286	Susanne Hallberg	3	10	2022.33
+287	Ruth Cobos	6	48	2024.17
+288	Asokan Vasudevan	6	7	2024.83
+289	Jacopo Antonino Vitale	4	62	2024.25
+290	Bahtijar Vogel	8	288	2023.38
+291	Friederike Holderried	4	409	2024.25
+292	Philipp Haindl	3	131	2024.33
+293	Michele Domenico Todino	5	11	2024.0
+294	Kristof De Witte	6	55	2023.17
+295	Davide Taibi	12	113	2023.75
+296	Wolfgang Fuhl	4	250	2024.0
+297	Arne Bewersdorff	6	819	2023.5
+298	Barbara Wollenberg	3	131	2024.0
+299	Ana‐Elena Guerrero‐Roldán	6	632	2022.0
+300	Sonja Gabriel	4	77	2024.5
+301	P. J. Wall	3	17	2023.33
+302	Sankalan Pal Chowdhury	5	45	2024.4
+303	Abdelkader Ouared	3	5	2024.33
+304	Markku Tukiainen	7	854	2022.86
+305	Stefano Cuomo	3	15	2025.0
+306	Stefano D’Urso	5	51	2024.0
+307	Christian Dieter Schunn	3	87	2025.0
+308	Paraskevi Topali	4	138	2024.75
+309	Ivan Peraić	3	17	2022.67
+310	Anna Kharko	3	141	2022.0
+311	Dorota Stadnicka	4	151	2022.5
+312	Manuel Freire	4	72	2022.25
+313	Nils Pancratz	4	19	2023.5
+314	Birutė Pliuskuvienė	3	18	2024.33
+315	Alvaro Costa Neto	3	8	2024.0
+316	Rodica Milena Zaharia	4	215	2024.0
+317	Johanna Velander	6	242	2024.17
+318	Lucas Wilhelm Liebenow	3	478	2023.67
+319	Matthias J. Stadler	11	8128	2024.0
+320	Fezile Özdamlı	6	73	2022.83
+321	Åsa Cajander	5	26	2024.6
+322	Karina E. Avila	8	435	2024.0
+323	Federica Pelizzari	3	7	2024.33
+324	Jesús Moreno-León	4	221	2021.25
+325	Jens Kleesiek	3	57	2022.33
+326	Jordi Linares-Pellicer	3	31	2024.33
+327	Victor-Alexandru Pădurean	5	207	2024.4
+328	Georgi Petrov Dimitrov	8	11	2024.0
+329	Iván Chérrez-Ojeda	4	55	2024.0
+330	Rui Almeida	5	72	2024.4
+331	Éva Karl	4	31	2024.5
+332	Carlos Alario‐Hoyos	14	228	2023.5
+333	Lucia Campitiello	4	20	2024.0
+334	Gregor Štiglic	3	298	2024.0
+335	Ivica Botički	4	6	2024.5
+336	Lucas Jasper Jacobsen	5	181	2024.4
+337	Ruikun Hou	4	37	2024.0
+338	Michael Fischer	4	457	2023.5
+339	Vasyl Martsenyuk	7	7	2024.29
+340	Danial Hooshyar	3	114	2024.0
+341	Mikko Nurminen	3	11	2023.0
+342	Wladimir Hettmann	3	9	2024.67
+343	Friday Joseph Agbo	9	749	2022.33
+344	Téo Sanchez	3	40	2022.33
+345	Απόστολος Κώστας	6	45	2025.0
+346	Félix Gómez Mármol	3	24	2024.33
+347	Leonardo Rigutini	3	2	2024.0
+348	Julien Broisin	3	25	2023.67
+349	Achilles D. Kameas	6	65	2023.17
+350	Aurélie Lagarrigue	4	26	2021.25
+351	Miltiadis Demetrios Lytras	6	27	2024.17
+352	Jalal Nouri	12	297	2022.42
+353	Daniel Pinto dos Santos	5	467	2022.0
+354	Albrecht Fortenbacher	3	5	2020.0
+355	Antonio García‐Cabot	4	56	2021.0
+356	Paul Cuffe	4	6	2024.0
+357	Alexandra Aster	6	1199	2023.67
+358	Dariusz Grabara	3	19	2024.0
+359	Daniela Marghitu	3	4	2024.0
+360	Petra Ivenz	3	119	2024.0
+361	Sven Tarp	4	29	2024.25
+362	Stavros Demetriadis	9	206	2023.11
+363	Olov Engwall	4	18	2024.75
+364	Cecilia Fissore	6	47	2023.5
+365	Tim Schlippe	6	79	2023.17
+366	Mirko Marras	9	113	2023.44
+367	İsmail Çelik	12	2272	2023.92
+368	Joni Lämsä	6	142	2024.0
+369	Abdülkadir Karadeniz	3	425	2021.33
+370	Clara Schumacher	5	184	2021.6
+371	Mariana Aki Tamashiro	4	206	2022.75
+372	Gerti Pishtari	7	117	2022.43
+373	Jose Manuel Vidal-Sanz	18	11	2021.0
+374	Jane Yin-Kim Yau	7	909	2022.0
+375	Víctor M. Pérez-Colado	3	35	2022.67
+376	Iria Estévez Ayres	8	112	2023.25
+377	Fisnik Dalipi	4	287	2023.0
+378	Line Have Musaeus	3	38	2024.67
+379	Sónia Rolland Sobral	5	121	2023.2
+380	Michael Gr. Voskoglou	5	72	2020.6
+381	Steven Van Vaerenbergh	4	56	2022.5
+382	Bhaskar Kumar Somani	5	39	2024.0
+383	Florian Putz	3	127	2023.67
+384	Johan Lundin	3	72	2023.33
+385	Raquel Espejo‐Siles	3	103	2024.33
+386	Petri Rantanen	3	8	2024.0
+387	Andrea Zingoni	7	160	2023.71
+388	Isabella C. Wiest	3	41	2024.67
+389	Lefteris Moussiades	3	19	2024.67
+390	Wan Chong Choi	4	45	2024.0
+391	Martina Huemann	3	15	2024.67
+392	Calkin Suero Montero	3	5	2024.0
+393	Krist V. Gernaey	5	88	2023.8
+394	Mátyás Turós	3	24	2025.0
+395	Stan O. van Ginkel	3	272	2023.33
+396	Vassilis Komis	7	372	2024.14
+397	Epaminondas Epaminonda	3	3	2025.0
+398	Janne Fagerlund	4	205	2023.5
+399	Ewa Wanda Maruszewska	3	19	2024.0
+400	Sara Capecchi	3	8	2024.0
+401	Hemendra Worlikar	3	45	2023.33
+402	Ahmad Bassam Alzubi	5	40	2025.0
+403	Maria João Ferreira	4	119	2023.25
+404	Giusi Antonia Toto	3	0	2024.67
+405	Nadine Bergner	3	45	2023.0
+406	Benedikt Zönnchen	5	24	2024.4
+407	Teresa Cerratto Pargman	11	815	2023.27
+408	Juan Ramón Rico-Juan	5	66	2023.6
+409	Goran Bubaš	4	46	2023.5
+410	Marco Gori	5	10	2024.0
+411	René Helbig	3	5	2020.0
+412	Kateryna Osadchа	4	26	2024.5
+413	Kristýna Kiliánová	3	12	2024.67
+414	Anastasios A. Economides	3	55	2024.67
+415	Zacharoula Smyrnaiou	4	27	2024.25
+416	Susanne Dau	4	6	2024.25
+417	Clara Punzi	3	46	2024.0
+418	Justin Reich	4	73	2023.0
+419	Franca Dipaola	3	106	2022.0
+420	Artur Strzelecki	10	1864	2024.2
+421	Giancarlo Fortino	6	125	2025.0
+422	Peter Haddawy	3	40	2022.0
+423	Oleksandra Poquet	8	7687	2023.62
+424	Monica-Ariana Sim	3	1	2024.67
+425	Mohamed Elhayany	4	13	2024.0
+426	Paul Christoph Gembarski	4	12	2021.75
+427	Sebastian H. Maier	3	40	2025.0
+428	Álvaro Becerra	4	45	2024.25
+429	Carlos Hervás-Gómez	4	28	2024.5
+430	Michal Černý	5	69	2024.4
+431	Mila Staneva	4	1	2022.5
+432	Constantinos I. Stergiou	3	62	2021.0
+433	Sunday Adewale Olaleye	4	342	2022.25
+434	Rukiye Altın	3	8	2024.33
+435	Erik W. Driessen	3	13	2025.0
+436	Daniele Mazzei	3	149	2022.0
+437	Yosra Mourali	3	6	2020.67
+438	Gjergji Kasneci	6	7851	2024.17
+439	Angelo Basta	6	0	2024.67
+440	Γεώργιος Λαμπρόπουλος	12	576	2024.25
+441	Riina Kleimola	3	94	2023.0
+442	Teresa Magal-Royo	3	4	2024.0
+443	Lan Umek	4	269	2024.5
+444	Víctor Sánchez-Anguix	5	4	2021.4
+445	Juan Alfonso Lara	4	180	2023.5
+446	Maurizio Gabbrielli	4	45	2023.0
+447	Mikko‐Jussi Laakso	6	167	2022.0
+448	Yianna Danidou	3	71	2025.0
+449	Salvatore Citraro	3	86	2023.33
+450	Tiago Oliveira	5	221	2021.0
+451	Yavuz Selim Kıyak	7	80	2024.57
+452	Martín Sainz de la Maza	3	22	2024.67
+453	Walid Maalej	3	59	2023.33
+454	Jorge de Andrés Sánchez	3	12	2025.0
+455	Joep van der Graaf	3	232	2021.33
+456	Yazan Mualla	4	26	2024.25
+457	Birgit Pohn	5	41	2023.2
+458	Matthew Montebello	6	28	2022.67
+459	Juan Pedro Cerro Martínez	4	61	2023.25
+460	Sebastian C. Cotofana	4	163	2024.0
+461	Marta Arguedas	4	142	2023.25
+462	Gerit Wagner	3	42	2024.33
+463	Vítor Gonçalves	4	2	2024.0
+464	Pilar Aparicio Martínez	4	115	2022.5
+465	Vineet Gauhar	3	13	2024.33
+466	Gülsüm Aşıksoy	3	18	2024.33
+467	Fredrik Ahlgren	3	28	2023.67
+468	Alicia García‐Holgado	3	11	2023.67
+469	Cristina Dumitru	3	53	2024.67
+470	José Manuel Alcalde-Llergo	3	44	2023.67
+471	Konrad J. Schönborn	4	151	2022.75
+472	Erkki Kaila	3	4	2023.33
+473	Παναγιώτης Αναστασιάδης	3	49	2024.67
+474	Margarida Roméro	21	161	2023.62
+475	Bruce M. McLaren	3	15	2025.0
+476	Milen Petrov	3	12	2021.0
+477	Daniel Palacios Alonso	3	12	2023.33
+478	Ute Schmid	4	12	2024.25
+479	Isaac Alpizar-Chacón	3	50	2024.67
+480	Jakub Kužílek	5	106	2023.4
+481	Rebecca Lazarides	6	148	2024.0
+482	Peter Grabusts	3	9	2021.33
+483	Iryna Gurevych	6	53	2024.17
+484	Aayesha Zia	4	153	2021.0
+485	Marc Alier	8	295	2023.75
+486	Georgios Kostopoulos	7	282	2021.43
+487	Adish Kumar Singla	15	288	2024.33
+488	Hendrik Drachsler	30	1240	2022.97
+489	Cyril Brom	4	462	2024.75
+490	Teresa Romeu Fontanillas	4	61	2023.25
+491	Tobias Ley	12	213	2022.92
+492	Ramón Palau	9	101	2024.44
+493	Marcia Håkansson Lindqvist	5	16	2024.6
+494	Thiemo Leonhardt	4	61	2023.25
+495	Begonya García-Zapirain	5	78	2021.4
+496	Daniel Amo	10	100	2022.3
+497	Jahna Otterbacher	5	89	2024.0
+498	Rebecka Weegar	5	204	2021.4
+499	Mohammed Sallam	4	89	2024.75
+500	Lorenzo Cesaretti	4	35	2021.75
+501	Ana Sevilla‐Pavón	3	65	2024.33
+502	Jim Prentzas	3	46	2024.0
+503	Md. Saifuddin Khalid	4	54	2023.25
+504	Maria Rauschenberger	5	307	2023.0
+505	Tesnim Khelifi	3	14	2023.33
+506	Elisabeth Staudegger	3	14	2022.0
+507	Maria Concetta Carruba	3	9	2025.0
+508	Jiřı́ Pospı́chal	3	16	2024.0
+509	Henry Fergus Duncan	3	85	2024.67
+510	Felix Busch	4	366	2023.75
+511	Nejc Mekiš	3	77	2024.33
+512	Adrian Florea	3	262	2024.67
+513	Takeshi Kondo	3	22	2024.67
+514	Jussi Sakari Jauhiainen	8	422	2024.38
+515	Félix Buendía	3	11	2025.0
+516	Paul Pouzergues	3	0	2025.0
+517	Belén Donate-Beby	4	22	2023.25
+518	Eleni Mangina	4	56	2020.75
+519	Jochen Kühn	16	8248	2024.06
+520	Patricia Brockmann	3	0	2025.0
+521	Ana Elena Schalk	3	37	2022.67
+522	Enda Donlon	3	1	2025.0
+523	Houcine Ezzedine	3	6	2020.67
+524	Mohammed Ahmed Taiye	3	236	2023.67
+525	Dirk T. Tempelaar	14	277	2022.07
+526	Kateřina Kostolányová	5	13	2024.8
+527	Senad Bećirović	3	59	2024.67
+528	Keith E. Nolan	6	36	2022.5
+529	Luca Piovesan	3	19	2024.33
+530	Marianne Graves Petersen	13	486	2022.69
+531	Akrivi Krouska	13	124	2023.92
+532	Maria Sofologi	3	23	2025.0
+533	Henry Muccini	3	1	2024.0
+534	Thomas Christian Kwee	6	324	2023.0
+535	Charlott Sellberg	3	22	2024.67
+536	Patricia Callejo	5	94	2024.2
+537	Pelin Karaçay	3	42	2023.67
+538	Enikő Nagy	6	39	2024.5
+539	Julia Mendzheritskaya	3	22	2024.33
+540	Romina Soledad Albornoz-De Luise	3	12	2022.0
+541	Matteo Sacchet	5	41	2023.2
+542	Pedro Bem‐Haja	3	121	2024.33
+543	Jan Marco Leimeister	4	463	2024.0
+544	Doru Ursuțiu	5	67	2023.6
+545	Bas Giesbers	5	205	2023.0
+546	John A. Kalomiros	3	42	2024.33
+547	Lukas Mientus	4	139	2022.5
+548	Rui Raposo	3	11	2024.33
+549	Ján Guniš	4	9	2021.5
+550	Laura Screpanti	3	35	2020.67
+551	Filippo Crea	22	67	2023.82
+552	Pekka Mertala	4	205	2023.5
+553	Hongxin Yan	5	42	2022.8
+554	Maria Vittoria Isidori	3	1	2024.0
+555	Antonio-José Moreno-Guerrero	3	130	2022.33
+556	Sara Redondo Duarte	3	9	2024.67
+557	Solomon Sunday Oyelere	29	1845	2023.17
+558	Nadiia Аrtyukhova	4	107	2023.75
+559	Derek Barrry Hennessey	3	3	2024.0
+560	Laura Hirsto	9	57	2023.44
+561	Demetrios G. Sampson	3	101	2022.67
+562	Filippo Sciarrone	11	66	2023.45
+563	Blaženka Divjak	5	70	2023.4
+564	Davinia Hernández‐Leo	25	798	2023.6
+565	Sini Kontkanen	3	74	2024.67
+566	Jeanette Sjöberg	4	143	2023.0
+567	Nikolaos Fachantidis	4	8	2024.75
+568	Malinka Ivanova	10	57	2023.0
+569	George A. Papakostas	4	44	2022.5
+570	Marcell Nagy	3	208	2022.0
+571	Bistra Konstantinova Vassileva	3	9	2025.0
+572	Cordula Artelt	4	23	2024.5
+573	Atezaz Ahmad	3	23	2022.0
+574	Sebastián Ventura	6	1218	2023.0
+575	Hamid Doost Mohammadian	4	61	2021.75
+576	W. Holmes	15	2879	2023.47
+577	Karl-Emil Kjær Bilstrup	14	487	2022.5
+578	Sigrid Schefer-Wenzl	4	12	2023.5
+579	David Scaradozzi	3	35	2020.67
+580	Carina Georg	3	97	2024.67
+581	Daniel Schiffner	4	17	2024.0
+582	Vasco M. Manquinho	4	8	2024.75
+583	Evi Zafeiridi	3	34	2024.0
+584	Andrei Bobocea	3	24	2024.33
+585	Tomasz Wołowiec	3	106	2024.0
+586	Łukasz Paśko	3	109	2022.67
+587	Małgorzata Nermend	3	0	2025.0
+588	Óscar Cánovas	4	17	2024.0
+589	Fabio Palomba	4	35	2024.5
+590	Antonio Bucchiarone	5	393	2023.8
+591	Tomasz Gancarczyk	4	7	2024.25
+592	Rositsa Zh. Doneva	7	249	2022.43
+593	Marco Temperini	7	47	2022.43
+594	Yael Feldman-Maggor	3	88	2024.0
+595	Patricia Acosta-Vargas	4	612	2023.75
+596	Simone Opel	5	118	2024.6
+597	Jonnathan Berrezueta-Guzmán	3	30	2024.33
+598	Sandra Schön	5	32	2024.0
+599	Giovanni Adorni	4	6	2025.0
+600	Ana Carolina Tomé Klock	3	6	2024.0
+601	Lonneke Boels	3	15	2022.67
+602	Sebastian Stober	3	94	2023.0
+603	Rachel Charlotte Smith	3	168	2023.33
+604	Zehra Altınay	20	133	2023.8
+605	Rolf Biehler	7	85	2022.71
+606	Eric D. Klopfer	3	41	2024.67
+607	Philipp Tschandl	3	161	2021.33
+608	Sonsoles López‐Pernas	42	819	2023.86
+609	Francesco Floris	7	52	2023.0
+610	Marco Cascella	7	160	2024.71
+611	Benjamin Ultan Cowley	3	52	2024.0
+612	Dijana Oreški	7	19	2023.71
+613	Todorka Atanasova Glushkova	4	21	2023.5
+614	Tony Belpaeme	4	30	2024.75
+615	Francesco Pupo	5	35	2025.0
+616	Julie Henry	7	116	2021.71
+617	Katarina Sperling	7	612	2023.71
+618	Korbinian Moeller	10	92	2024.3
+619	Monika Pogátsnik	4	10	2024.0
+620	Deepak Kumar	6	55	2022.0
+621	Erik Marx	4	61	2023.25
+622	Tobias Raupach	10	1473	2023.5
+623	Sandra Schulz	4	66	2022.75
+624	Kristīne Užule	3	36	2022.67
+625	Tim Fütterer	6	361	2024.17
+626	Mats Daniels	5	26	2024.6
+627	Andrea Tick	5	37	2023.8
+628	Sanja Čandrlić	3	3	2025.0
+629	Yuyan Wu	4	21	2024.5
+630	Mauro Gatti	3	106	2022.0
+631	Chinaza Solomon Ironsi	5	126	2023.8
+632	Olga Viberg	26	641	2022.73
+633	Umut Akçıl	3	6	2024.0
+634	Andrina Granić	3	54	2023.67
+635	José Antonio González‐Calero	6	122	2022.83
+636	Małgorzata Przybyła‐Kasperek	4	26	2024.25
+637	Antonio Zullo	3	74	2024.67
+638	Miguel Á. Conde	11	56	2023.64
+639	Alessandro Pagano	6	573	2024.17
+640	Daniel Doz	3	52	2024.0
+641	Falk Lieder	4	39	2023.25
+642	Dragan Gašević	32	1382	2022.12
+643	Maja Rožman	4	63	2024.0
+644	Joost de Winter	4	220	2023.5
+645	Dimitra V. Katsarou	4	23	2025.0
+646	Sašo Karakatič	3	157	2024.0
+647	Ramy Elmoazen	3	106	2024.0
+648	Ruth Breu	3	79	2024.33
+649	Muhammad Zahid Iqbal	5	83	2021.6
+650	Ulrik Schroeder	6	17	2022.83
+651	Conrad Borchers	7	38	2024.57
+652	Juan Ignacio Asensio-Pérez	4	31	2023.25
+653	Luis Magdiel Oliva-Córdova	3	53	2022.33
+654	Mamta Shah	3	60	2024.33
+655	Junaid Qadir	4	417	2023.25
+656	Jarkko T Suhonen	9	779	2023.0
+657	Holger Till	3	13	2024.67
+658	David Lillis	3	80	2024.33
+659	Raúl Marticorena Sánchez	7	121	2022.71
+660	Marian Cristian Mihăescu	3	47	2022.33
+661	Madjid Fathi	3	120	2024.33
+662	Inge Molenaar	9	932	2022.67
+663	Maren März	4	151	2024.0
+664	Marcelo Milrad	10	317	2023.9
+665	Carsten Schulte	5	27	2023.4
+666	Ute Harms	3	0	2024.67
+667	Jaak Henno	4	31	2023.0
+668	Florian Schimanke	3	4	2024.67
+669	Iván José Pérez-Colado	3	35	2022.67
+670	Netta Iivari	3	17	2024.33
+671	Claus Belka	4	48	2025.0
+672	Adolfo Ruiz‐Calleja	8	133	2021.75
+673	Blanka Klímová	16	1004	2023.75
+674	Emmanouela Vardis Seiradakis	4	12	2024.25
+675	Dawid Jasiński	3	42	2024.67
+676	Rui Pinto	4	63	2025.0
+677	Leo Leppänen	4	21	2024.75
+678	Diletta Chiusaroli	3	1	2022.67
+679	Susanne Podworny	4	29	2022.75
+680	Branko Žitko	3	6	2022.33
+681	Merike Saar	3	37	2024.0
+682	Marc Beardsley	4	11	2024.0
+683	Gabriella Casalino	6	42	2022.83
+684	Alessio Fabiano	3	1	2025.0
+685	Nahia Delgado	7	379	2024.29
+686	Stavros D. Vologiannidis	3	42	2024.33
+687	João Gomes	3	11	2024.33
+688	Márta Sobocinski	3	117	2024.67
+689	Kamal Ahmed Soomro	3	129	2024.0
+690	Mohammadreza Tavakoli	3	140	2023.0
+691	Nikos I. Karacapilidis	3	121	2023.33
+692	Maarten Van Mechelen	5	302	2021.8
+693	Andreas Borowski	5	177	2022.0
+694	Natalie Kiesler	20	811	2024.3
+695	César Fernández	4	54	2022.75
+696	Jonna Malmberg	5	381	2022.2
+697	Аrtem Аrtyukhov	7	164	2024.0
+698	Clemens Sauerwein	5	95	2024.2
+699	Dimitrios J. Sotiropoulos	3	41	2025.0
+700	Eleni Mavropoulou	3	3	2023.67
+701	Nikolay Lyuboslavov Hinov	3	42	2023.67
+702	Folkert Wouter Asselbergs	4	111	2022.75
+703	Joyce Mahon	5	51	2023.2
+704	Cecilia Ruíz Esteban	3	82	2022.0
+705	Bruno F. Gonçalves	5	16	2024.2
+706	Margus Pedaste	3	459	2023.0
+707	Roxana Maier	4	37	2024.25
+708	Slavoljub Hilĉenko	3	147	2022.67
+709	Petar Jandrić	7	798	2024.14
+710	Thibault Carron	3	5	2021.67
+711	Malik Muhammad Qirtas	3	34	2024.0
+712	Konstantinos Kotsidis	5	53	2024.8
+713	Jacques Klein	3	57	2024.67
+714	Sandro Speth	3	67	2023.67
+715	Sebastian Fitzek	3	54	2024.67
+716	Satu-Maarit Korte	4	116	2024.0
+717	Fulvio Re Cecconi	3	6	2024.33
+718	Tornike Giorgashvili	3	49	2024.67
+719	Oksana Strutynska	5	27	2024.2
+720	Sima Caspari-Sadeghi	3	152	2022.0
+721	Mariana Buenestado Fernández	4	307	2023.5
+722	Ioana Jivet	15	669	2022.67
+723	Bogdan Mihăilescu	3	60	2023.67
+724	Juho Leinonen	45	2976	2024.04
+725	Ari Huhta	3	20	2024.33
+726	Carl-Johan Stenberg	3	517	2024.67
+727	Elvira Popescu	4	6	2023.75
+728	Kovan Mzwri	3	75	2025.0
+729	Claudia de Witt	3	6	2023.0
+730	Lyn Lim	3	232	2021.33
+731	David Jakobsen	3	5	2024.33
+732	Ylenia Falzone	4	4	2024.75
+733	Peter Tiernan	4	3	2025.0
+734	Mario Muñoz-Organero	3	30	2024.33
+735	Jukka K. Nurminen	3	18	2024.33
+736	Adelina Aleksieva-Petrova	3	12	2021.0
+737	Michael G. Alfertshofer	6	225	2024.0
+738	Janik Ole Wecks	3	24	2023.67
+739	José Fernández Cerero	3	787	2023.67
+740	Sara Guerreiro-Santalla	6	131	2022.17
+741	Janika Leoste	3	91	2023.67
+742	Juan Izquierdo-Domenech	3	31	2023.67
+743	Robertas Damaševičius	7	158	2023.86
+744	Haeseon Yun	3	5	2020.0
+745	Martín Naya-Varela	3	149	2023.0
+746	Georg Singer	3	13	2024.67
+747	Laia Subirats	5	19	2023.8
+748	Johann Chevalère	3	57	2023.0
+749	Liqaa Habeb Al-Obaydi	4	162	2024.0
+750	Lisa Bardach	6	21	2024.5
+751	Jennifer Meyer	9	679	2024.22
+752	Siegmund Lang	3	83	2024.0
+753	Arnaldo Manuel Pinto dos Santos	5	46	2023.0
+754	Ingo Kollar	3	130	2023.67
+755	Kristjan-Julius Laak	4	57	2024.5
+756	István András	3	28	2023.67
+757	Manuel Au‐Yong‐Oliveira	3	23	2023.0
+758	Jenny Pange	4	545	2023.5
+759	Ignacio Despujol Zabala	3	62	2021.0
+760	Mirela Danubianu	3	14	2022.33
+761	Georgios Bekas	3	62	2021.0
+762	Manuel Reina-Parrado	3	28	2024.33
+763	Esteban Villalobos	3	19	2024.33
+764	María Jesús Rodríguez‐Triana	21	332	2022.1
+765	Stine Ejsing‐Duun	4	14	2024.5
+766	Lucia Ariemma	3	0	2025.0
+767	Marcus M. Specht	5	196	2023.0
+768	Sanja Seljan	3	29	2022.0
+769	Mirka Saarela	15	134	2024.73
+770	Mladen Konecki	5	67	2023.8
+771	Fahriye Altınay	16	110	2023.5
+772	György Molnár	6	14	2024.33
+773	Ridwan Whitehead	5	141	2024.6
+774	Stephan Krusche	12	7833	2023.67
+775	Niklas Humble	7	229	2023.71
+776	Panagiotis Papapetrou	3	151	2021.0
+777	Gudrun Socher	4	5	2023.5
+778	Linnéa Stenliden	7	665	2023.86
+779	Tina Seidel	4	7715	2024.25
+780	Michael Lenke	3	6	2025.0
+781	Ondřej Krejcar	3	241	2020.67
+782	Thierry Viéville	5	26	2021.0
+783	Lionel Prévost	3	17	2023.33
+784	Markus Berndt	3	135	2023.33
+785	José Antonio Marín Marín	5	134	2023.2
+786	Eleonora Rosi	3	22	2022.33
+787	Maria Kasinidou	7	86	2024.29
+788	Barbi Svetec	3	62	2023.33
+789	Konstantina Kotsari	3	5	2024.67
+790	Jane  C. Walsh	3	45	2023.33
+791	José Cambronero	5	271	2023.2
+792	Linh Cao	3	50	2023.0
+793	Stephan Oehme	4	109	2024.5
+794	Benedikt Brünner	5	27	2025.0
+795	Marcus Kubsch	17	326	2023.76
+796	Eleni A. Dimitriadou	3	382	2023.33
+797	Marcel Pikhart	14	1041	2023.29
+798	Emiliana Murgia	4	99	2024.0
+799	Kira Elena Weber	5	181	2024.4
+800	Juan Miguel López	3	16	2024.33
+801	Walton Wider	3	20	2025.0
+802	Tobias Kohn	6	584	2023.5
+803	Moritz Mahling	3	406	2024.0
+804	Antonio Robles-Gómez	3	57	2023.33
+805	Zuhra Sofyan	3	13	2024.33
+806	Nejc Brezovar	3	269	2024.33
+807	Enrique Yeguas-Bolívar	7	59	2023.86
+808	Gabriel Marín Díaz	3	14	2024.67
+809	Krzysztof I. Rybinski	3	101	2020.33
+810	Italo Masiello	6	114	2023.83
+811	Daniel Burgos	11	154	2022.91
+812	Stephen Fahy	5	113	2024.6
+813	Anna Dipace	6	2	2024.33
+814	Antonín Jančařík	3	46	2023.0
+815	Stephan Zipfel	3	126	2024.33
+816	Vincent Aleven	11	180	2023.73
+817	Faraón Llorens Largo	5	9	2023.8
+818	Nino Fijačko	3	225	2024.33
+819	Seyyed Kazem Banihashem	15	2649	2023.6
+820	Alessandro Giaj Levra	3	106	2022.0
+821	Gosia Migut	3	25	2023.67
+822	Agnieszka Pręgowska	3	18	2023.33
+823	Adrian Iftene	3	25	2024.33
+824	Paulo Nováis	7	18	2023.71
+825	Nik Hynek	3	123	2024.33
+826	Tobias Bahr	5	2	2024.8
+827	Ворочков Антон Павлович	3	281	2024.67
+828	Andrew England	3	85	2024.0
+829	Knut Neumann	10	188	2023.2
+830	Juho Kahila	23	799	2022.7
+831	Kostas C. Karpouzis	6	120	2023.67
+832	Efe Bozkir	7	96	2023.86
+833	Gražina Šmitienė	6	17	2022.67
+834	László Csépányi-Fürjes	3	4	2023.67
+835	Eddie Antonio Santos	5	521	2024.2
+836	Hans Henri P. Kluge	4	3	2023.5
+837	József Cserkó	3	10	2024.0
+838	Francisco Javier Miranda González	3	26	2025.0
+839	Mikel Galar	7	2	2023.0
+840	Damla Karagözlü	5	72	2022.8
+841	Ricardo Joao Cruz-Correia	3	113	2023.67
+842	António Pedro Costa	3	54	2025.0
+843	Alina-Mihaela Munteanu	3	2	2024.0
+844	María José Rodríguez Conde	3	97	2023.0
+845	Tomohiro Nagashima	5	21	2024.4
+846	Cătălin Anghel	5	38	2025.0
+847	Chantal Mutimukwe	4	137	2022.5
+848	Jakob Karolus	3	115	2024.33
+849	Juliana Elisa Raffaghelli	5	445	2024.2
+850	László Bognár	7	90	2022.86
+851	Wouter Crijns	3	143	2020.67
+852	Christos‐Nikolaos Anagnostopoulos	3	27	2023.67
+853	Cristiana Susana Glavce	3	2	2024.0
+854	Francisco Sendra‐Portero	3	91	2022.33
+855	Dan Gheorghe Păun	5	793	2021.8
+856	Iva S. Kostadinova	4	10	2024.5
+857	António José Mendes	6	49	2024.17
+858	Cleo Sgouropoulou	18	286	2023.44
+859	Stefan Küchemann	17	8260	2024.12
+860	Manuel Macías Borrego	3	8	2024.33
+861	Ewelina Młynarczyk-Karabin	3	2	2025.0
+862	Mini Ruiz	3	97	2024.67
+863	Giovanna Castellano	5	37	2022.8
+864	Yousif Subhi	3	48	2024.33
+865	Barbara Leporini	4	18	2024.75
+866	Fitsum Gizachew Deriba	3	49	2024.0
+867	Francisco José García‐Peñalvo	26	476	2023.08
+868	Peter Øhrstrøm	3	5	2024.33
+869	Eamon Costello	6	310	2024.33
+870	Anna Friesel	3	17	2024.33
+871	Alberto Jiménez	4	55	2023.0
+872	Michail Kalogiannakis	6	391	2024.33
+873	Eliana Scheihing	3	124	2020.0
+874	Matti Tedre	38	1629	2023.03
+875	Thorsten Zylowski	3	9	2024.67
+876	Juan Luis Cabanillas-García	3	44	2025.0
+877	Mohammed Saqr	52	1509	2023.4
+878	Robert Kaczmarczyk	3	138	2023.67
+879	Akira-Sebastian Poncette	3	63	2022.0
+880	José María Fernández‐Batanero	3	787	2023.67
+881	Sebastian Tschiatschek	3	6	2024.33
+882	Sara Seabra Reis	4	18	2023.75
+883	Samuel A. Knoedler	5	223	2023.8
+884	Shitanshu Mishra	3	278	2023.67
+885	Hanni Muukkonen	14	1234	2023.79
+886	Belle Dang	17	2103	2024.06
+887	Mauro Jorge Guerreiro Figueiredo	3	2	2024.33
+888	Michela Ponticorvo	4	10	2024.5
+889	Frank Goldhammer	3	22	2024.33
+890	Maria Bannert	8	8299	2023.12
+891	Dirk Pesch	3	34	2024.0
+892	Muhammad Amin Nadim	3	31	2025.0
+893	Alfredo Milani	3	57	2022.33
+894	Hieke Keuning	11	670	2024.09
+895	Isak D. Froumin	3	281	2024.67
+896	Helen L. Richards	3	3	2024.0
+897	Stanisław Fel	4	87	2024.5
+898	Emilia Pecheanu	4	35	2025.0
+899	Zenun Kastrati	5	344	2022.2
+900	André Renz	4	399	2020.75
+901	Thashmee Karunaratne	5	53	2023.6
+902	Eduardo C. Cascallar	4	316	2021.75
+903	Gunnar Friege	3	20	2023.67
+904	Manisha Khulbe	5	20	2023.6
+905	Gualtiero Fantoni	3	8	2024.0
+906	Teemu Valtonen	18	930	2021.89
+907	Luz Rello	3	49	2023.33
+908	Carlos Lopezosa	3	121	2024.33
+909	Fábio Albuquerque	4	22	2024.25
+910	Steffen Jaschke	3	48	2024.33
+911	Luigi Lombardi	3	86	2023.33
+912	Elena Giovanna Bignami	4	36	2025.0
+913	Marcin Jukiewicz	3	152	2024.67
+914	Sanna Järvelä	18	2462	2023.56
+915	Andreas Hotho A	3	52	2024.0
+916	Galina Ivanova	4	33	2024.25
+917	Viking Huss	3	97	2024.67
+918	Moritz Kreinsen	5	74	2023.0
+919	Jonas Roos	3	138	2023.67
+920	Sebastian Gombert	5	129	2023.6
+921	Muhammad Zaheer Asghar	4	122	2025.0
+922	Steffen Becker	3	67	2023.67
+923	Lukas Weidener	4	457	2023.5
+924	Brett A. Becker	27	2293	2023.52
+925	Daniele Schicchi	8	54	2023.62
+926	Marios Tyrovolas	3	112	2022.67
+927	Dalila Alves Durães	6	31	2024.0
+928	Łukasz Skowron	3	118	2023.67
+929	Wouter van den Bos	3	55	2023.67
+930	Angela Schmitz	3	0	2023.33
+931	Nina Bergdahl	5	1088	2024.2
+932	Nadia Barkoczi	3	1	2024.67
+933	Costanza Mariani	3	15	2024.67
+934	Kristina Yordanova	4	15	2020.5
+935	Hani Alers	3	13	2024.0
+936	Veselina Nedeva	3	33	2022.0
+937	Rãzvan Bologa	3	95	2023.33
+938	Liane Colonna	3	27	2023.0
+939	Dejan Zemljak	3	8	2023.33
+940	Judit Ruíz-Lázaro	3	9	2024.33
+941	Eva María Torrecilla Sánchez	5	241	2022.2
+942	Fernando A. Mikic-Fonte	3	48	2022.33
+943	Nicholas Samaras	4	26	2024.25
+944	Daniela Veleva Minkovska	6	71	2023.5
+945	Ángel Suárez	3	5	2020.0
+946	Gianni Vercelli	4	8	2024.25
+947	Olle ten Cate	3	97	2021.67
+948	Montse Guitert Catasús	4	61	2023.25
+949	Silvia N. Gaftandzhieva	15	389	2023.8
+950	Joaquín Rodríguez‐Ruiz	3	103	2024.33
+951	Kari Rönkkö	4	86	2024.25
+952	Shoya Ishimaru	3	59	2024.0
+953	Tommi Kärkkäinen	11	228	2023.91
+954	Ewa Wanda Ziemba	4	19	2024.25
+955	Ján Skalka	3	39	2022.33
+956	Jannik Henze	3	87	2024.0
+957	Yavuz Dinc	5	205	2024.2
+958	Ulrich Krühne	5	88	2023.8
+959	Hans-Stefan Siller	4	63	2024.5
+960	J. Weller	3	7686	2024.0
+961	Raffaele Di Fuccio	7	70	2024.57
+962	Daniel Losada Iglesias	4	253	2024.25
+963	Niels Pinkwart C	9	63	2023.33
+964	Maria K. Virvou	16	272	2023.5
+965	Babette Bühler	5	124	2024.4
+966	Félix J. García Clemente	8	57	2023.62
+967	Kaire Kollom	4	80	2023.0
+968	María Victoria Fernández Scagliusi	3	36	2025.0
+969	Ján Schneider	6	73	2022.67
+970	Benjamin Paaßen	4	8	2024.25
+971	Apostolos Xenakis	3	61	2024.33
+972	Juliette Raffort	3	13	2023.67
+973	José Quiles-Rodríguez	3	18	2024.33
+974	Alvisa Palese	3	192	2024.0
+975	Ani Grubišić	7	51	2022.57
+976	Sven Laumer	3	4620	2022.33
+977	Maria João Varanda Pereira	4	58	2023.0
+978	Fabien Lareyre	3	13	2023.67
+979	Aija Cunska	3	8	2021.0
+980	Julia Mordel	3	22	2024.33
+981	Roland Lachmayer	3	11	2022.0
+982	Ville Kivimäki	3	6	2023.33
+983	Jaroslav Kultan	3	3	2025.0
+984	Pekka Abrahamsson	6	34	2023.67
+985	G. M. Sacha	5	19	2023.8
+986	Dalma Lilla Dominek	4	5	2025.0
+987	Vicente Julián	6	3	2022.83
+988	Martin G. Tolsgaard	4	222	2022.75
+989	Marek Urban	4	462	2024.75
+990	Rebeca Cerezo	5	458	2021.8
+991	Ville Heilala	8	183	2024.0
+992	Mohammed Salem Elmusrati	3	41	2023.0
+993	Pantelis M. Papadopoulos	4	61	2024.25
+994	Panagiotis D. Bamidis	5	135	2020.6
+995	Furqan Rustam	3	94	2023.0
+996	Maria Trzcińska-Król	3	3	2024.67
+997	Daniel Bădulescu	3	42	2024.67
+998	Andrej Flogie	3	19	2024.0
+999	Stefan T. Mol	3	137	2023.0
+1000	Andrej Thurzo	3	438	2024.33
+1001	Niels Seidel	3	3	2024.67
+1002	Daniela Amendola	3	48	2022.67
+1003	Fiona R. Kolbinger	3	98	2023.33
+1004	Diego Vergara	3	76	2024.33
+1005	Chiara Panciroli	3	15	2022.33
+1006	Sonia Martínez Requejo	3	17	2024.0
+1007	Lucie Zormanová	3	14	2024.67
+1008	Giacomo Rossettini	3	192	2024.0
+1009	Mariia Rizun	3	120	2024.67
+1010	Jorge Baptista	3	1	2024.67
+1011	Alejandro Ortega‐Arranz	3	101	2024.67
+1012	Chaman Verma	18	217	2022.06
+1013	Christoph Kahlert	3	53	2023.67
+1014	Tomáš Javorčík	5	3	2024.8
+1015	Zinaida Adelhardt	3	6	2024.67
+1016	Barbara Šlibar	4	8	2024.25
+1017	Styliani Kleanthous	5	48	2024.2
+1018	Giuliano Lo Bianco	3	34	2025.0
+1019	Manuel Contero	3	23	2023.33
+1020	Dejan Ravšelj	5	269	2024.6
+1021	Eva Verhelst	3	26	2024.67
+1022	Stefan Hrastinski	10	404	2023.8
+1023	Valdemar Švábenský	3	69	2022.67
+1024	Olimpius Istrate	5	25	2024.0
+1025	Elena Alcalde Peñalver	3	108	2023.33
+1026	Stanislav M. Asenov	3	4	2024.67
+1027	Jakub Swacha	3	154	2024.67
+1028	A. Aldo Faisal	3	25	2024.67
+1029	Dirk Ifenthaler	26	1848	2022.5
+1030	Baptiste Caramiaux	4	45	2022.75
+1031	Vítor José Domingues Mendonça	3	11	2024.33
+1032	José María Etxabe Urbieta	4	211	2024.25
+1033	Jeroen Ooge	3	23	2024.67
+1034	Javier del Olmo‐Muñoz	4	91	2022.5
+1035	Gregório Robles	4	221	2021.25
+1036	Erinç Erçağ	5	2	2024.4
+1037	Morteza Ghobakhloo	4	547	2024.0
+1038	Mario Di Nardo	6	23	2025.0
+1039	Tom Broos	3	131	2020.0
+1040	Gabriel Xiao-Guang Yue	6	107	2023.67
+1041	Phivos Mylonas B	11	109	2024.0
+1042	Miguel Arevalillo‐Herráez	13	106	2023.38
+1043	Martin Drlík	7	261	2022.71
+1044	Nils Frederik Buchholtz	3	134	2024.0
+1045	Kay Nieselt	4	250	2024.0
+1046	Sebastian Porsdam Mann	3	92	2024.67
+1047	Rosa Ellen Lavelle-Hill	4	105	2024.0
+1048	Kamilla Tenório	6	100	2023.67
+1049	Sven Hilbert	3	141	2022.33
+1050	Ľubomír Antoni	4	4	2022.75
+1051	Ishari Amarasinghe	4	38	2023.5
+1052	Dorin Stanciu	3	18	2023.67
+1053	Mario Konecki	6	67	2024.0
+1054	Albrecht Schmidt	6	7778	2024.0
+1055	Linda Mannila	8	6	2024.88
+1056	Vito Giordano	3	4	2024.33
+1057	Spyridon Doukakis	4	174	2023.5
+1058	Maren Scheffel	12	641	2021.92
+1059	Kenneth R. Koedinger	4	1448	2023.0
+1060	Veneta Veselinova Tabakova-Komsalova	4	2	2023.25
+1061	Olaf Zawacki‐Richter	7	316	2023.43
+1062	Ruggero Colombari	3	260	2025.0
+1063	Irene‐Angelica Chounta	9	620	2023.44
+1064	Mehmet Altınay	3	40	2023.67
+1065	Sebastian Tassoti	3	157	2024.67
+1066	John Y. H. Bai	6	307	2024.0
+1067	Fabrizio Stasolla	3	74	2024.67
+1068	Aleksandra Batuchina	11	12	2023.36
+1069	Robert Lew	3	45	2024.33
+1070	Bor Gregorcic	9	414	2024.33
+1071	Omiros Iatrellis	8	174	2023.12
+1072	Susanna Nordmark	3	83	2023.67
+1073	Anni Silvola	9	174	2023.33
+1074	Konstantina Chrysafiadi	7	181	2022.71
+1075	Konstantinos Τ. Kotsis	39	339	2024.72
+1076	Claudia Nerdel	6	8412	2023.5
+1077	Natalia Revenga	3	200	2024.0
+1078	Paul Lukowicz	5	118	2024.4
+1079	Mohammad Aliannejadi	3	60	2024.33
+1080	Georgia Garani	3	7	2023.0
+1081	Marta Peña	4	114	2024.75
+1082	Nicola Luigi Bragazzi	4	71	2024.0
+1083	Felix Balzer	4	64	2022.5
+1084	Juan Miguel Alberola	5	4	2021.4
+1085	Dorian Cojocaru	3	7	2023.67
+1086	Muhammad Afzaal	6	188	2022.0
+1087	Falk Schwendicke	8	2172	2023.75
+1088	Argyro Kavadella	4	506	2023.75
+1089	Matthias Wölfel	6	59	2024.5
+1090	Jarosław Kozak	4	87	2024.5
+1091	Sami Sarsa	16	1701	2023.69
+1092	Andreas Lanitis	3	382	2023.33
+1093	Verena Ruf	4	72	2024.5
+1094	Alfonso Filippone	5	3	2024.4
+1095	Henrik Køhler Simonsen	4	11	2021.75
+1096	Pietro Mascagni	4	240	2023.25
+1097	Ole Sejer Iversen	6	236	2023.33
+1098	Ann O’Shea	3	27	2023.33
+1099	Juri Taborri	8	173	2023.38
+1100	Danko Dan Milinkovic	3	77	2024.67
+1101	Anceli Kaveri	4	102	2023.5
+1102	Rafael Molina-Carmona	4	7	2024.0
+1103	Ilkka Tuomi	3	1173	2022.0
+1104	Emanuele Marsico	6	41	2024.17
+1105	Michael Sailer	10	8352	2024.2
+1106	Maria Soledad Pera	5	103	2023.2
+1107	Nataliа Shumeiko	4	26	2024.5
+1108	James E. Prather	25	2463	2023.88
+1109	Joanna Kic-Drgas	3	22	2024.67
+1110	Katharina Simbeck	6	96	2023.33
+1111	J. Roberto Sánchez-Reina	4	32	2024.0
+1112	Manfred Stede	4	101	2022.0
+1113	Juanjo Mena	4	59	2022.75
+1114	João Tiago Dias	3	7	2024.0
+1115	Jesús López-Belmonte	5	134	2023.2
+1116	Cristóbal Romero	7	1408	2022.29
+1117	Carina L. Gargalo	5	88	2023.8
+1118	Pedro Rangel Henriques	3	8	2024.0
+1119	Vladislav Slavov	6	6	2024.0
+1120	Evangelia Manousou	4	16	2025.0
+1121	Fadi M. Al-Turjman	7	46	2023.14
+1122	Massimo Molteni	3	22	2022.33
+1123	Emanuele Bardone	3	467	2023.33
+1124	Alberto Real-Fernández	3	2	2024.0
+1125	Manu Kapur	3	55	2024.0
+1126	Nico Bruining	5	2	2023.4
+1127	Liam Murray	3	50	2023.67
+1128	Erkan Er	7	309	2022.71
+1129	Polona Tominc	5	64	2024.2
+1130	Sotiris B. Kotsiantis	9	314	2021.78
+1131	Walter Leal Filho	3	144	2024.67
+1132	Michaela Gläser‐Zikuda	4	431	2024.0
+1133	Marie-Hélène Comte	4	26	2021.25
+1134	Anna Carreras	3	83	2022.67
+1135	Georges El Hajal	5	38	2023.8
+1136	Filippo Chiarello	4	9	2024.25
+1137	Ángel Fidalgo-Blanco	3	2	2024.33
+1138	Maria P. Michailidis	3	3	2025.0
+1139	Eloy López Menéses	9	761	2024.0
+1140	Daniele Zolezzi	4	8	2024.25
+1141	Lorenzo Angeli	4	9	2024.75
+1142	Dana Rad	4	70	2024.0
+1143	Antoine Fischbach	3	24	2020.33
+1144	David Rügamer	3	11	2022.0
+1145	Ahmed Tlili	17	1049	2023.76
+1146	Delio De Martino	3	0	2024.67
+1147	Andrea Turolla	3	192	2024.0
+1148	Tinne De Laet	5	65	2022.0
+1149	Jussara Reis-Andersson	3	5	2024.67
+1150	Cormac McGrath	12	1256	2023.67
+1151	Igor Mekterović	3	18	2024.67
+1152	Leonidas Efthymiou	4	3	2024.5
+1153	Santiago Moll-López	4	238	2024.0
+1154	Esteban Vázquez Cano	3	146	2022.33
+1155	Ilias Κ. Savvas	3	148	2021.67
+1156	Aldeniz Rashidov	3	0	2025.0
+1157	Emily Theophilou	7	106	2024.0
+1158	Mohammad Khalil	12	562	2023.33
+1159	Teresa Festl Wietek	10	751	2024.0
+1160	Dimitris Kalles	7	12	2023.29
+1161	Christos Troussas	20	295	2023.3
+1162	Pablo Castillo-Segura	3	45	2022.67
+1163	Francisco Bellas	8	179	2022.38
+1164	Christian M. Stracke	13	524	2024.15
+1165	Dana Di Pardo Léon-Henri	6	3	2022.83
+1166	Susana Adelina Moreira Carvalho Bastos	4	1	2024.5
+1167	Snježana Babić	3	9	2024.33
+1168	Dimitri Ognibene	7	99	2023.86
+1169	Dimitris Pantazatos	4	42	2024.25
+1170	Jimmy Jaldemark	6	43	2024.83
+1171	Peter Bannister	7	146	2024.14
+1172	Stanislav Krajči	3	4	2022.0
+1173	Sofie Otto	4	14	2024.5
+1174	Bernd Bischl	4	160	2022.25
+1175	Beáta Gavurová	3	123	2024.33
+1176	Fernando Moreira	12	146	2023.67
+1177	Kristine Bundgaard	4	6	2024.75
+1178	Maria Tsiakmaki	5	157	2021.0
+1179	Paul A. Kirschner	3	195	2022.67
+1180	Nicolas Pope	10	334	2024.4
+1181	Onur Karademir	3	76	2022.33
+1182	Yongchao Wu	6	184	2021.83
+1183	Thorben Jansen	6	503	2024.33
+1184	Ramón Cózar Gutiérrez	4	88	2023.5
+1185	Mariusz Chrostowski	4	23	2024.5
+1186	Gabriela Kiryakova	4	175	2024.25
+1187	Erkko Tapio Sointu	6	22	2023.0
+1188	Jerome Rene Lechien	5	91	2024.4
+1189	Rocsana Bucea-Manea-Țoniş	5	192	2023.2
+1190	Tsvetelina Harakchiyska	3	13	2024.67
+1191	Izabela Olszak	5	25	2024.4
+1192	Luigi Piceci	3	14	2022.0
+1193	Yiannis Kyratsis	3	32	2025.0
+1194	Stefan Dietze	3	5	2020.0
+1195	Carla Limongelli	4	68	2023.75
+1196	Eduardo C. Garrido‐Merchán	4	192	2023.25
+1197	Anouschka van Leeuwen	5	104	2023.4
+1198	Elvis Gerardo Ortega Ochoa	3	136	2023.67
+1199	Klas Karlgren	3	13	2022.67
+1200	Nina Begičević Ređep	3	13	2025.0
+1201	Yannic Noller	3	3	2025.0
+1202	Michela Milano	3	14	2022.67
+1203	Bruno Pereira Cipriano	7	41	2024.57
+1204	Amir Reza Rahimi	8	132	2024.62
+1205	Julija Melnikova	13	13	2023.23
+1206	Fiammetta Caccavale	5	88	2023.8
+1207	Karl de Fine Licht	3	64	2024.0
+1208	Karima Bouziane	3	36	2024.67
+1209	Christopher Neil Prilop	4	74	2024.75
+1210	Lukas Valentin Hoppe	4	12	2021.75
+1211	Geraldine Gray	4	82	2022.75
+1212	Linda Daniela	3	113	2024.67
+1213	Mieczyslaw Lech Owoc	3	241	2022.0
+1214	Enrique Frı́as-Martı́nez	3	13	2024.0
+1215	Nesrin Menemenci Bahcelerli	3	7	2024.33
+1216	Cornelia Connolly	5	66	2023.0
+1217	Irene Stone	4	21	2024.0
+1218	Omid Noroozi	18	2655	2024.0
+1219	Peter Mozelius	11	205	2023.82
+1220	Nicolas Padoy	4	273	2022.75
+1221	Gregor Donabauer	3	94	2023.0
+1222	Georgios N. Yannakakis	3	141	2021.0
+1223	Charlotte Marchandise	4	3	2024.0
+1224	Ute Heuer	3	363	2023.0
+1225	Maria Elena Rodríguez	5	624	2022.2
+1226	Stanka Hadzhikoleva	5	7	2024.6
+1227	Ekaterina Sofronieva	3	5	2024.67
+1228	Mihai Dascălu	3	31	2023.33
+1229	Derya Yakar	3	185	2023.0
+1230	Paul Rogowski	3	40	2025.0
+1231	Savvas A. Chatzichristofis	4	37	2024.75
+1232	Andrew C. Parnell	3	27	2023.33
+1233	Patrícia Santos	7	89	2023.29
+1234	Dieter Uckelmann	3	6	2023.0
+1235	Petra Kočková	3	12	2024.67
+1236	Ricardo Mendes	4	217	2020.75
+1237	Tiina Korhonen	4	27	2024.0
+1238	Vjekoslav Galzina	3	39	2023.0
+1239	Michał Wieczorek	4	47	2025.0
+1240	Pedro Alves	3	22	2024.33
+1241	Maja Kerneža	3	12	2023.67
+1242	Plamen Zahariev	3	4	2024.67
+1243	Veronika Stoffová	7	160	2020.71
+1244	Ronald Márquez	5	96	2024.6
+1245	Sanna Väisänen	8	34	2023.38
+1246	Sergio Miranda	3	13	2025.0
+1247	Jill-Jênn Vie	4	188	2022.25
+1248	Jakob Nikolas Kather	4	46	2024.5
+1249	Marcus Liwicki	3	32	2023.67
+1250	Antonio Calvo-Morata	4	60	2023.25
+1251	Umberto Bilotti	4	26	2024.25
+1252	Blaž Zupan	3	107	2023.67
+1253	Frédéric Alexandre	5	26	2021.0
+1254	Andreas Dengel	3	69	2024.0
+1255	Massimo Stella	7	88	2024.0
+1256	Jakub Mačina	6	64	2024.33
+1257	Vladimir Jotsov	5	38	2023.0
+1258	Sven Strickroth	6	223	2023.67
+1259	Joan Navarro	3	112	2022.67
+1260	Viviana Vinci	3	6	2024.67
+1261	Mar Pérez‐Sanagustín	13	308	2022.0
+1262	Alice Watanabe	5	57	2022.8
+1263	Raidell Avello Martínez	4	55	2024.5
+1264	Bert Bredeweg A	4	80	2023.25
+1265	S. Pinzi	4	115	2022.5
+1266	Nico Daheim	5	53	2024.2
+1267	Milica Vujović	3	33	2022.33
+1268	Ali Al-Zawqari	4	71	2022.75
+1269	Lam Dang Pham	3	205	2022.33
+1270	Lars Krupp	4	115	2024.25
+1271	Veronika Thurner	5	22	2024.6
+1272	Jean Bousquet	4	55	2024.0
+1273	Cornel Samoilă	5	67	2023.6
+1274	Wenting Sun	4	111	2023.75
+1275	Ines Šarić‐Grgić	5	35	2022.2
+1276	Alptekin Erkollar	4	11	2024.0
+1277	Athanasios Angeioplastis	3	58	2024.33
+1278	Ana Mouta	6	253	2022.67
+1279	Emanuele Sinagra	3	34	2025.0
+1280	Isaac Triguero A	7	2	2023.0
+1281	Sarah Malone	4	137	2024.5
+1282	Antonella Poce	3	6	2024.33
+1283	Darko Andročec	3	1	2024.0
+1284	Adrian Grimm	4	81	2023.25
+1285	Franck Poirier	3	58	2022.67
+1286	Sara Willermark	3	14	2024.0
+1287	Bertrand Schneider	3	23	2023.67
+1288	Theodor Panagiotakopoulos	3	33	2023.0
+1289	Vanessa Camilleri	3	10	2022.67
+1290	Petra Poláková	5	242	2023.8
+1291	Katrien Verbert	5	119	2021.6
+1292	Spyros Papadimitriou	4	14	2025.0
+1293	Maka Eradze	4	19	2022.5
+1294	Jo Tondeur	3	50	2025.0
+1295	Sergio E. Uribe	5	256	2024.2
+1296	Arto Hellas	30	1823	2024.03
+1297	Ismaila Temitayo Sanusi	45	3271	2023.2
+1298	Daina Gudonienė	3	23	2024.0
+1299	David Arnau	5	88	2022.6
+1300	Marieke F. van der Schaaf	3	50	2023.33
+1301	Celina P. Leão	3	1	2024.33
+1302	Martin Ruskov	4	73	2024.0
+1303	Ivana Marenzi	3	5	2020.0
+1304	José Luis Arroyo Barrigüete	3	23	2023.33
+1305	Kirsi Aaltonen	4	44	2024.5
+1306	Nourhène Ben Rabah	3	14	2023.33
+1307	Kari Systä	3	16	2023.67
+1308	Angel Smrikarov	3	11	2024.0
+1309	Panos Fitsilis	5	194	2022.2
+1310	Jarosław Krajka	5	23	2024.4
+1311	Pedro Manuel Moreno-Marcos	14	431	2022.71
+1312	Fahriye Altınay	6	52	2024.33
+1313	Dana Shiffer	3	106	2022.0
+1314	Chris Lytridis	3	31	2022.0
+1315	Oliver Edward Burton	3	3	2024.0
+1316	Stamatios Papadakis	12	644	2024.42
+1317	Nicole Gosch	3	14	2022.0
+1318	Inmaculada Méndez	3	82	2022.0
+1319	Konstantinos Lavidas	8	379	2024.12
+1320	Idris Adamu	3	13	2022.0
+1321	Eva Blondeel	3	130	2023.67
+1322	Zoltán Illés	10	146	2021.8
+1323	Mustafa Tepgeç	4	22	2022.75
+1324	Damijana Keržič	4	271	2024.0
+1325	Henrique São Mamede	5	16	2024.2
+1326	Μaria Meletiou-Mavrotheris	5	269	2025.0
+1327	Jessica Levy	3	24	2020.33
+1328	João Barroso	3	195	2023.0
+1329	Gita Šakytė-Statnickė	4	4	2022.25
+1330	Benjamin Bartek	3	77	2024.67
+1331	Jeļena Zaščerinska	3	5	2024.0
+1332	Catarina Carneiro de Sousa	3	9	2025.0
+1333	Michael Kickmeier-Rust	3	5	2020.0
+1334	Vítor Fortes Rey	4	6	2024.5
+1335	Alessandra Antonaci	5	2	2024.8
+1336	Johanna Fleckenstein	5	655	2023.8
+1337	Zsolt Lavicza	6	68	2024.67
+1338	Martijn Meeter	4	42	2023.25
+1339	Muhammad Usman Tariq	11	106	2024.82
+1340	Salvatore Nizzolino	3	5	2024.33
+1341	Zeynab Artemis Mohseni	7	140	2023.86
+1342	Joana Berger‐Estilita	3	15	2024.67
+1343	Valentina Dagienė	5	47	2024.0
+1344	Rafael Vargas	3	57	2023.33
+1345	Annalisa Roveta	3	50	2024.33
+1346	Athanasios S. Drigas	4	36	2023.5
+1347	Martin Rudolf Fischer	8	266	2024.25
+1348	Rubén González Vallejo	9	103	2024.67
+1349	Gianni Fenu	6	128	2024.0
+1350	Anett Hoppe	4	125	2023.75
+1351	Andreas Bollin	3	32	2021.33
+1352	Iveta Dirgová Ľuptáková	8	20	2023.88
+1353	Mario Jojoa	3	10	2021.67
+1354	Samuel Edelbring	3	97	2024.67
+1355	Anna Passaro	3	74	2024.67
+1356	Marco Maggini	5	10	2024.0
+1357	József Udvaros	6	59	2024.33
+1358	Florin-Valeriu Pantelimon	3	86	2023.0
+1359	Jezabel Molina‐Gil	4	7	2024.5
+1360	Berat Ujkani	4	71	2023.0
+1361	Emil N. Hadzhikolev	4	7	2024.5
+1362	Hannele Niemi	5	150	2022.2
+1363	Alexander Maedche	5	24	2023.2
+1364	Hélène Sauzeon	8	185	2023.12
+1365	Euan D. Lindsay	8	156	2024.38
+1366	Stanislav Hristov Ivanov	4	802	2023.75
+1367	Victoria I. Marín	3	39	2023.33
+1368	Paolo Pillastrini	3	192	2024.0
+1369	Igor Kabashkin	3	99	2024.33
+1370	Imen Azaiz	3	103	2024.0
+1371	Bart Baesens	3	83	2024.67
+1372	Abraham G. Campbell	6	89	2022.0
+1373	Domagoj Frank	4	98	2024.5
+1374	Marc Winter	3	22	2024.33
+1375	Amro Najjar	3	13	2024.0
+1376	Remigijus Kinderis	4	14	2024.25
+1377	Dafinka Miteva	3	4	2022.0
+1378	Jan Peter Ehlers	3	91	2023.0
+1379	Margarida Lucas	3	121	2024.33
+1380	Sihem Amer-Yahia	3	26	2024.0
+1381	Eduardo Gómez‐Sánchez	4	34	2021.75
+1382	Roberto Therón	3	98	2021.33
+1383	Marian Oliński	3	26	2024.67
+1384	Andrzej A. Kononowicz	8	91	2024.62
+1385	Filip Děchtěrenko	4	462	2024.75
+1386	Lenka Lhotská	4	16	2024.0
+1387	Michael Agyemang Adarkwah	6	107	2024.67
+1388	Andreea Claudia Șerban	6	27	2024.17
+1389	Marco Lünich	4	203	2022.5
+1390	Sabina Rako	3	13	2024.0
+1391	Iolanda Leite	3	66	2020.67
+1392	Paul Mugur Svasta	5	90	2021.2
+1393	Lisa Meyne	3	17	2024.67
+1394	Justina Naujokaitienė	3	23	2020.0
+1395	Katherine Abramski	3	86	2023.33
+1396	Jens Grubert	3	7	2024.67
+1397	Marius Silviu Măciucă	3	1	2023.67
+1398	Beatriz Peña Acuña	3	44	2023.33
+1399	Tegawendé François Bissyandé	3	57	2024.67
+1400	Anna Visvizi	3	55	2024.0
+1401	Carlos Delgado Kloos	25	605	2022.48
+1402	María José Casany Guerrero	4	111	2024.0
+1403	Rúben Encarnação	3	28	2024.67
+1404	Camelia Şerban	3	37	2021.67
+1405	Andreas Janson	4	463	2024.0
+1406	Joni O. Salminen	3	28	2024.67
+1407	Abdul Rauf	3	95	2024.0
+1408	Markus Spitzer	10	92	2024.3
+1409	Martín Liz-Domínguez	3	19	2022.67
+1410	Guendalina Peconio	3	0	2024.67
+1411	Iro Voulgari	7	377	2022.43
+1412	Martin Ebner	17	106	2022.82
+1413	Sven Jacobs	5	58	2024.6
+1414	Hernán Inojosa	3	55	2024.33
+1415	María Blanca Ibáñez	6	120	2022.83
+1416	Jaana‐Maija Koivisto	3	39	2024.0
+1417	Denis Dennehy	4	4649	2022.0
+1418	Gianluca Schiavo	4	171	2023.25
+1419	Olga Chernikova	5	72	2024.6
+1420	Cosima C. Hoch	6	225	2024.0
+1421	Vítor Manuel de Jesus Filipe	3	167	2023.67
+1422	Antonio Maconi	4	52	2024.5
+1423	Henriikka Vartiainen	37	1837	2022.78
+1424	Miguel Ruiz-García	3	25	2024.33
+1425	Yass Khudheir Salal	4	105	2022.0
+1426	Roberto Capone	3	22	2025.0
+1427	Christos Papakostas	6	168	2024.0
+1428	Brian Mac Namee	6	51	2023.5
+1429	Lars Mehnen	4	40	2024.0
+1430	Lili Aunimo	4	13	2024.25
+1431	Luis Pablo Prieto	17	241	2022.29
+1432	Evija Mirķe	3	260	2025.0
+1433	Valentina T. Terzieva	4	2	2023.75
+1434	Gerald Steinbauer-Wagner	3	22	2024.33
+1435	José A. Ruipérez‐Valiente	18	242	2022.33
+1436	Kamila Misiejuk	16	196	2024.81
+1437	Andreas Theissler	3	12	2023.67
+1438	María del Carmen Ricoy Lorenzo	3	4	2025.0
+1439	Polat Göktaş	11	304	2024.09
+1440	David Bañeres	5	624	2022.2
+1441	Stefan Ruzika	4	142	2024.25
+1442	Charalampos Dervenis	3	48	2023.0
+1443	Nikol Rummel	16	278	2023.5
+1444	Anna Maria Tammaro	4	7	2024.75
+1445	Diana Šimić	3	13	2024.0
+1446	Vassilios S. Verykios	10	37	2022.8
+1447	Camilla Gyldendahl Jensen	3	7	2024.67
+1448	Sofía Ouhbi	3	17	2024.33
+1449	Τhanasis Daradoumis	4	142	2023.25
+1450	Otilia P. Manta	3	15	2024.33
+1451	Paul H. M. Drijvers	3	31	2022.0
+1452	Ricardo Queirós	4	16	2024.25
+1453	Derek Lomas	3	62	2022.67
+1454	Luis Pinto Coelho	3	12	2024.0
+1455	David Fonseca	9	115	2022.44
+1456	Angela Siobhan Wright	3	7	2024.33
+1457	Pio Alfredo Di Tore	6	1	2023.5
+1458	Nikolaos Stogiannos	6	129	2024.33
+1459	Mika Saari	3	8	2024.0
+1460	Gábor Kismihók	6	186	2023.17
+1461	R. Pacelli	3	8	2022.67
+1462	Manuel Oliveira	3	18	2025.0
+1463	Uno Fors	3	151	2021.0
+1464	Ioannis Parodis	4	121	2024.5
+1465	Malik Sallam	7	473	2024.43
+1466	Paula Gomes dos Santos	4	22	2024.25
+1467	Ulrich Trautwein	6	62	2024.17
+1468	‪Marcos Román-González‬	6	960	2022.17
+1469	Abdolali Faraji	3	140	2023.0
+1470	Francisco D. Guillén‐Gámez	3	124	2024.33
+1471	Tobias Alexander Bang Tretow-Fish	3	19	2023.33
+1472	Hannu Jaakkola	4	31	2023.0
+1473	Rudy Loock	3	6	2024.0
+1474	Holger Horz	4	24	2024.5
+1475	Martín Llamas Nistal	4	49	2022.75
+1476	Hsiao-Ping Hsu	3	88	2024.33
+1477	Frederico Cruz‐Jesus	5	221	2021.0
+1478	Mario Arias-Oliva	4	19	2025.0
+1479	Jaan Aru	4	45	2024.5
+1480	Mariel Musso	4	316	2021.75
+1481	Paraskevi Theodorou	3	105	2022.67
+1482	Martin Kotyrba	3	54	2024.0
+1483	Raquel Simões de Almeida	4	57	2024.5
+1484	Reet Kasepalu	9	185	2022.44
+1485	Mercedes Esteban-Bravo	18	11	2021.0
+1486	Mila Pastrak	3	17	2024.67
+1487	Tatiana Havlásková	5	3	2024.8
+1488	Rianne Conijn	5	96	2024.2
+1489	Katharina Bata	4	0	2023.75
+1490	Mauro Castelli	5	221	2021.0
+1491	Florian Recker	4	109	2024.0
+1492	Jerónimo Paiva	3	67	2024.33
+1493	Maurizio Sibilio	4	35	2024.25
+1494	Ana María Pinto Llorente	7	249	2022.14
+1495	Jan Elen	3	11	2024.0
+1496	Antonio Chamorro Mera	3	26	2025.0
+1497	Mohammadreza Molavi	3	140	2023.0
+1498	Marian Stan	3	0	2024.67
+1499	Alicja Baum	3	3	2024.67
+1500	Xavier Solé-Beteta	3	109	2022.67
+1501	Katia Oliver-Quelennec	3	5	2021.67
+1502	Martin Greisel	3	130	2023.67
+1503	Volker Wittberg	3	37	2022.33
+1504	Aleksander Aristovnik	4	10	2024.25
+1505	Andrea Tinterri	5	7	2024.2
+1506	Radka Valerieva Nacheva	4	6	2024.75
+1507	Elisabeth Viviana Lucero Baldevenites	3	6	2024.67
+1508	Tzvetomir Ivanov Vassilev	3	8	2024.33
+1509	Annabel Lindner	4	98	2022.0
+1510	Paul Tschisgale	5	94	2024.4
+1511	Damien S. Fleur	3	55	2023.67
+1512	Egle Gedrimiene	7	109	2023.86
+1513	Kou Murayama	3	95	2024.33
+1514	Shashi Kant Shankar	7	124	2022.0
+1515	Giovanni Briganti	5	771	2023.6
+1516	Peter H. Gerjets	5	293	2024.0
+1517	Juanan Pereira	5	101	2024.2
+1518	Pankaj Chejara	9	181	2022.33
+1519	Ari Happonen	3	34	2024.0
+1520	Chiara Buizza	3	269	2023.67
+1521	Felicitas Macgilchrist	3	19	2025.0
+1522	Daniele Di Mitri	10	162	2023.0
+1523	Pavel Stefanovič	4	19	2024.25
+1524	Sergio Tirado‐Olivares	7	122	2023.57
+1525	Ali Selamat	3	241	2020.67
+1526	Carlos Rompante Cunha	3	11	2024.33
+1527	Birte Keller	3	44	2023.33
+1528	Athanasios Christopoulos	6	198	2022.33
+1529	Marina Marchisio	7	52	2023.0
+1530	Silvia Grazioli	4	31	2022.75
+1531	Tonia De Giuseppe	8	100	2024.25
+1532	Ibtissem Daoudi	3	38	2022.33
+1533	Fatiha Tali	3	12	2024.0
+1534	Juan Pedro Martínez-Ramón	4	114	2021.75
+1535	Annelies Raes	5	26	2024.4
+1536	Tilman Michaeli	6	7723	2024.0
+1537	Paula Odriozola-González	4	19	2023.0
+1538	María Asunción Vicente	4	54	2022.75
+1539	Joshua Weidlich	5	138	2024.0
+1540	Roberto Henriques	3	307	2023.33
+1541	Palanivel Rathinasabapathi Velmurugan	4	34	2025.0
+1542	Delyan Plachkov	3	0	2025.0
+1543	Beatriz Narbona Reina	3	3	2025.0
+1544	Carmen Romero-García	3	29	2024.67
+1545	Gitta Kutyniok	3	7686	2024.0
+1546	Roberto Cuomo	6	129	2024.17
+1547	Andrew Emanuel Attard	3	4	2024.0
+1548	Carmen Fernández-Panadero	4	59	2022.0
+1549	Bernard P. Veldkamp	3	28	2023.33
+1550	Sten Kajitani	3	17	2024.67
+1551	Ivo Dumić-Čule	3	321	2023.33
+1552	Kamila Urban	4	462	2024.75
+1553	Yannis A. Dimitriadis	16	832	2022.62
+1554	Javier Fombona Cadavieco	3	47	2024.0
+1555	Erika Vega-Fleitas	3	237	2024.0
+1556	Evangelos Sakkopoulos	3	49	2022.0
+1557	Gabriel Skantze	5	122	2024.6
+1558	Tosin Adewumi	4	10	2024.25
+1559	Arnold Pears	3	285	2022.33
+1560	Antoni Martínez-Ballesté	3	27	2024.33
+1561	Hamza Ouhaichi	6	117	2023.33
+1562	Alberto Ghilardi	4	269	2024.0
+1563	Christian Weber	4	120	2024.5
+1564	Yidi Zhang	3	121	2024.33
+1565	Andy Nguyen	28	2867	2023.61
+1566	Pierpaolo Vittorini	6	115	2023.83
+1567	Rosabel Roig-Vila	4	554	2023.0
+1568	Gábor József Kiss	4	1	2024.5
+1569	Mikk Granström	3	86	2024.67
+1570	Héctor Galindo‐Domínguez	6	295	2024.33
+1571	Nadire Çavuş	3	43	2024.33
+1572	Pablo Dúo-Terrón	3	32	2023.67
+1573	Alexandra Santamaría Urbieta	4	111	2023.75
+1574	Mariacarla Di Gioia	3	74	2024.67
+1575	Tobias Antensteiner	3	22	2024.33
+1576	Marilena di Padova	8	9	2024.25
+1577	Cansu Koyutürk	4	74	2023.75
+1578	Adolfo Nuñez-Pérez	3	231	2023.67
+1579	Ada Łątkowska	7	54	2024.86
+1580	Filip Svacha	4	462	2024.75
+1581	Vanessa Pitrella	3	7	2024.33
+1582	Dilan Kalaycı Alas	4	13	2024.25
+1583	Oihane Unciti	3	27	2024.33
+1584	Maria Navío-Inglés	4	64	2024.25
+1585	Paula O’Connor-Jiménez	3	59	2024.33
+1586	Theresa Ruwe	3	90	2024.0
+1587	Rafael Zerega	3	11	2024.33
+1588	Lea Plößl	3	431	2024.0
+1589	Fabian Kieser	3	129	2024.0
+1590	Kamyar Zeinalipour	5	10	2024.0
+1591	Lea Herschbach	3	257	2024.33
+1592	Niklas Meißner	4	74	2023.75
+1593	Giulia Polverini	6	279	2024.33
+1594	Luis Márquez-Carpintero	3	26	2024.33
+1595	Constantina Corazon Argyrakou	3	25	2024.67
+1596	Aycan Küçükkaya	8	165	2024.0
+1597	Daphne Wong-A-Foe	3	12	2023.67
+1598	Barbara Sławińska	3	42	2024.67
+1599	Tomáš Kormaník	3	15	2023.67
+1600	Katarzyna Renik	3	19	2024.0
+1601	Katharina Anderer	3	57	2024.0
+1602	Anthony James Goodings	3	17	2024.67
+1603	Cornelia Linderoth	3	58	2024.67
+1604	Eetu Arkko	3	53	2024.0
+1605	Yasmina Richa	3	3	2024.0
+1606	Oliwia Sysło	3	42	2024.67
+1607	Elena Đerić	3	89	2024.67
+1608	Nikos Bessas	3	15	2024.33
+1609	Stefano Nera	3	19	2024.33
+1610	Erica Raina	3	19	2024.33
+1611	Leo Huovinen	3	15	2024.33
+1612	Konstantinos Aletras	3	4	2023.67
+1613	Sergio Arjona-Giner	4	7	2023.75
+1614	Rachid Ejjami -	5	110	2024.2
+1615	Andrea E. Cotino-Arbelo	5	18	2024.4
+1616	Tom Bleckmann	3	19	2024.33
+1617	Eduard Frankford	3	79	2024.33
+1618	Patrick Bassner	3	82	2024.67
+1619	Teija Paavilainen	3	17	2024.33
+1620	Nils Knoth	3	400	2024.67
+1621	Nicola Dainese	3	70	2024.33
+1622	Marta Żerek	3	7	2025.0
+1623	Gracjan Sitarek	3	7	2025.0
+1624	Stefano Tramacere	3	46	2024.0
+1625	Donya Rooein	4	8	2024.5
+1626	Alex Urmeneta	4	53	2024.25
+1627	Andreas Scholl	3	3	2024.67
+1628	Sergi Solera-Monforte	6	24	2024.5
+1629	Marta Slepankova	4	13	2024.75
+1630	Pieta Sikström	5	80	2024.8
+1631	Antun Drobnjak	3	6	2024.33
+1632	Kristina Krushinskaia	4	24	2024.75
+1633	Lukas Lehner	3	9	2024.33
+1634	Weiming Liu	3	31	2024.67
+1635	Shi Liu	3	9	2023.33
+1636	Chengming Zhang	3	425	2023.67
+1637	Maria A. Perifanou	4	55	2024.75
+1638	Philipp Leitner	4	34	2021.5
+1639	Andreas Maier	4	124	2023.25
+1640	Thimo Schulz	4	9	2023.75
+1641	Muhammad Irfan	4	81	2023.0
+1642	Andreas R. Dengel	4	50	2023.5
+1643	Hong Gao	4	52	2023.5
+1644	Nikolay Yanev	3	0	2025.0
+1645	Alexiei Dingli	5	24	2023.4
+1646	Alexandru-Corneliu Olteanu	3	10	2024.67
+1647	Tung Phung	6	204	2024.17
+1648	Raúl Santiago Campión	3	44	2024.67
+1649	Paul F. Funk	4	181	2024.0
+1650	Ayaz Karimov	4	25	2025.0
+1651	Paul P. Martin	5	117	2023.8
+1652	Dimitrios Vlachopoulos	3	742	2023.0
+1653	Nídia Salomé Morais	3	11	2024.33
+1654	Christoph Meinel	8	33	2024.12
+1655	Giovanni Arduini	3	1	2023.33
+1656	Cristina Cachero	4	294	2024.0
+1657	Zoltán Szűts	9	67	2024.22
+1658	Cindy Espinoza	3	8	2022.67
+1659	Saša Mladenović	3	13	2024.33
+1660	László Kovács	6	12	2023.5
+1661	Beth Havinga	3	126	2024.0
+1662	Adina Cocu	5	38	2025.0
+1663	José Alberto Quitério Figueiredo	4	50	2021.5
+1664	Francisco Manuel Morales Rodríguez	4	114	2021.75
+1665	Wojciech Jaworski	6	50	2024.83
+1666	Clemens Witt	3	18	2024.33
+1667	Anne Herrmann‐Werner	10	751	2024.0
+1668	José Luis Martín Núñez	4	90	2024.5
+1669	Andrea Fedele	3	46	2024.0
+1670	Jan Válek	3	12	2024.67
+1671	Agustín Garagorry Guerra	5	404	2024.0
+1672	Wolfram Hardt	3	24	2024.33
+1673	Veronika Gabaľová	5	0	2025.0
+1674	Roumen Ivanov Trifonov	3	25	2021.67
+1675	Fabrizio Schiavo	3	0	2024.67
+1676	Natalja Maksimova	3	19	2022.33
+1677	Silvia Tornusciolo	3	0	2024.0
+1678	Anna Radtke	4	25	2024.75
+1679	Pedro Filipe Oliveira	3	26	2023.67
+1680	Luisa Frede	3	25	2024.67
+1681	Nina Yarovenko-Kuzminykh	3	1	2024.67
+1682	Jari Laru	7	139	2024.29
+1683	Zuzanna Błecha	3	42	2024.67
+1684	Julia Więckiewicz-Modrzewska	4	7	2024.75
+1685	Daniela Hau	4	260	2024.75
+1686	Giulia Paludo	3	1	2024.67
+1687	Shatha N. Alkhasawneh	3	1	2025.0
+1688	Sana Nouzri	4	26	2024.75
+1689	Adrian Marius Dumitran	4	7	2024.75
+1690	Bénédicte Le Grand	3	14	2023.33
+1691	Hammou Fadili	4	238	2022.5
+1692	Marjan Krašna	6	80	2023.5
+1693	Dimitrios Gousopoulos	3	4	2024.0
+1694	S. Becker	4	82	2025.0
+1695	Olivier Bonnaud	3	0	2024.33
+1696	Constantin Adrian Andrei	3	35	2025.0
+1697	Marian Crăciun	4	23	2025.0
+1698	Alkiviadis Tsimpiris	3	58	2024.33
+1699	Vassilis P. Plagianakos	3	15	2024.33
+1700	Clara Evangelista	3	1	2024.0
+1701	Maryna Babayeva	3	33	2025.0
+1702	Peter A. Henning	4	21	2023.75
+1703	Pierre‐Yves Oudeyer	12	207	2023.42
+1704	Tapani Toivonen	10	623	2020.8
+1705	Mario Di Nardo	5	6	2025.0
+1706	Daniel A. Hashimoto	4	510	2023.75
+1707	Swapnil Morandé	3	29	2023.67
+1708	Senthil Kumar Jagatheesaperumal	3	93	2024.0
+1709	Ivan Đunđer	3	29	2022.0
+1710	Eileen Richter	4	26	2024.75
+1711	Valery Okulich-Kazarin	4	126	2023.75
+1712	Benjamin Jobs	3	97	2024.67
+1713	Tiago Carvalho Freitas	3	8	2024.0
+1714	Tjalf Ziemssen	3	55	2024.33
+1715	Diana-Coralia Dehelean	3	40	2025.0
+1716	Sachini Gunasekara	6	91	2025.0
+1717	Umberto Barbieri	6	3	2024.33
+1718	Luca Ballestra Caffaratti	3	12	2025.0
+1719	Emilia Lindroos	3	22	2025.0
+1720	Gianluca Gravino	3	0	2025.0
+1721	Marija Pokos Lukinec	3	5	2025.0
+1722	Ahmet Küçükuncular	3	46	2025.0
+1723	Maria Giovanna Tafuri	3	0	2024.67
+1724	Hedi Tebourbi	3	24	2025.0
+1725	Andreea Alexandra Anghel	5	38	2025.0
+1726	Sirine Bouguettaya	3	29	2025.0
+1727	Michalina Loson-Kawalec	6	15	2025.0
+1728	Aleksandra Wielochowska	5	15	2025.0
+1729	Dawid Boczkowski	5	15	2025.0
+1730	Dawid Bartosik	3	7	2025.0
+1731	Melania Olender	3	8	2025.0
+1732	Marija Zelić	3	12	2025.0
+1733	Ahmad Nabriz	3	15	2024.67
+1734	Fernando Vera	7	0	2023.43
+1735	Anders Berglund	3	5	2024.33

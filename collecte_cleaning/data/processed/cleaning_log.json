@@ -1,0 +1,15 @@
+{
+  "works_downloaded": 20057,
+  "authorship_rows_downloaded": 113252,
+  "authorship_rows_after_exact_dedup": 112972,
+  "works_after_version_merge": 19716,
+  "works_after_type_filter": 17933,
+  "works_after_relevance_rule": 10208,
+  "authorship_rows_final": 50726,
+  "final_share_missing": {
+    "abstract": 0.106,
+    "issn": 0.242,
+    "doi": 0.041,
+    "authorship_without_institution": 0.052
+  }
+}

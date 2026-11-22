@@ -1,0 +1,131 @@
+{
+  "ALL": {
+    "papers": 10208,
+    "institutions_all": {
+      "nodes": 5683,
+      "links": 54406
+    },
+    "institutions_eu_map": {
+      "nodes": 764,
+      "links": 6354,
+      "density": 0.0218,
+      "isolated_nodes": 14,
+      "largest_component_nodes": 748,
+      "largest_component_share": 0.979,
+      "mean_partners": 16.6
+    },
+    "authors_all": {
+      "nodes": 27485,
+      "links": 123108
+    },
+    "authors_map": {
+      "nodes": 1735,
+      "links": 3454,
+      "density": 0.0023,
+      "isolated_nodes": 253,
+      "largest_component_nodes": 644,
+      "largest_component_share": 0.371,
+      "mean_partners": 4.0
+    },
+    "countries": {
+      "nodes": 145,
+      "links": 3125,
+      "density": 0.2993,
+      "isolated_nodes": 0,
+      "largest_component_nodes": 145,
+      "largest_component_share": 1.0,
+      "mean_partners": 43.1,
+      "papers_with_2plus_eu_countries": 0.117,
+      "papers_with_non_eu_partner": 0.298
+    },
+    "keywords_map": {
+      "nodes": 340,
+      "links": 18701,
+      "density": 0.3245,
+      "isolated_nodes": 0,
+      "largest_component_nodes": 340,
+      "largest_component_share": 1.0,
+      "mean_partners": 110.0,
+      "themes": 7
+    }
+  },
+  "STRICT": {
+    "papers": 5927,
+    "institutions_all": {
+      "nodes": 4557,
+      "links": 46418
+    },
+    "institutions_eu_map": {
+      "nodes": 545,
+      "links": 4374,
+      "density": 0.0295,
+      "isolated_nodes": 10,
+      "largest_component_nodes": 535,
+      "largest_component_share": 0.982,
+      "mean_partners": 16.1
+    },
+    "authors_all": {
+      "nodes": 19000,
+      "links": 91803
+    },
+    "authors_map": {
+      "nodes": 1026,
+      "links": 2074,
+      "density": 0.0039,
+      "isolated_nodes": 144,
+      "largest_component_nodes": 396,
+      "largest_component_share": 0.386,
+      "mean_partners": 4.0
+    },
+    "countries": {
+      "nodes": 136,
+      "links": 2834,
+      "density": 0.3087,
+      "isolated_nodes": 0,
+      "largest_component_nodes": 136,
+      "largest_component_share": 1.0,
+      "mean_partners": 41.7,
+      "papers_with_2plus_eu_countries": 0.141,
+      "papers_with_non_eu_partner": 0.344
+    },
+    "keywords_map": {
+      "nodes": 313,
+      "links": 12809,
+      "density": 0.2623,
+      "isolated_nodes": 0,
+      "largest_component_nodes": 313,
+      "largest_component_share": 1.0,
+      "mean_partners": 81.8,
+      "themes": 5
+    }
+  },
+  "ALL_vs_STRICT": {
+    "institutions_in_both_maps": 545,
+    "spearman_partners": 0.944,
+    "top15_hubs_shared": 12
+  },
+  "settings": {
+    "LAYERS": [
+      "ALL",
+      "STRICT"
+    ],
+    "MIN_PAPERS_INSTITUTION_MAP": 5,
+    "MIN_PAPERS_AUTHOR_MAP": 3,
+    "MIN_KEYWORD_PAPERS": {
+      "ALL": 30,
+      "STRICT": 20
+    },
+    "GENERIC_KEYWORDS": [
+      "ai in education",
+      "artificial intelligence",
+      "artificial intelligence in education",
+      "artificial intelligence in higher education",
+      "deep learning",
+      "education",
+      "generative ai in education",
+      "machine learning"
+    ],
+    "SEED": 42,
+    "N_TOP": 15
+  }
+}

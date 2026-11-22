@@ -1,0 +1,16 @@
+work_id,doi_norm,title,year,type,is_repository,cited_by_count
+https://openalex.org/W7105989660,10.31219/osf.io/wskfv_v1,Better Savvy than Sorry: The requirements for AI Literacy in the EU AI Act,2025,preprint,True,0
+https://openalex.org/W4416918669,10.70012/csse.02.062,Coding with ChatGPT: Empirical Evidence of Cognitive Offloading in Computer Science Education,2025,article,False,2
+https://openalex.org/W7169756061,10.66781/heic.2025.09,Bridging the Gap: Aligning Higher Engineering Education with the Realities of AI-Driven Practice,2025,conference-paper,False,0
+https://openalex.org/W4413951534,10.31235/osf.io/k4ta7_v1,Teaching Artificial Intelligence in Business Schools: Applied Assignments for Skills and Competence Development,2025,preprint,True,0
+https://openalex.org/W4293093653,10.1109/icsmartgrid55722.2022.9848541,"Explainable Artificial Intelligence Models using Students' Academic Record Data, Tree Family Classifiers, and K-means Clustering to Predict Students' Performance",2022,conference-paper,False,0
+https://openalex.org/W4405611347,10.35542/osf.io/mujkh,Future Proofing Schools: Bringing School Policies into the AI Era,2024,preprint,True,0
+https://openalex.org/W4414338728,10.2196/preprints.84296,Breaking Barriers in Student Mental Health Care With AI-Enhanced Group Cognitive Behavioral Therapy: A Pilot Feasibility Study (Preprint),2025,preprint,True,0
+https://openalex.org/W4394846382,10.31237/osf.io/p54gk,Assessing Usability of Large Language Models in Education,2024,preprint,True,10
+https://openalex.org/W7117464209,10.1109/telecom66943.2025.11304041,AI in Computer-Aid Design of Components and Assemblies in Mechanical Engineering Education,2025,conference-paper,False,0
+https://openalex.org/W7169762485,10.66781/heic.2025.08,Beyond Detection: Rethinking AI Tool Use in Academic Theses,2025,conference-paper,False,0
+https://openalex.org/W4410483985,10.35542/osf.io/pzk9t_v1,The AIMED model: Creating opportunities for AI in Higher Education,2025,preprint,True,0
+https://openalex.org/W4389316388,10.33965/es_ml2023_202301l021,"""EDUCATIONAL, SOCIAL AND ETHICAL ASPECTS OF AI IN THE OPINION OF IT AND PEDAGOGY STUDENTS - A CASE STUDY""",2023,conference-paper,False,1
+https://openalex.org/W7106334953,10.36227/techrxiv.176045762.21711941/v1,A Toolkit for Sustainable Educational Environment in the Modern AI Era: Guidelines for Mitigating the Misuse of GenAI in Assessments,2025,preprint,True,3
+https://openalex.org/W3175260444,10.1109/temscon-eur52034.2021.9488627,A Cognitive Agent for University Student Support,2021,conference-paper,False,3
+https://openalex.org/W4391100736,10.36227/techrxiv.170593903.35081891/v1,Enhancing Multicultural and Multilingual Education through Problem-Based Teaching with Conversational AI: A ChatGPT Perspective,2024,preprint,True,7

@@ -1,0 +1,3 @@
+cluster,institutions,share_AIEd_topic,distinctive_topics,countries,main_country_share,example_institutions
+0,322,0.36,Artificial Intelligence in Education (36% vs 30%); Online Learning and Analytics (12% vs 10%); Teaching and Learning Programming (5% vs 4%),ES 48; DE 47; IT 26; PT 19,0.15,University of Eastern Finland; University of Oulu; University of Zagreb; Universidad de Salamanca
+1,133,0.15,Artificial Intelligence in Healthcare and Education (32% vs 12%); Innovations in Medical Education (1% vs 0%); Social Robot Interaction and HRI (1% vs 1%),DE 37; IT 27; NL 10; FR 9,0.28,Technical University of Munich; Ludwig-Maximilians-Universität München; University College Dublin; Centre National de la Recherche Scientifique

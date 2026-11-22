@@ -1,0 +1,17 @@
+{
+  "downloaded_at_utc": "2026-11-04T11:11:13+00:00",
+  "filter": "publication_year:2020-2025,authorships.institutions.country_code:AT|BE|BG|HR|CY|CZ|DK|EE|FI|FR|DE|GR|HU|IE|IT|LV|LT|LU|MT|NL|PL|PT|RO|SK|SI|ES|SE,title_and_abstract.search:(\"artificial intelligence\" OR \"machine learning\" OR \"deep learning\" OR chatgpt OR \"generative AI\" OR \"large language model\" OR \"learning analytics\" OR \"intelligent tutoring\" OR \"educational data mining\") AND (education OR teaching OR student OR \"higher education\" OR school OR classroom OR curriculum OR teacher)",
+  "query": "(\"artificial intelligence\" OR \"machine learning\" OR \"deep learning\" OR chatgpt OR \"generative AI\" OR \"large language model\" OR \"learning analytics\" OR \"intelligent tutoring\" OR \"educational data mining\") AND (education OR teaching OR student OR \"higher education\" OR school OR classroom OR curriculum OR teacher)",
+  "count_reported_by_api_per_year": {
+    "2020": 1277,
+    "2021": 1551,
+    "2022": 1723,
+    "2023": 2921,
+    "2024": 4886,
+    "2025": 7699
+  },
+  "count_reported_by_api": 20057,
+  "count_downloaded_unique": 20057,
+  "complete": true,
+  "limit_per_year": null
+}

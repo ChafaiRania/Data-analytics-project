@@ -1,0 +1,6 @@
+pandas>=2.0
+requests>=2.31
+# Person 2 (enrichment + RQ2 notebook)
+openpyxl>=3.0
+matplotlib>=3.5
+jupyter

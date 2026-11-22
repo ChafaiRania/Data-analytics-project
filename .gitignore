@@ -1,0 +1,8 @@
+__pycache__/
+.ipynb_checkpoints/
+.env
+*.pyc
+collecte_cleaning/data/raw/pages/
+collecte_cleaning/data/raw/works.jsonl.gz
+collecte_cleaning/data/processed/works.csv
+collecte_cleaning/data/raw/manual/ext_list_Sep_2026.xlsx

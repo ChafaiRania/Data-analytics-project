@@ -1,0 +1,51 @@
+source_id,source_name,source_type,issn_l,n_works,n_by_type,years,example_doi,best_fuzzy_candidate,fuzzy_score,manual_decision
+https://openalex.org/S4210180746,Advances in computational intelligence and robotics book series,book series,2327-0411,67,book-chapter:67,"2022,2023,2024,2025",10.4018/978-1-6684-6275-1.ch012,,,no
+https://openalex.org/S4306463937,Springer eBooks,ebook platform,,61,book-chapter:58; conference-paper:3,"2020,2021,2022,2023,2024,2025",10.1007/978-3-662-61755-7_15,Springer Handbooks,0.848,no
+https://openalex.org/S7407066639,Journal of Inclusive Methodology and Technology in Learning and Teaching,journal,2785-5104,60,article:59; review:1,"2023,2024,2025",10.32043/jimtlt.v3i4,,,no
+https://openalex.org/S4210179225,Advances in educational technologies and instructional design book series,book series,2326-8905,46,book-chapter:46,"2021,2022,2023,2024,2025",10.4018/978-1-7998-7103-3.ch006,,,no
+https://openalex.org/S4306463409,IGI Global eBooks,ebook platform,,29,book-chapter:29,"2020,2022,2025",10.4018/978-1-7998-5357-2.ch010,,,no
+https://openalex.org/S4306462995,Cambridge University Press eBooks,ebook platform,,27,book-chapter:27,"2021,2022,2023",10.1017/9781108874748.013,,,no
+https://openalex.org/S4306463236,Emerald Group Publishing Limited eBooks,ebook platform,,26,book-chapter:26,"2022,2023,2024,2025",10.1108/978-1-80043-700-520221006,,,no
+https://openalex.org/S2738950867,Cureus,journal,2168-8184,25,article:20; review:5,"2024,2025",10.7759/cureus.51466,,,no
+https://openalex.org/S4306511492,"Giornale Italiano di Educazione alla Salute, Sport e Didattica Inclusiva",journal,,24,article:24,"2020,2022,2023,2024,2025",10.32043/gsd.v4i4_sup.239,,,no
+https://openalex.org/S4210169493,BRAIN BROAD RESEARCH IN ARTIFICIAL INTELLIGENCE AND NEUROSCIENCE,journal,2068-0473,22,article:22,"2024,2025",10.18662/brain/15.2/562,,,no
+https://openalex.org/S4210204255,Ubiquity Proceedings,journal,2631-5602,18,article:18,"2023,2024,2025",10.5334/uproc.74,,,no
+https://openalex.org/S4210195699,Advances in analytics for learning and teaching,book series,2662-2122,16,book-chapter:16,"2020,2021,2022,2023,2024,2025",10.1007/978-3-030-41099-5_15,,,no
+https://openalex.org/S4220650861,INTED proceedings,journal,2340-1079,15,conference-paper:15,"2020,2021,2023,2024",10.21125/inted.2020.2150,,,no
+https://openalex.org/S4210222118,Studia z Teorii Wychowania,journal,2083-0998,14,article:14,"2023,2025",10.5604/01.3001.0053.9211,,,no
+https://openalex.org/S4210178509,Cognition and exploratory learning in the digital age,book series,2662-5628,13,book-chapter:13,"2022,2024,2025",10.1007/978-3-031-18512-0_3,,,no
+https://openalex.org/S2737795832,Form re - Open Journal per la formazione in rete,journal,1825-7321,13,article:13,"2020,2024,2025",10.13128/form-8113,,,no
+https://openalex.org/S2738441541,Italiano LinguaDue,journal,2037-3597,13,article:13,"2023,2024,2025",10.54103/2037-3597/22000,,,no
+https://openalex.org/S4210236958,EDEN Conference Proceedings,conference,2707-2819,12,conference-paper:12,2020,10.38069/edenconf-2020-ac0025,,,no
+https://openalex.org/S7407107135,European Association for Computer Assisted Language Learning Conference (EUROCALL),conference,,12,conference-paper:12,2025,10.4995/eurocall2025.2025.21212,,,no
+https://openalex.org/S4210187432,Strategies for Policy in Science and Education-Strategii na Obrazovatelnata i Nauchnata Politika,journal,1310-0270,12,article:12,"2024,2025",10.53656/str2024-4-1-att,,,no
+https://openalex.org/S4404677940,Proceedings of the International Conference on Information Systems Development,conference,2938-5202,11,conference-paper:11,"2024,2025",10.62036/isd.2024.25,,,unsure
+https://openalex.org/S2764482969,Annals of Faculty of Economics,journal,1222-569X,10,article:10,"2023,2024,2025",10.47535/1991auoes32(1)054,Annals of Financial Economics,0.814,no
+https://openalex.org/S4210199137,European Journal of Engineering and Technology Research,journal,2506-8016,10,article:10,"2023,2024,2025",10.24018/ejeng.2023.1.cie.3133,International Journal of Engineering and Technology (UAE),0.8,no
+https://openalex.org/S4210238830,Proceedings of the ... International Conference on Business Excellence,conference,2502-0226,10,conference-paper:10,"2024,2025",10.2478/picbe-2024-0283,Proceedings of the International Conference on Electronic Business (ICEB),0.847,unsure
+https://openalex.org/S4210205855,Scientific Papers of Silesian University of Technology Organization and Management Series,journal,1641-3466,10,article:10,"2023,2024,2025",10.29119/1641-3466.2023.172.13,,,no
+https://openalex.org/S7407087266,ACM Conference on Learning @ Scale (L@S),conference,,9,conference-paper:9,"2021,2022,2024,2025",10.1145/3430895.3460135,,,
+https://openalex.org/S7407087750,"ACM Conference on User Modeling, Adaptation and Personalization (UMAP)",conference,,9,conference-paper:9,"2023,2024,2025",10.1145/3563359.3597399,,,
+https://openalex.org/S4306417581,ACM Symposium on Applied Computing,conference,,9,conference-paper:9,"2024,2025",10.1145/3605098.3636055,,,
+https://openalex.org/S4210172619,Advances in higher education and professional development book series,book series,2327-6983,9,book-chapter:9,"2022,2023",10.4018/978-1-7998-9247-2.ch001,,,
+https://openalex.org/S7407088584,CHI Conference Extended Abstracts on Human Factors in Computing Systems (CHI EA),conference,,9,conference-paper:9,"2020,2022,2023,2024,2025",10.1145/3334480.3383060,,,
+https://openalex.org/S4387289871,EIKI Journal of Effective Teaching Methods,journal,2755-399X,9,article:9,"2024,2025",10.59652/jetm.v2i2.158,,,
+https://openalex.org/S7407096085,Findings of the Association for Computational Linguistics: EMNLP (Findings of EMNLP),conference,,9,conference-paper:9,"2023,2024,2025",10.18653/v1/2023.findings-emnlp.372,Findings of the Association for Computational Linguistics Findings of ACL: EMNLP 2020,0.909,
+https://openalex.org/S7407104546,International Conference on Artificial Intelligence and Teacher Education (ICAITE),conference,,9,conference-paper:9,"2024,2025",10.1145/3702386.3702389,"2025 2nd International Conference on Artificial Intelligence and Teacher Education, ICAITE 2025",0.92,
+https://openalex.org/S4363608594,"International Conference on Software, Telecommunications and Computer Networks (SoftCOM)",conference,,9,conference-paper:9,"2022,2023,2024,2025",10.23919/softcom55329.2022.9911349,"2024 32nd International Conference on Software, Telecommunications and Computer Networks, SoftCOM 2024",0.919,
+https://openalex.org/S4306498874,International Scientific Conference Electronics (ET),conference,,9,conference-paper:9,"2021,2022,2024,2025",10.1109/et52713.2021.9579795,,,
+https://openalex.org/S7407086953,International Workshop on Artificial Intelligence and Education (WAIE),conference,,9,conference-paper:9,"2020,2023,2024,2025",10.1145/3447490.3447505,"2025 7th International Workshop on Artificial Intelligence and Education, WAIE 2025",0.907,
+https://openalex.org/S4210190271,Irish Journal of Technology Enhanced Learning,journal,2009-972X,9,article:9,"2023,2024,2025",10.22554/ijtel.v7i1.114,International Journal of Technology Enhanced Learning,0.878,
+https://openalex.org/S4210215322,Különleges Bánásmód - Interdiszciplináris folyóirat,journal,2498-5368,9,article:9,2025,10.18458/kb.2025.2.19,,,
+https://openalex.org/S4210239070,Revista Internacional de Lenguas Extranjeras / International Journal of Foreign Languages,journal,2014-8100,9,article:8; review:1,2025,10.17345/rile23.4221,,,
+https://openalex.org/S7407076060,Transformar,journal,2735-6302,9,article:9,"2023,2024",,,,
+https://openalex.org/S4306417782,Australasian Computing Education Conference,conference,,8,conference-paper:8,"2022,2023,2024,2025",10.1145/3511861.3511863,,,
+https://openalex.org/S7407107767,Conference on United Kingdom & Ireland Computing Education Research (UKICER),conference,,8,conference-paper:8,"2023,2024,2025",10.1145/3610969.3610982,,,
+https://openalex.org/S7407106321,EUROCALL Conference,conference,,8,conference-paper:8,2024,10.4995/eurocall2024.2024.19067,,,
+https://openalex.org/S4387997390,European Journal of Contemporary Education and E-Learning,journal,2786-8710,8,article:8,"2024,2025",10.59324/ejceel.2024.2(2).07,European Journal of Contemporary Education,0.848,
+https://openalex.org/S4306418401,Experiment@International Conference,conference,,8,conference-paper:8,"2023,2025",10.1109/exp.at2358782.2023.10545665,,,
+https://openalex.org/S4387288395,International Journal of Advanced Natural Sciences and Engineering Researches,journal,2980-0811,8,article:8,"2023,2024,2025",10.59287/ijanser.562,International Journal of Advanced Science and Engineering,0.851,
+https://openalex.org/S4404533563,Proceedings of the International Conference on Networked Learning,journal,2794-7661,8,conference-paper:8,2024,10.54337/nlc.v14i1.8002,"Proceedings of the International Conference on e-Learning, ICEL",0.898,
+https://openalex.org/S7407086946,ACM International Conference on Interaction Design and Children (IDC),conference,,7,conference-paper:7,"2021,2023,2025",10.1145/3459990.3460719,"Proceedings of the 18th ACM International Conference on Interaction Design and Children, IDC 2019",0.822,
+https://openalex.org/S4210214366,Advances in Mobile Learning Educational Research,journal,2737-5676,7,article:6; review:1,"2023,2025",10.25082/amler.2023.02.009,,,
+https://openalex.org/S5407047793,BULETIN ŞTIINŢIFIC SERIA A Fascicula Pedagogie-Psihologie-Metodică,journal,3061-4058,7,article:7,"2024,2025",10.37193/bs-ppm.24.01,,,
